@@ -21,90 +21,61 @@ const d = {
                 more: "none",
             },
 			percentToQualify: 49,
-            verificationVid: "https://youtu.be/LKYqZHnEUc4",
+            verificationVid: "https://www.youtube.com/watch?v=LKYqZHnEUc4&t=186s",
             key: 0
         },
         /*=================================================================================*/
         {
             vids: [
-                {
-                    user: "Xelinox",
-                    link: "https://www.youtube.com/watch?v=K4gpm6DFhM0",
-                    percent: 100,
-                    hz: "240hz"
-                },
-                {
-                    user: "Tipp7",
-                    link: "https://www.youtube.com/watch?v=eziBOJsPU54",
-                    percent: 43
-                },
-                {
-                    user: "Robin",
-                    link: "https://www.youtube.com/watch?v=yjsnwn_sxps",
-                    percent: 42
-                }
             ],
-            name: "Zodiac",
-            author: "RicoLP and more [xander556]",
+            name: "Talk And Talk",
+            author: "IgongDae",
             mapInfo: {
-                simpleExp: "꺾이지 않을 것 같던 Bloodlust를 꺾다",
-                uploadDate: "2019.01.27",
-                verifingAtt: "61375",
-                long: "3분 15초",
-                highest: "1위",
-                more: "Enlex, Failure444, Marwec, Rustam, Pennutoh, Bianox, Dudex, DreamEater, TehTactiq, Samifying, Shocksidian, Aquatias, YakobNugget, SlimJim, Juhou, TMNGaming, Osiris GD, LeoCreatorX, RicoLP, Onnikonna, Uneskladovae",
+                simpleExp: "Talk And Talk - fromis9",
+                uploadDate: "2022.06.09",
+                verifingAtt: "2222",
+                long: "3분 38초",
+                highest: "2위",
+                more: "none",
             },
-			percentToQualify: 39,
-			hacked: true,
-            verificationVid: "https://www.youtube.com/watch?v=HCQK_y8JutU",
+			percentToQualify: 48,
+            verificationVid: "https://www.youtube.com/watch?v=ezeKiAuB4zk",
             key: 1
         },
         /*=================================================================================*/
         {
             vids: [
-                {
-                    user: "VoTcHi",
-                    link: "https://www.youtube.com/watch?v=BJY53jFOcz4",
-                    percent: 45,
-                    hz: "240hz Bypass"
-                },
             ],
-            name: "Kenos",
-            author: "Bianox and more [npesta]",
+            name: "SWAN",
+            author: "IgongDae [RedSwitch]",
             mapInfo: {
-                simpleExp: "돌아온 Sakupen Hell",
-                uploadDate: "2019.12.14",
-                verifingAtt: "135320",
-                long: "1분 57초",
-                highest: "2위",
-                more: "ChiefFlurry, Terron, Pennutoh, Krampux, Bianox, Eclipsed, SlimJim, Splash, nikroplays, Lazuli, Endlevel, Spectex, Zimnior12, Salaxium",
+                simpleExp: "환상동화 (Secret Story of the Swan) - IZ*ONE",
+                uploadDate: "2020.09.26",
+                verifingAtt: "1148",
+                long: "3분 13초",
+                highest: "3위",
+                more: "none",
             },
-            percentToQualify: 41,
-            verificationVid: "https://www.youtube.com/watch?v=Bs1kVySdUtI",
+            percentToQualify: 50,
+            verificationVid: "https://www.youtube.com/watch?v=Obm7L-0FE6s",
             key: 2
         },
         /*=================================================================================*/
         {
             vids: [
-                {
-                    user: "Sparky",
-                    link: "https://www.youtube.com/watch?v=kKV6wRUYO3U",
-                    percent: 100,
-                    hz: "240hz Bypass"
-                },
             ],
-            name: "Thinking Space",
-            author: "HidekiX [Atomic]",
+            name: "Kiss",
+            author: "IgongDae",
             mapInfo: {
-                simpleExp: "",
-                uploadDate: "2019.04.09",
-                verifingAtt: "75594",
+                simpleExp: "Kiss - NMIXX",
+                uploadDate: "2022.08.15",
+                verifingAtt: "2305",
                 long: "",
                 highest: "4위",
                 more: "none",
             },
-            percentToQualify: 59,
-            verificationVid: "https://www.youtube.com/watch?v=iHf2nanWjvE",
+            percentToQualify: 54,
+            verificationVid: "https://www.youtube.com/watch?v=J6JD6OLzNW0",
             key: 3
         },
         /*=================================================================================*/
