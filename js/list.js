@@ -4,24 +4,24 @@ const d = {
         {
             vids: [
                 {
-                    user: "Xelinox",
-                    link: "https://www.youtube.com/watch?v=B_QxKDl1FDU",
-                    percent: 60,
-                    hz: "240hz"
+                    user: "Guraud",
+                    link: "https://youtu.be/7pUACa6-D_Y",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
-            name: "Tartarus",
-            author: "Riot and more [Dolphy]",
+            name: "After Like",
+            author: "IgongDae",
             mapInfo: {
-                simpleExp: "또다시 정상을 차지한 1.9",
-                uploadDate: "2020.02.09",
-                verifingAtt: "205179",
-                long: "1분 32초",
+                simpleExp: "After Like - IVE",
+                uploadDate: "2022.09.19",
+                verifingAtt: "12340",
+                long: "1분 34초",
                 highest: "1위",
-                more: "Riot, Hinds, Aurorus, Vermillion, Cyclic, Rek3dge, Komp, Aquatias, Endlevel, Salaxium, Azuler",
+                more: "none",
             },
-			percentToQualify: 39,
-            verificationVid: "https://www.youtube.com/watch?v=Yx2IHj6YpRw",
+			percentToQualify: 49,
+            verificationVid: "https://youtu.be/LKYqZHnEUc4",
             key: 0
         },
         /*=================================================================================*/
