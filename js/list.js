@@ -324,7 +324,7 @@ const d = {
                 verifingAtt: "비공개",
                 long: "1분 31초",
                 highest: "15위",
-                more: "none",
+                more: "lCont, JRain, mooney67",
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=npfdfBfLZyg",
