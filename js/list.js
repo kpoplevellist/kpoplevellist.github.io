@@ -216,11 +216,173 @@ const d = {
                 verifingAtt: "697",
                 long: "2분 3초",
                 highest: "12위",
-                more: "jjs5821, JRain, ICont, Pium, W1NT3R, mooney67, Hand, By Player, HyunTrol, IgongDae",
+                more: "jjs5821, JRain, lCont, Pium, W1NT3R, mooney67, Hand, By Player, HyunTrol, IgongDae",
             },
             percentToQualify: 69,
-            verificationVid: "https://www.youtube.com/watch?v=ET-7tXIBitE",
+            verificationVid: "https://www.youtube.com/watch?v=-kkATsv_Gyc",
             key: 11
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Fiesta",
+            author: "IgongDae [BeCruX]",
+            mapInfo: {
+                simpleExp: "Fiesta - IZ*ONE",
+                uploadDate: "2020.03.05",
+                verifingAtt: "1545",
+                long: "3분 34초",
+                highest: "12위",
+                more: "none",
+            },
+            percentToQualify: 71,
+            verificationVid: "https://www.youtube.com/watch?v=xqHVSmm8Eoc",
+            key: 12
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Destiny",
+            author: "IgongDae & More [IgongDae]",
+            mapInfo: {
+                simpleExp: "우연이 아니야 - IZ*ONE",
+                uploadDate: "2020.05.15",
+                verifingAtt: "2562",
+                long: "3분 20초",
+                highest: "13위",
+                more: "RedSwitch, NeedInBalance, ItzPalLa, jjs5821, HyunTrol, IgongDae, Kowoo, Audiam",
+            },
+            percentToQualify: 66,
+            verificationVid: "https://www.youtube.com/watch?v=Lc4Ef9SG7Kk",
+            key: 13
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Fiesta",
+            author: "Kmini & More [Kmini]",
+            mapInfo: {
+                simpleExp: "Fiesta - IZ*ONE",
+                uploadDate: "2021.09.01",
+                verifingAtt: "",
+                long: "1분 57초",
+                highest: "14위",
+                more: "UlmomE, kar98, Alice, PLO, GD3NIV, AlmondCrash, Lebi06, GD HINIX, 후라보노, someoneD, afterless, siu, m4rine, Lunaris, wapon77, Cron7, iEstia, Vantablack, yonaka, LUX, An Gyung, Gpi, pororo7, galchi, lime0037",
+            },
+            percentToQualify: 67,
+            verificationVid: "https://www.youtube.com/watch?v=2suDFy8yOOE",
+            key: 14
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Beautiful Monster",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "Beautiful Monster - StayC",
+                uploadDate: "2022.09.23",
+                verifingAtt: "361",
+                long: "1분 16초",
+                highest: "16위",
+                more: "none",
+            },
+            percentToQualify: 70,
+            verificationVid: "https://www.youtube.com/watch?v=ZR3dLzFbziY",
+            key: 15
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Merry Go Round",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "회전목마 - IZ*ONE",
+                uploadDate: "2020.07.05",
+                verifingAtt: "821",
+                long: "1분 22초",
+                highest: "17위",
+                more: "none",
+            },
+            percentToQualify: 71,
+            verificationVid: "https://www.youtube.com/watch?v=Z0jIXPsGubc",
+            key: 16
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Alcohol Free",
+            author: "lCont & More [lCont]",
+            mapInfo: {
+                simpleExp: "Alcohol Free - Twice",
+                uploadDate: "2021.08.14",
+                verifingAtt: "비공개",
+                long: "1분 31초",
+                highest: "15위",
+                more: "none",
+            },
+            percentToQualify: 72,
+            verificationVid: "https://www.youtube.com/watch?v=npfdfBfLZyg",
+            key: 17
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Above The Sky",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "하늘 위로 - IZ*ONE",
+                uploadDate: "2020.04.30",
+                verifingAtt: "440",
+                long: "1분 21초",
+                highest: "18위",
+                more: "none",
+            },
+            percentToQualify: 72,
+            verificationVid: "https://www.youtube.com/watch?v=npfdfBfLZyg",
+            key: 18
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Smiley",
+            author: "IIDoMangII",
+            mapInfo: {
+                simpleExp: "Smiley - Choi Yena",
+                uploadDate: "2022.02.28",
+                verifingAtt: "비공개",
+                long: "1분 4초",
+                highest: "20위",
+                more: "none",
+            },
+            percentToQualify: 74,
+            verificationVid: "https://www.youtube.com/watch?v=9YvpHZn-UOQ",
+            key: 19
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "RUN2U",
+            author: "KrazyGFX",
+            mapInfo: {
+                simpleExp: "RUN2U - StayC",
+                uploadDate: "2022.09.13",
+                verifingAtt: "비공개",
+                long: "1분 34초",
+                highest: "18위",
+                more: "none",
+            },
+            percentToQualify: 73,
+            verificationVid: "https://www.youtube.com/watch?v=JuVgDTN_hP4",
+            key: 20
         },
         /*=================================================================================*/
     ],
