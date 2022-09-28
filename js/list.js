@@ -21,7 +21,7 @@ const d = {
                 more: "none",
             },
 			percentToQualify: 49,
-            verificationVid: "https://www.youtube.com/watch?v=LKYqZHnEUc4&t=186s",
+            verificationVid: "https://www.youtube.com/watch?v=LKYqZHnEUc4",
             key: 0
         },
         /*=================================================================================*/
@@ -31,7 +31,7 @@ const d = {
             name: "Talk And Talk",
             author: "IgongDae",
             mapInfo: {
-                simpleExp: "Talk And Talk - fromis9",
+                simpleExp: "Talk And Talk - fromis_9",
                 uploadDate: "2022.06.09",
                 verifingAtt: "2222",
                 long: "3분 38초",
@@ -70,13 +70,157 @@ const d = {
                 simpleExp: "Kiss - NMIXX",
                 uploadDate: "2022.08.15",
                 verifingAtt: "2305",
-                long: "",
+                long: "1분 29초",
                 highest: "4위",
                 more: "none",
             },
             percentToQualify: 54,
             verificationVid: "https://www.youtube.com/watch?v=J6JD6OLzNW0",
             key: 3
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Gangnam Style",
+            author: "KrazyGFX & More [Jhostyn Sanchez]",
+            mapInfo: {
+                simpleExp: "강남스타일 - PSY",
+                uploadDate: "2022.08.19",
+                verifingAtt: "비공개",
+                long: "3분 38초",
+                highest: "5위",
+                more: "enzw, Adelx, PaolZ, Killervn, Gawlex, Awnrie, Teraaa, SrAntho, Reizor, Aranda, Maury, iZann, ZoloV, SooJuii, MashDasher, Paquel, Darius, 1nvise, Qarlij, Seb4, 0rd3n4ry, Rebotxd, KrazyGFX, McMuffin",
+            },
+            percentToQualify: 59,
+            verificationVid: "https://www.youtube.com/watch?v=9z_4JmZ0irI",
+            key: 4
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Violeta",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "Violeta - IZ*ONE",
+                uploadDate: "2020.04.21",
+                verifingAtt: "2941",
+                long: "3분 18초",
+                highest: "6위",
+                more: "none",
+            },
+            percentToQualify: 60,
+            verificationVid: "https://www.youtube.com/watch?v=5cUEvttE2oM",
+            key: 5
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Rough",
+            author: "Kmini & More [zPlasmaLust]",
+            mapInfo: {
+                simpleExp: "시간을 달려서 - Rough",
+                uploadDate: "2020.02.29",
+                verifingAtt: "695",
+                long: "2분 17초",
+                highest: "7위",
+                more: "wapon77, galchi, gd hinix, itzhalfD, pororo7, someoneD, helenox, ItzXequari, sepalum, galchi, itzdubu, vantablack, itzhalfD, ionnGD, reippah, whitedwarf",
+            },
+            percentToQualify: 54,
+            verificationVid: "https://www.youtube.com/watch?v=Vf-FJIPpTTQ",
+            key: 6
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Love Shhh",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "Love Shhh - JO YURI",
+                uploadDate: "2022.07.26",
+                verifingAtt: "1043",
+                long: "1분 10초",
+                highest: "8위",
+                more: "none",
+            },
+            percentToQualify: 65,
+            verificationVid: "https://www.youtube.com/watch?v=lHTpZsN6Esg",
+            key: 7
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Stay This Way",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "Stay This Way - fromis_9",
+                uploadDate: "2022.06.30",
+                verifingAtt: "979",
+                long: "3분 10초",
+                highest: "9위",
+                more: "none",
+            },
+            percentToQualify: 55,
+            verificationVid: "https://www.youtube.com/watch?v=lHTpZsN6Esg",
+            key: 8
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Violeta",
+            author: "Pium & More [SangChun]",
+            mapInfo: {
+                simpleExp: "Violeta - IZ*ONE",
+                uploadDate: "2022.06.01",
+                verifingAtt: "비공개",
+                long: "3분 18초",
+                highest: "10위",
+                more: "Pium, XTG, Suta, SCATLIC, sumichib, Rallow, Projekt GD, Lov3z, Aluminium, Karnari, Lithentium, Intrix, Selity, Hand, Lunaris, hotdog, A2",
+            },
+            percentToQualify: 61,
+            verificationVid: "https://www.youtube.com/watch?v=2CF1E77xtjU",
+            key: 9
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Love Bomb",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "Love Bomb - fromis_9",
+                uploadDate: "2022.04.11",
+                verifingAtt: "999",
+                long: "3분 16초",
+                highest: "11위",
+                more: "none",
+            },
+            percentToQualify: 65,
+            verificationVid: "https://www.youtube.com/watch?v=ET-7tXIBitE",
+            key: 10
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "SO BAD",
+            author: "IgongDae & More [IgongDae]",
+            mapInfo: {
+                simpleExp: "SO BAD - StayC",
+                uploadDate: "2022.09.27",
+                verifingAtt: "697",
+                long: "2분 3초",
+                highest: "12위",
+                more: "jjs5821, JRain, ICont, Pium, W1NT3R, mooney67, Hand, By Player, HyunTrol, IgongDae",
+            },
+            percentToQualify: 69,
+            verificationVid: "https://www.youtube.com/watch?v=ET-7tXIBitE",
+            key: 11
         },
         /*=================================================================================*/
     ],
