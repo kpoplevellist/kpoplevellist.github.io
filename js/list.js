@@ -285,6 +285,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "JRain",
+                    link: "https://youtu.be/0IUdCP8e9E8",
+                    percent: 100,
+                    hz: "180hz"
+                },
             ],
             name: "Beautiful Monster",
             author: "IgongDae",
