@@ -117,6 +117,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Jirachi",
+                    link: "https://youtu.be/4_vdYvR9qFk",
+                    percent: 100,
+                    hz: "120hz(mobile)"
+                },
             ],
             name: "Rough",
             author: "Kmini & More [zPlasmaLust]",
@@ -183,6 +189,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Jirachi",
+                    link: "https://youtu.be/GoVnytg-36M",
+                    percent: 99,
+                    hz: "240hz"
+                },
             ],
             name: "Violeta",
             author: "Pium & More [SangChun]",
@@ -201,6 +213,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/JDDG_3zqoWM",
+                    percent: 100,
+                    hz: "144hz"
+                },
             ],
             name: "Love Bomb",
             author: "IgongDae",
@@ -369,6 +387,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Jirachi",
+                    link: "https://youtu.be/Z1PnbRO--6A",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Smiley",
             author: "IIDoMangII",
