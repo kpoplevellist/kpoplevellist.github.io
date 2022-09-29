@@ -141,6 +141,24 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+            ],
+            name: "Hann",
+            author: "Rallow & More [Rallow]",
+            mapInfo: {
+                simpleExp: "HANN (一) - (G)I-DLE",
+                uploadDate: "2022.01.01",
+                verifingAtt: "비공개",
+                long: "3분 30초",
+                highest: "8위",
+                more: "Hav, Sheryn, Muon, Tabun, Plon, Hily, Reippah, Rallow, Gpi, Hardbass, Hakua, Mephitz, Vue, Jun17, Ojinu, Vantablack, SomeoneD, Xeph, M4riNe, Rkskek, Xvoid, 3niv",
+            },
+            percentToQualify: 49,
+            verificationVid: "https://www.youtube.com/watch?v=MxcxTcXMUuA",
+            key: 7
+        },
+        /*=================================================================================*/
+        {
+            vids: [
                 {
                     user: "InterChange",
                     link: "https://youtu.be/xhmtflmTfiE",
@@ -160,7 +178,7 @@ const d = {
             },
             percentToQualify: 65,
             verificationVid: "https://www.youtube.com/watch?v=lHTpZsN6Esg",
-            key: 7
+            key: 8
         },
         /*=================================================================================*/
         {
@@ -184,7 +202,7 @@ const d = {
             },
             percentToQualify: 55,
             verificationVid: "https://www.youtube.com/watch?v=hHmQyfOuykU",
-            key: 8
+            key: 9
         },
         /*=================================================================================*/
         {
@@ -208,7 +226,7 @@ const d = {
             },
             percentToQualify: 61,
             verificationVid: "https://www.youtube.com/watch?v=2CF1E77xtjU",
-            key: 9
+            key: 10
         },
         /*=================================================================================*/
         {
@@ -232,7 +250,7 @@ const d = {
             },
             percentToQualify: 65,
             verificationVid: "https://www.youtube.com/watch?v=ET-7tXIBitE",
-            key: 10
+            key: 11
         },
         /*=================================================================================*/
         {
@@ -250,7 +268,25 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=-kkATsv_Gyc",
-            key: 11
+            key: 12
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "THE BADDEST",
+            author: "Maesile & More [Maesile]",
+            mapInfo: {
+                simpleExp: "THE BADDEST - K/DA",
+                uploadDate: "2022.03.30",
+                verifingAtt: "186+",
+                long: "2분 14초",
+                highest: "14위",
+                more: "Maesile, Goraei, Kinellaly, cccd, JRain, lCont, W1NT3R, Pium, mooney67",
+            },
+            percentToQualify: 58,
+            verificationVid: "https://www.youtube.com/watch?v=ftCkBCHgPMI",
+            key: 13
         },
         /*=================================================================================*/
         {
@@ -274,7 +310,7 @@ const d = {
             },
             percentToQualify: 71,
             verificationVid: "https://www.youtube.com/watch?v=xqHVSmm8Eoc",
-            key: 12
+            key: 14
         },
         /*=================================================================================*/
         {
@@ -292,7 +328,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=Lc4Ef9SG7Kk",
-            key: 13
+            key: 15
         },
         /*=================================================================================*/
         {
@@ -316,7 +352,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=2suDFy8yOOE",
-            key: 14
+            key: 16
         },
         /*=================================================================================*/
         {
@@ -340,7 +376,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=ZR3dLzFbziY",
-            key: 15
+            key: 17
         },
         /*=================================================================================*/
         {
@@ -358,7 +394,7 @@ const d = {
             },
             percentToQualify: 71,
             verificationVid: "https://www.youtube.com/watch?v=Z0jIXPsGubc",
-            key: 16
+            key: 18
         },
         /*=================================================================================*/
         {
@@ -376,7 +412,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=npfdfBfLZyg",
-            key: 17
+            key: 19
         },
         /*=================================================================================*/
         {
@@ -394,7 +430,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=OfVpc1rxoW0",
-            key: 18
+            key: 20
         },
         /*=================================================================================*/
         {
@@ -418,7 +454,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=9YvpHZn-UOQ",
-            key: 19
+            key: 21
         },
         /*=================================================================================*/
         {
@@ -436,7 +472,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=JuVgDTN_hP4",
-            key: 20
+            key: 22
         },
         /*=================================================================================*/
     ],
