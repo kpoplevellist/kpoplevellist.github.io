@@ -273,6 +273,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "JRain",
+                    link: "https://youtu.be/xiVHDF8WR5w",
+                    percent: 100,
+                    hz: "120hz"
+                },
             ],
             name: "THE BADDEST",
             author: "Maesile & More [Maesile]",
