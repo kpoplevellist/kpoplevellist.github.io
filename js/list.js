@@ -135,6 +135,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "InterChange",
+                    link: "https://youtu.be/xhmtflmTfiE",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Love Shhh",
             author: "IgongDae",
