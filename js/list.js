@@ -153,6 +153,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "JRain",
+                    link: "https://youtu.be/sUQtumOBEQY",
+                    percent: 100,
+                    hz: "120hz"
+                },
             ],
             name: "Stay This Way",
             author: "IgongDae",
