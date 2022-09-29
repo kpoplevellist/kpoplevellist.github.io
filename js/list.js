@@ -255,6 +255,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://www.youtube.com/watch?v=WfFiyEAl_z8",
+                    percent: 100,
+                    hz: "144hz"
+                },
             ],
             name: "Fiesta",
             author: "IgongDae [BeCruX]",
