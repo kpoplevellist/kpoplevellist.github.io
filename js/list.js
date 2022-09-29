@@ -297,6 +297,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Jirachi",
+                    link: "https://youtu.be/lGi4fgYriWg",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "Fiesta",
             author: "Kmini & More [Kmini]",
