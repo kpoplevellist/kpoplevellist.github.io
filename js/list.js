@@ -465,6 +465,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Compass",
+                    link: "https://youtu.be/pzilG9C2fqs",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "RUN2U",
             author: "KrazyGFX",
