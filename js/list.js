@@ -447,6 +447,12 @@ const d = {
                     percent: 100,
                     hz: "240hz"
                 },
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/OUmRqt-dkWs",
+                    percent: 100,
+                    hz: "144hz"
+                },
             ],
             name: "Smiley",
             author: "IIDoMangII",
@@ -465,6 +471,30 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/yvxnnRfnG7M",
+                    percent: 100,
+                    hz: "144hz"
+                },
+            ],
+            name: "F a n c y",
+            author: "Shiimapple",
+            mapInfo: {
+                simpleExp: "Fancy - Twice",
+                uploadDate: "2021.07.08",
+                verifingAtt: "비공개",
+                long: "1분 58초",
+                highest: "23위",
+                more: "none",
+            },
+            percentToQualify: 60,
+            verificationVid: "https://www.youtube.com/watch?v=369ogQz0BWA",
+            key: 22
+        },
+        /*=================================================================================*/
+        {
+            vids: [
             ],
             name: "Barcode",
             author: "Kjackpot",
@@ -478,7 +508,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
-            key: 22
+            key: 23
         },
         /*=================================================================================*/
         {
@@ -486,6 +516,12 @@ const d = {
                 {
                     user: "Compass",
                     link: "https://youtu.be/pzilG9C2fqs",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/kD5bk8G3gJQ",
                     percent: 100,
                     hz: "360hz"
                 },
@@ -502,7 +538,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=JuVgDTN_hP4",
-            key: 23
+            key: 24
         },
         /*=================================================================================*/
     ],
