@@ -465,6 +465,24 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+            ],
+            name: "Barcode",
+            author: "Kjackpot",
+            mapInfo: {
+                simpleExp: "바코드 - 김하온, 빈첸",
+                uploadDate: "2022.09.25",
+                verifingAtt: "비공개",
+                long: "3분 39초",
+                highest: "22위",
+                more: "none",
+            },
+            percentToQualify: 64,
+            verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
+            key: 22
+        },
+        /*=================================================================================*/
+        {
+            vids: [
                 {
                     user: "Compass",
                     link: "https://youtu.be/pzilG9C2fqs",
@@ -484,7 +502,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=JuVgDTN_hP4",
-            key: 22
+            key: 23
         },
         /*=================================================================================*/
     ],
