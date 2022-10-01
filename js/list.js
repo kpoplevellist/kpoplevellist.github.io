@@ -473,7 +473,7 @@ const d = {
                 uploadDate: "2022.09.25",
                 verifingAtt: "비공개",
                 long: "3분 39초",
-                highest: "22위",
+                highest: "23위",
                 more: "none",
             },
             percentToQualify: 64,
