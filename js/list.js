@@ -381,7 +381,7 @@ const d = {
             mapInfo: {
                 simpleExp: "Savage - Aespa",
                 uploadDate: "2022.03.06",
-                verifingAtt: "비",
+                verifingAtt: "비공개",
                 long: "1분 30초",
                 highest: "78503423",
                 more: "Reippah, Karnari, scatlic, Projekt GD, Ret0Lart, X1arm, Rallow, Aluminum, Ji han, M4riNe, Jun17, Gpi",
