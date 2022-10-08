@@ -609,6 +609,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/OMZoDWeznk0",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Say you love me",
             author: "Barang2 & More [Korea7723]",
