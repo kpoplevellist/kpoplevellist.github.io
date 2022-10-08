@@ -117,24 +117,6 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-            ],
-            name: "Violeta",
-            author: "IgongDae",
-            mapInfo: {
-                simpleExp: "Violeta - IZ*ONE",
-                uploadDate: "2020.04.21",
-                verifingAtt: "2941",
-                long: "3분 18초",
-                highest: "60991335",
-                more: "none",
-            },
-            percentToQualify: 60,
-            verificationVid: "https://www.youtube.com/watch?v=5cUEvttE2oM",
-            key: 6
-        },
-        /*=================================================================================*/
-        {
-            vids: [
                 {
                     user: "Jirachi",
                     link: "https://youtu.be/4_vdYvR9qFk",
@@ -154,7 +136,43 @@ const d = {
             },
             percentToQualify: 54,
             verificationVid: "https://www.youtube.com/watch?v=Vf-FJIPpTTQ",
+            key: 6
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "MANIAC",
+            author: "Adelx",
+            mapInfo: {
+                simpleExp: "Maniac - Stray Kids",
+                uploadDate: "2022.05.06",
+                verifingAtt: "비공개",
+                long: "1분 19초",
+                highest: "80008533",
+                more: "none",
+            },
+            percentToQualify: 59,
+            verificationVid: "https://www.youtube.com/watch?v=uaE3O5W-AoY",
             key: 7
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Violeta",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "Violeta - IZ*ONE",
+                uploadDate: "2020.04.21",
+                verifingAtt: "2941",
+                long: "3분 18초",
+                highest: "60991335",
+                more: "none",
+            },
+            percentToQualify: 60,
+            verificationVid: "https://www.youtube.com/watch?v=5cUEvttE2oM",
+            key: 8
         },
         /*=================================================================================*/
         {
@@ -172,7 +190,7 @@ const d = {
             },
             percentToQualify: 49,
             verificationVid: "https://www.youtube.com/watch?v=MxcxTcXMUuA",
-            key: 8
+            key: 9
         },
         /*=================================================================================*/
         {
@@ -196,7 +214,7 @@ const d = {
             },
             percentToQualify: 65,
             verificationVid: "https://www.youtube.com/watch?v=lHTpZsN6Esg",
-            key: 9
+            key: 10
         },
         /*=================================================================================*/
         {
@@ -220,7 +238,7 @@ const d = {
             },
             percentToQualify: 55,
             verificationVid: "https://www.youtube.com/watch?v=hHmQyfOuykU",
-            key: 10
+            key: 11
         },
         /*=================================================================================*/
         {
@@ -244,7 +262,7 @@ const d = {
             },
             percentToQualify: 61,
             verificationVid: "https://www.youtube.com/watch?v=2CF1E77xtjU",
-            key: 11
+            key: 12
         },
         /*=================================================================================*/
         {
@@ -268,7 +286,7 @@ const d = {
             },
             percentToQualify: 65,
             verificationVid: "https://www.youtube.com/watch?v=ET-7tXIBitE",
-            key: 12
+            key: 13
         },
         /*=================================================================================*/
         {
@@ -286,7 +304,7 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=-kkATsv_Gyc",
-            key: 13
+            key: 14
         },
         /*=================================================================================*/
         {
@@ -310,7 +328,7 @@ const d = {
             },
             percentToQualify: 58,
             verificationVid: "https://www.youtube.com/watch?v=ftCkBCHgPMI",
-            key: 14
+            key: 15
         },
         /*=================================================================================*/
         {
@@ -334,7 +352,7 @@ const d = {
             },
             percentToQualify: 71,
             verificationVid: "https://www.youtube.com/watch?v=xqHVSmm8Eoc",
-            key: 15
+            key: 16
         },
         /*=================================================================================*/
         {
@@ -352,7 +370,25 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=Lc4Ef9SG7Kk",
-            key: 16
+            key: 17
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Savage",
+            author: "Ret0Lart & More [Aluminum]",
+            mapInfo: {
+                simpleExp: "Savage - Aespa",
+                uploadDate: "2022.03.06",
+                verifingAtt: "",
+                long: "1분 30초",
+                highest: "78503423",
+                more: "Reippah, Karnari, scatlic, Projekt GD, Ret0Lart, X1arm, Rallow, Aluminum, Ji han, M4riNe, Jun17, Gpi",
+            },
+            percentToQualify: 66,
+            verificationVid: "https://www.youtube.com/watch?v=5_2DTX-yvNk",
+            key: 18
         },
         /*=================================================================================*/
         {
@@ -376,7 +412,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=2suDFy8yOOE",
-            key: 17
+            key: 19
         },
         /*=================================================================================*/
         {
@@ -400,7 +436,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=ZR3dLzFbziY",
-            key: 18
+            key: 20
         },
         /*=================================================================================*/
         {
@@ -418,7 +454,7 @@ const d = {
             },
             percentToQualify: 71,
             verificationVid: "https://www.youtube.com/watch?v=Z0jIXPsGubc",
-            key: 19
+            key: 21
         },
         /*=================================================================================*/
         {
@@ -442,7 +478,25 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=WKu6UD0vsRc",
-            key: 20
+            key: 22
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Lovesick Girl",
+            author: "Ret0Lart [Aluminum]",
+            mapInfo: {
+                simpleExp: "Lovesick Girl - BlackPink",
+                uploadDate: "2021.10.21",
+                verifingAtt: "비공개",
+                long: "1분 18초",
+                highest: "74077351",
+                more: "none",
+            },
+            percentToQualify: 69,
+            verificationVid: "https://www.youtube.com/watch?v=4Uh6lB8CcC0",
+            key: 23
         },
         /*=================================================================================*/
         {
@@ -460,7 +514,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=npfdfBfLZyg",
-            key: 21
+            key: 24
         },
         /*=================================================================================*/
         {
@@ -478,7 +532,25 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=OfVpc1rxoW0",
-            key: 22
+            key: 25
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Eleven",
+            author: "ItzPlon & More [Rallow]",
+            mapInfo: {
+                simpleExp: "Eleven - IVE",
+                uploadDate: "2022.05.03",
+                verifingAtt: "비공개",
+                long: "1분 3초",
+                highest: "79896786",
+                more: "Rosmotis, Newturn, Sungjin, Mephitz, Vue, Hily, Gpi, ItzPlon",
+            },
+            percentToQualify: 74,
+            verificationVid: "https://www.youtube.com/watch?v=yhSUOuWBnXs",
+            key: 26
         },
         /*=================================================================================*/
         {
@@ -502,7 +574,7 @@ const d = {
             },
             percentToQualify: 60,
             verificationVid: "https://www.youtube.com/watch?v=369ogQz0BWA",
-            key: 23
+            key: 27
         },
         /*=================================================================================*/
         {
@@ -532,7 +604,25 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=9YvpHZn-UOQ",
-            key: 24
+            key: 28
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Say you love me",
+            author: "Barang2 & More [Korea7723]",
+            mapInfo: {
+                simpleExp: "사랑한다고 말할까 - 탑현",
+                uploadDate: "2022.09.08",
+                verifingAtt: "733",
+                long: "1분 8초",
+                highest: "83507041",
+                more: "Barang2, Sean0712, Chop, Giga, Pirite, Aqua0607, Xerahh, KJohn27",
+            },
+            percentToQualify: 75,
+            verificationVid: "https://www.youtube.com/watch?v=fVZKQdVGnGM",
+            key: 29
         },
         /*=================================================================================*/
         {
@@ -550,7 +640,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
-            key: 25
+            key: 30
         },
         /*=================================================================================*/
         {
@@ -580,7 +670,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=JuVgDTN_hP4",
-            key: 26
+            key: 31
         },
         /*=================================================================================*/
     ],
