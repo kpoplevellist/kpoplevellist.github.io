@@ -556,6 +556,24 @@ const d = {
         {
             vids: [
             ],
+            name: "What is Love",
+            author: "Hotdog71 & Sweetdream [Sweetdream]",
+            mapInfo: {
+                simpleExp: "What is Love - Twice",
+                uploadDate: "2022.10.18",
+                verifingAtt: "비공개",
+                long: "3분 15초",
+                highest: "84758050",
+                more: "Hotdog71, Sweetdream",
+            },
+            percentToQualify: 70,
+            verificationVid: "https://www.youtube.com/watch?v=JX5JQKrJ5-0",
+            key: 27
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
             name: "Above The Sky",
             author: "IgongDae",
             mapInfo: {
@@ -568,7 +586,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=OfVpc1rxoW0",
-            key: 27
+            key: 28
         },
         /*=================================================================================*/
         {
@@ -586,7 +604,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=yhSUOuWBnXs",
-            key: 28
+            key: 29
         },
         /*=================================================================================*/
         {
@@ -610,7 +628,7 @@ const d = {
             },
             percentToQualify: 60,
             verificationVid: "https://www.youtube.com/watch?v=369ogQz0BWA",
-            key: 29
+            key: 30
         },
         /*=================================================================================*/
         {
@@ -640,7 +658,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=9YvpHZn-UOQ",
-            key: 30
+            key: 31
         },
         /*=================================================================================*/
         {
@@ -664,7 +682,7 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=fVZKQdVGnGM",
-            key: 31
+            key: 32
         },
         /*=================================================================================*/
         {
@@ -682,7 +700,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
-            key: 32
+            key: 33
         },
         /*=================================================================================*/
         {
@@ -712,7 +730,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=JuVgDTN_hP4",
-            key: 33
+            key: 34
         },
         /*=================================================================================*/
     ],
