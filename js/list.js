@@ -459,6 +459,24 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+            ],
+            name: "WA DA DA",
+            author: "JRain & More [JRain]",
+            mapInfo: {
+                simpleExp: "WA DA DA - Kep1er",
+                uploadDate: "2020.10.13",
+                verifingAtt: "650",
+                long: "1분 16초",
+                highest: "84594625",
+                more: "bls, JRain, Mooney67, Cont",
+            },
+            percentToQualify: 68,
+            verificationVid: "https://www.youtube.com/watch?v=FtnoWqjWRjg",
+            key: 22
+        },
+        /*=================================================================================*/
+        {
+            vids: [
                 {
                     user: "Jirachi",
                     link: "https://youtu.be/WKu6UD0vsRc",
@@ -478,7 +496,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=WKu6UD0vsRc",
-            key: 22
+            key: 23
         },
         /*=================================================================================*/
         {
@@ -496,7 +514,7 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=4Uh6lB8CcC0",
-            key: 23
+            key: 24
         },
         /*=================================================================================*/
         {
@@ -514,7 +532,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=npfdfBfLZyg",
-            key: 24
+            key: 25
         },
         /*=================================================================================*/
         {
@@ -532,7 +550,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=OfVpc1rxoW0",
-            key: 25
+            key: 26
         },
         /*=================================================================================*/
         {
@@ -550,7 +568,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=yhSUOuWBnXs",
-            key: 26
+            key: 27
         },
         /*=================================================================================*/
         {
@@ -574,7 +592,7 @@ const d = {
             },
             percentToQualify: 60,
             verificationVid: "https://www.youtube.com/watch?v=369ogQz0BWA",
-            key: 27
+            key: 28
         },
         /*=================================================================================*/
         {
@@ -604,7 +622,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=9YvpHZn-UOQ",
-            key: 28
+            key: 29
         },
         /*=================================================================================*/
         {
@@ -628,7 +646,7 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=fVZKQdVGnGM",
-            key: 29
+            key: 30
         },
         /*=================================================================================*/
         {
@@ -646,7 +664,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
-            key: 30
+            key: 31
         },
         /*=================================================================================*/
         {
@@ -676,7 +694,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=JuVgDTN_hP4",
-            key: 31
+            key: 32
         },
         /*=================================================================================*/
     ],
