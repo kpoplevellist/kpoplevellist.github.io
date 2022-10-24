@@ -464,7 +464,7 @@ const d = {
             author: "JRain & More [JRain]",
             mapInfo: {
                 simpleExp: "WA DA DA - Kep1er",
-                uploadDate: "2020.10.13",
+                uploadDate: "2022.10.13",
                 verifingAtt: "650",
                 long: "1분 16초",
                 highest: "84594625",
@@ -503,7 +503,7 @@ const d = {
             vids: [
             ],
             name: "Lovesick Girl",
-            author: "Ret0Lart [Aluminum]",
+            author: "Ret0Lart [Aluminium]",
             mapInfo: {
                 simpleExp: "Lovesick Girl - BlackPink",
                 uploadDate: "2021.10.21",
@@ -515,6 +515,24 @@ const d = {
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=4Uh6lB8CcC0",
             key: 24
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "STEREOTYPE",
+            author: "Aluminium & More [Aluminium]",
+            mapInfo: {
+                simpleExp: "색안경 - StayC",
+                uploadDate: "2022.08.25",
+                verifingAtt: "비공개",
+                long: "3분 12초",
+                highest: "83091137",
+                more: "Sercht, Rosmontis, Astatinegmd, XTGamers, Selity, Leaf, Gpi, Hand, ojinu, yukama, Aluminium, dodam, GD3NIV, SRAModumin",
+            },
+            percentToQualify: 62,
+            verificationVid: "https://www.youtube.com/watch?v=HX2wzHuj6uI",
+            key: 25
         },
         /*=================================================================================*/
         {
@@ -532,7 +550,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=npfdfBfLZyg",
-            key: 25
+            key: 26
         },
         /*=================================================================================*/
         {
@@ -550,7 +568,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=OfVpc1rxoW0",
-            key: 26
+            key: 27
         },
         /*=================================================================================*/
         {
@@ -568,7 +586,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=yhSUOuWBnXs",
-            key: 27
+            key: 28
         },
         /*=================================================================================*/
         {
@@ -592,7 +610,7 @@ const d = {
             },
             percentToQualify: 60,
             verificationVid: "https://www.youtube.com/watch?v=369ogQz0BWA",
-            key: 28
+            key: 29
         },
         /*=================================================================================*/
         {
@@ -622,7 +640,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=9YvpHZn-UOQ",
-            key: 29
+            key: 30
         },
         /*=================================================================================*/
         {
@@ -646,7 +664,7 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=fVZKQdVGnGM",
-            key: 30
+            key: 31
         },
         /*=================================================================================*/
         {
@@ -664,7 +682,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
-            key: 31
+            key: 32
         },
         /*=================================================================================*/
         {
@@ -694,7 +712,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=JuVgDTN_hP4",
-            key: 32
+            key: 33
         },
         /*=================================================================================*/
     ],
