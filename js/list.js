@@ -460,6 +460,36 @@ const d = {
         {
             vids: [
             ],
+            name: "Butter",
+            author: "LuX & more [Mephitz]",
+            mapInfo: {
+                simpleExp: "Butter - BTS",
+                uploadDate: "2021.08.22",
+                verifingAtt: "비공개",
+                long: "1분 47초",
+                highest: "72846139",
+                more: "x, LuX, Karnari, Milena22, Reippah, M4riNe, Jun17, Ulbome, Ojinu, Almondy, rkskek, vue, ItzPlon",
+            },
+            percentToQualify: 69,
+            verificationVid: "https://www.youtube.com/watch?v=uAvPzElEjsE",
+            key: 22
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "mooney67",
+                    link: "https://youtu.be/tr_YdNnv_X4",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/XiXygH_yTlA",
+                    percent: 100,
+                    hz: "240hz"
+                },
+            ],
             name: "WA DA DA",
             author: "JRain & More [JRain]",
             mapInfo: {
@@ -472,7 +502,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=FtnoWqjWRjg",
-            key: 22
+            key: 23
         },
         /*=================================================================================*/
         {
@@ -496,7 +526,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=WKu6UD0vsRc",
-            key: 23
+            key: 24
         },
         /*=================================================================================*/
         {
@@ -514,11 +544,17 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=4Uh6lB8CcC0",
-            key: 24
+            key: 25
         },
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Jirachi",
+                    link: "https://youtu.be/0bql6Udqif0",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "STEREOTYPE",
             author: "Aluminium & More [Aluminium]",
@@ -532,7 +568,7 @@ const d = {
             },
             percentToQualify: 62,
             verificationVid: "https://www.youtube.com/watch?v=HX2wzHuj6uI",
-            key: 25
+            key: 26
         },
         /*=================================================================================*/
         {
@@ -550,7 +586,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=npfdfBfLZyg",
-            key: 26
+            key: 27
         },
         /*=================================================================================*/
         {
@@ -568,7 +604,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=JX5JQKrJ5-0",
-            key: 27
+            key: 28
         },
         /*=================================================================================*/
         {
@@ -586,7 +622,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=OfVpc1rxoW0",
-            key: 28
+            key: 29
         },
         /*=================================================================================*/
         {
@@ -604,7 +640,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=yhSUOuWBnXs",
-            key: 29
+            key: 30
         },
         /*=================================================================================*/
         {
@@ -628,7 +664,7 @@ const d = {
             },
             percentToQualify: 60,
             verificationVid: "https://www.youtube.com/watch?v=369ogQz0BWA",
-            key: 30
+            key: 31
         },
         /*=================================================================================*/
         {
@@ -658,7 +694,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=9YvpHZn-UOQ",
-            key: 31
+            key: 32
         },
         /*=================================================================================*/
         {
@@ -682,7 +718,43 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=fVZKQdVGnGM",
-            key: 32
+            key: 33
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Permission to dance",
+            author: "IIDoMangII",
+            mapInfo: {
+                simpleExp: "Permission to dance - BTS",
+                uploadDate: "2021.12.18",
+                verifingAtt: "비공개",
+                long: "1분 2초",
+                highest: "76637333",
+                more: "none",
+            },
+            percentToQualify: 77,
+            verificationVid: "https://www.youtube.com/watch?v=TveOlTH-KNs",
+            key: 34
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Coin",
+            author: "IIDoMangII & Coinlol [IIDoMangII]",
+            mapInfo: {
+                simpleExp: "Coin - IU",
+                uploadDate: "2022.03.13",
+                verifingAtt: "비공개",
+                long: "1분 36초",
+                highest: "78749474",
+                more: "none",
+            },
+            percentToQualify: 76,
+            verificationVid: "https://www.youtube.com/watch?v=rrHhSKcgUEM",
+            key: 35
         },
         /*=================================================================================*/
         {
@@ -700,7 +772,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
-            key: 33
+            key: 36
         },
         /*=================================================================================*/
         {
@@ -730,7 +802,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=JuVgDTN_hP4",
-            key: 34
+            key: 37
         },
         /*=================================================================================*/
     ],
