@@ -789,6 +789,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/E0a8xxYrKWk",
+                    percent: 100,
+                    hz: "144hz"
+                },
             ],
             name: "RUN2U",
             author: "KrazyGFX",
