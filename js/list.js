@@ -591,24 +591,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-            ],
-            name: "What is Love",
-            author: "Hotdog71 & Sweetdream [Sweetdream]",
-            mapInfo: {
-                simpleExp: "What is Love - Twice",
-                uploadDate: "2022.10.18",
-                verifingAtt: "비공개",
-                long: "3분 15초",
-                highest: "84758050",
-                more: "Hotdog71, Sweetdream",
-            },
-            percentToQualify: 70,
-            verificationVid: "https://www.youtube.com/watch?v=JX5JQKrJ5-0",
-            key: 28
-        },
-        /*=================================================================================*/
-        {
-            vids: [
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/pCvS9sAHe00",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Above The Sky",
             author: "IgongDae",
@@ -622,6 +610,24 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=OfVpc1rxoW0",
+            key: 28
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "What is Love",
+            author: "Hotdog71 & Sweetdream [Sweetdream]",
+            mapInfo: {
+                simpleExp: "What is Love - Twice",
+                uploadDate: "2022.10.18",
+                verifingAtt: "비공개",
+                long: "3분 15초",
+                highest: "84758050",
+                more: "Hotdog71, Sweetdream",
+            },
+            percentToQualify: 70,
+            verificationVid: "https://www.youtube.com/watch?v=JX5JQKrJ5-0",
             key: 29
         },
         /*=================================================================================*/
