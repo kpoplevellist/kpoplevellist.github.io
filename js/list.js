@@ -595,7 +595,7 @@ const d = {
                     user: "Sweetdream",
                     link: "https://youtu.be/pCvS9sAHe00",
                     percent: 100,
-                    hz: "240hz"
+                    hz: "144hz"
                 },
             ],
             name: "Above The Sky",
