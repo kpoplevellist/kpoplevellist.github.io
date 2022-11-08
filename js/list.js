@@ -46,24 +46,6 @@ const d = {
         {
             vids: [
             ],
-            name: "SWAN",
-            author: "IgongDae [RedSwitch]",
-            mapInfo: {
-                simpleExp: "환상동화 (Secret Story of the Swan) - IZ*ONE",
-                uploadDate: "2020.09.26",
-                verifingAtt: "1148",
-                long: "3분 13초",
-                highest: "64199166",
-                more: "none",
-            },
-            percentToQualify: 50,
-            verificationVid: "https://www.youtube.com/watch?v=Obm7L-0FE6s",
-            key: 2
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
             name: "Kiss",
             author: "IgongDae",
             mapInfo: {
@@ -76,43 +58,25 @@ const d = {
             },
             percentToQualify: 54,
             verificationVid: "https://www.youtube.com/watch?v=J6JD6OLzNW0",
+            key: 2
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "SWAN",
+            author: "IgongDae [RedSwitch]",
+            mapInfo: {
+                simpleExp: "환상동화 (Secret Story of the Swan) - IZ*ONE",
+                uploadDate: "2020.09.26",
+                verifingAtt: "1148",
+                long: "3분 13초",
+                highest: "64199166",
+                more: "none",
+            },
+            percentToQualify: 50,
+            verificationVid: "https://www.youtube.com/watch?v=Obm7L-0FE6s",
             key: 3
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "119",
-            author: "Kjackpot & More [Kjackpot]",
-            mapInfo: {
-                simpleExp: "119 (Feat. GRAY) - nafla, pH-1, Kid Milli, OLNL (오르내림), 루피 (Loopy), SUPERBEE",
-                uploadDate: "2020.11.15",
-                verifingAtt: "비공개",
-                long: "3분 50초",
-                highest: "65200129",
-                more: "KJackpot, AnGyung, Funnygame, Partition, Soulsand, Magellan, Goateacher, NeedInBalance, R3ul, Fuyu",
-            },
-            percentToQualify: 44,
-            verificationVid: "https://www.youtube.com/watch?v=RqVqyU60fD0",
-            key: 4
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "Gangnam Style",
-            author: "KrazyGFX & More [Jhostyn Sanchez]",
-            mapInfo: {
-                simpleExp: "강남스타일 - PSY",
-                uploadDate: "2022.08.19",
-                verifingAtt: "비공개",
-                long: "3분 38초",
-                highest: "82814219",
-                more: "enzw, Adelx, PaolZ, Killervn, Gawlex, Awnrie, Teraaa, SrAntho, Reizor, Aranda, Maury, iZann, ZoloV, SooJuii, MashDasher, Paquel, Darius, 1nvise, Qarlij, Seb4, 0rd3n4ry, Rebotxd, KrazyGFX, McMuffin",
-            },
-            percentToQualify: 59,
-            verificationVid: "https://www.youtube.com/watch?v=9z_4JmZ0irI",
-            key: 5
         },
         /*=================================================================================*/
         {
@@ -136,25 +100,43 @@ const d = {
             },
             percentToQualify: 54,
             verificationVid: "https://www.youtube.com/watch?v=Vf-FJIPpTTQ",
-            key: 6
+            key: 4
         },
         /*=================================================================================*/
         {
             vids: [
             ],
-            name: "MANIAC",
-            author: "Adelx",
+            name: "119",
+            author: "Kjackpot & More [Kjackpot]",
             mapInfo: {
-                simpleExp: "Maniac - Stray Kids",
-                uploadDate: "2022.05.06",
+                simpleExp: "119 (Feat. GRAY) - nafla, pH-1, Kid Milli, OLNL (오르내림), 루피 (Loopy), SUPERBEE",
+                uploadDate: "2020.11.15",
                 verifingAtt: "비공개",
-                long: "1분 19초",
-                highest: "80008533",
-                more: "none",
+                long: "3분 50초",
+                highest: "65200129",
+                more: "KJackpot, AnGyung, Funnygame, Partition, Soulsand, Magellan, Goateacher, NeedInBalance, R3ul, Fuyu",
+            },
+            percentToQualify: 44,
+            verificationVid: "https://www.youtube.com/watch?v=RqVqyU60fD0",
+            key: 5
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Gangnam Style",
+            author: "KrazyGFX & More [Jhostyn Sanchez]",
+            mapInfo: {
+                simpleExp: "강남스타일 - PSY",
+                uploadDate: "2022.08.19",
+                verifingAtt: "비공개",
+                long: "3분 38초",
+                highest: "82814219",
+                more: "enzw, Adelx, PaolZ, Killervn, Gawlex, Awnrie, Teraaa, SrAntho, Reizor, Aranda, Maury, iZann, ZoloV, SooJuii, MashDasher, Paquel, Darius, 1nvise, Qarlij, Seb4, 0rd3n4ry, Rebotxd, KrazyGFX, McMuffin",
             },
             percentToQualify: 59,
-            verificationVid: "https://www.youtube.com/watch?v=uaE3O5W-AoY",
-            key: 7
+            verificationVid: "https://www.youtube.com/watch?v=9z_4JmZ0irI",
+            key: 6
         },
         /*=================================================================================*/
         {
@@ -172,7 +154,7 @@ const d = {
             },
             percentToQualify: 60,
             verificationVid: "https://www.youtube.com/watch?v=5cUEvttE2oM",
-            key: 8
+            key: 7
         },
         /*=================================================================================*/
         {
@@ -190,7 +172,7 @@ const d = {
             },
             percentToQualify: 49,
             verificationVid: "https://www.youtube.com/watch?v=MxcxTcXMUuA",
-            key: 9
+            key: 8
         },
         /*=================================================================================*/
         {
@@ -214,7 +196,7 @@ const d = {
             },
             percentToQualify: 65,
             verificationVid: "https://www.youtube.com/watch?v=lHTpZsN6Esg",
-            key: 10
+            key: 9
         },
         /*=================================================================================*/
         {
@@ -238,7 +220,7 @@ const d = {
             },
             percentToQualify: 55,
             verificationVid: "https://www.youtube.com/watch?v=hHmQyfOuykU",
-            key: 11
+            key: 10
         },
         /*=================================================================================*/
         {
@@ -262,6 +244,24 @@ const d = {
             },
             percentToQualify: 61,
             verificationVid: "https://www.youtube.com/watch?v=2CF1E77xtjU",
+            key: 11
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "MANIAC",
+            author: "Adelx",
+            mapInfo: {
+                simpleExp: "Maniac - Stray Kids",
+                uploadDate: "2022.05.06",
+                verifingAtt: "비공개",
+                long: "1분 19초",
+                highest: "80008533",
+                more: "none",
+            },
+            percentToQualify: 59,
+            verificationVid: "https://www.youtube.com/watch?v=uaE3O5W-AoY",
             key: 12
         },
         /*=================================================================================*/
