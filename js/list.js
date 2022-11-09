@@ -298,7 +298,7 @@ const d = {
                 simpleExp: "Open Your Eyes - IZ*ONE",
                 uploadDate: "2022.11.10",
                 verifingAtt: "1466",
-                long: "1분 15",
+                long: "1분 15초",
                 highest: "85510610",
                 more: "none",
             },
