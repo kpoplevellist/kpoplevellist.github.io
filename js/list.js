@@ -465,7 +465,7 @@ const d = {
                 more: "JRain, lCont, bls, mooney67",
             },
             percentToQualify: 66,
-            verificationVid: "https://www.youtube.com/watch?v=Z0jIXPsGubc",
+            verificationVid: "https://www.youtube.com/watch?v=p6Sl1H8QUzg",
             key: 22
         },
         /*=================================================================================*/
