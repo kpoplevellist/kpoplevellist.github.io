@@ -687,6 +687,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/h1EtvXCb2Xo",
+                    percent: 100,
+                    hz: "144hz"
+                },
             ],
             name: "Eleven",
             author: "ItzPlon & More [Rallow]",
@@ -741,6 +747,12 @@ const d = {
                     percent: 100,
                     hz: "144hz"
                 },
+                {
+                    user: "Korea7723",
+                    link: "https://youtu.be/-fn9DTfuvm4",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
             ],
             name: "Smiley",
             author: "IIDoMangII",
@@ -789,6 +801,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Korea7723",
+                    link: "https://youtu.be/obyKBQiJwEk",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
             ],
             name: "Permission to dance",
             author: "IIDoMangII",
