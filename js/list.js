@@ -369,30 +369,6 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-                {
-                    user: "IgongDae",
-                    link: "https://www.youtube.com/watch?v=WfFiyEAl_z8",
-                    percent: 100,
-                    hz: "144hz"
-                },
-            ],
-            name: "Fiesta",
-            author: "IgongDae [BeCruX]",
-            mapInfo: {
-                simpleExp: "Fiesta - IZ*ONE",
-                uploadDate: "2020.03.05",
-                verifingAtt: "1545",
-                long: "3분 34초",
-                highest: "59993066",
-                more: "none",
-            },
-            percentToQualify: 71,
-            verificationVid: "https://www.youtube.com/watch?v=xqHVSmm8Eoc",
-            key: 18
-        },
-        /*=================================================================================*/
-        {
-            vids: [
             ],
             name: "Destiny",
             author: "IgongDae & More [IgongDae]",
@@ -406,25 +382,25 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=Lc4Ef9SG7Kk",
-            key: 19
+            key: 18
         },
         /*=================================================================================*/
         {
             vids: [
             ],
-            name: "Savage",
-            author: "Ret0Lart & More [Aluminum]",
+            name: "Merry Go Round",
+            author: "IgongDae",
             mapInfo: {
-                simpleExp: "Savage - Aespa",
-                uploadDate: "2022.03.06",
-                verifingAtt: "비공개",
-                long: "1분 30초",
-                highest: "78503423",
-                more: "Reippah, Karnari, scatlic, Projekt GD, Ret0Lart, X1arm, Rallow, Aluminum, Ji han, M4riNe, Jun17, Gpi",
+                simpleExp: "회전목마 - IZ*ONE",
+                uploadDate: "2020.07.05",
+                verifingAtt: "821",
+                long: "1분 22초",
+                highest: "62558314",
+                more: "none",
             },
-            percentToQualify: 66,
-            verificationVid: "https://www.youtube.com/watch?v=5_2DTX-yvNk",
-            key: 20
+            percentToQualify: 71,
+            verificationVid: "https://www.youtube.com/watch?v=Z0jIXPsGubc",
+            key: 19
         },
         /*=================================================================================*/
         {
@@ -448,7 +424,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=2suDFy8yOOE",
-            key: 21
+            key: 20
         },
         /*=================================================================================*/
         {
@@ -466,6 +442,30 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=p6Sl1H8QUzg",
+            key: 21
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://www.youtube.com/watch?v=WfFiyEAl_z8",
+                    percent: 100,
+                    hz: "144hz"
+                },
+            ],
+            name: "Fiesta",
+            author: "IgongDae [BeCruX]",
+            mapInfo: {
+                simpleExp: "Fiesta - IZ*ONE",
+                uploadDate: "2020.03.05",
+                verifingAtt: "1545",
+                long: "3분 34초",
+                highest: "59993066",
+                more: "none",
+            },
+            percentToQualify: 71,
+            verificationVid: "https://www.youtube.com/watch?v=xqHVSmm8Eoc",
             key: 22
         },
         /*=================================================================================*/
@@ -496,18 +496,18 @@ const d = {
         {
             vids: [
             ],
-            name: "Merry Go Round",
-            author: "IgongDae",
+            name: "Savage",
+            author: "Ret0Lart & More [Aluminum]",
             mapInfo: {
-                simpleExp: "회전목마 - IZ*ONE",
-                uploadDate: "2020.07.05",
-                verifingAtt: "821",
-                long: "1분 22초",
-                highest: "62558314",
-                more: "none",
+                simpleExp: "Savage - Aespa",
+                uploadDate: "2022.03.06",
+                verifingAtt: "비공개",
+                long: "1분 30초",
+                highest: "78503423",
+                more: "Reippah, Karnari, scatlic, Projekt GD, Ret0Lart, X1arm, Rallow, Aluminum, Ji han, M4riNe, Jun17, Gpi",
             },
-            percentToQualify: 71,
-            verificationVid: "https://www.youtube.com/watch?v=Z0jIXPsGubc",
+            percentToQualify: 66,
+            verificationVid: "https://www.youtube.com/watch?v=5_2DTX-yvNk",
             key: 24
         },
         /*=================================================================================*/
