@@ -533,9 +533,9 @@ const d = {
             vids: [
                 {
                     user: "Korea7723",
-                    link: "https://youtu.be/PoBPYpaYQBc",
-                    percent: 86,
-                    hz: "120hz (mobile)"
+                    link: "https://youtu.be/hZuJSIOU3i8",
+                    percent: 100,
+                    hz: "165hz"
                 },
             ],
             name: "Butter",
