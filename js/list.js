@@ -429,6 +429,12 @@ const d = {
                     percent: 100,
                     hz: "60hz"
                 },
+                {
+                    user: "iRaily",
+                    link: "https://youtu.be/j9psirK4_3k",
+                    percent: 100,
+                    hz: "288hz"
+                },
             ],
             name: "Fiesta",
             author: "Kmini & More [Kmini]",
