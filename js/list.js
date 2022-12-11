@@ -675,6 +675,24 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+            ],
+            name: "dancing cartoon",
+            author: "MinYong05",
+            mapInfo: {
+                simpleExp: "Dancing Cartoon - BOL4",
+                uploadDate: "2022.12.11",
+                verifingAtt: "비공개",
+                long: "1분 2초",
+                highest: "86592149",
+                more: "none",
+            },
+            percentToQualify: 67,
+            verificationVid: "https://www.youtube.com/watch?v=aWtvq22bb8I",
+            key: 32
+        },
+        /*=================================================================================*/
+        {
+            vids: [
                 {
                     user: "Sweetdream",
                     link: "https://youtu.be/pCvS9sAHe00",
@@ -694,7 +712,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=OfVpc1rxoW0",
-            key: 32
+            key: 33
         },
         /*=================================================================================*/
         {
@@ -712,7 +730,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=JX5JQKrJ5-0",
-            key: 33
+            key: 34
         },
         /*=================================================================================*/
         {
@@ -736,7 +754,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=yhSUOuWBnXs",
-            key: 34
+            key: 35
         },
         /*=================================================================================*/
         {
@@ -760,7 +778,7 @@ const d = {
             },
             percentToQualify: 60,
             verificationVid: "https://www.youtube.com/watch?v=369ogQz0BWA",
-            key: 35
+            key: 36
         },
         /*=================================================================================*/
         {
@@ -796,7 +814,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=9YvpHZn-UOQ",
-            key: 36
+            key: 37
         },
         /*=================================================================================*/
         {
@@ -826,7 +844,7 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=fVZKQdVGnGM",
-            key: 37
+            key: 38
         },
         /*=================================================================================*/
         {
@@ -850,7 +868,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=TveOlTH-KNs",
-            key: 38
+            key: 39
         },
         /*=================================================================================*/
         {
@@ -868,7 +886,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=rrHhSKcgUEM",
-            key: 39
+            key: 40
         },
         /*=================================================================================*/
         {
@@ -886,7 +904,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
-            key: 40
+            key: 41
         },
         /*=================================================================================*/
         {
@@ -922,7 +940,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=JuVgDTN_hP4",
-            key: 41
+            key: 42
         },
         /*=================================================================================*/
     ],
