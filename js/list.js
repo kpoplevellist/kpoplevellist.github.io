@@ -819,6 +819,24 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+            ],
+            name: "Fire",
+            author: "DRIVER060",
+            mapInfo: {
+                simpleExp: "Fire - BTS",
+                uploadDate: "2018.09.",
+                verifingAtt: "비공개",
+                long: "2분 15초",
+                highest: "48902575",
+                more: "none",
+            },
+            percentToQualify: 68,
+            verificationVid: "https://www.youtube.com/watch?v=SJiJlLFeiqM",
+            key: 38
+        },
+        /*=================================================================================*/
+        {
+            vids: [
                 {
                     user: "IgongDae",
                     link: "https://youtu.be/OMZoDWeznk0",
@@ -844,7 +862,7 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=fVZKQdVGnGM",
-            key: 38
+            key: 39
         },
         /*=================================================================================*/
         {
@@ -868,7 +886,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=TveOlTH-KNs",
-            key: 39
+            key: 40
         },
         /*=================================================================================*/
         {
@@ -886,7 +904,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=rrHhSKcgUEM",
-            key: 40
+            key: 41
         },
         /*=================================================================================*/
         {
@@ -904,7 +922,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
-            key: 41
+            key: 42
         },
         /*=================================================================================*/
         {
@@ -940,7 +958,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=JuVgDTN_hP4",
-            key: 42
+            key: 43
         },
         /*=================================================================================*/
     ],
