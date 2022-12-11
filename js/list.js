@@ -961,6 +961,24 @@ const d = {
             key: 43
         },
         /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Feel My Rhythm",
+            author: "Johnnyvision",
+            mapInfo: {
+                simpleExp: "Feel My Rhythm - Red Velvet",
+                uploadDate: "2022.04.29",
+                verifingAtt: "비공개",
+                long: "0분 58초",
+                highest: "79832028",
+                more: "none",
+            },
+            percentToQualify: 77,
+            verificationVid: "https://www.youtube.com/watch?v=FbWDGFUIWyo",
+            key: 44
+        },
+        /*=================================================================================*/
     ],
     "version": [
         1,
