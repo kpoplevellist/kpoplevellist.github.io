@@ -345,6 +345,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "JRain",
+                    link: "https://youtu.be/UMPSSqR1sss",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "SO BAD",
             author: "IgongDae & More [IgongDae]",
@@ -657,24 +663,18 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-            ],
-            name: "Alcohol Free",
-            author: "lCont & More [lCont]",
-            mapInfo: {
-                simpleExp: "Alcohol Free - Twice",
-                uploadDate: "2021.08.14",
-                verifingAtt: "비공개",
-                long: "1분 31초",
-                highest: "72555622",
-                more: "lCont, JRain, mooney67",
-            },
-            percentToQualify: 72,
-            verificationVid: "https://www.youtube.com/watch?v=npfdfBfLZyg",
-            key: 31
-        },
-        /*=================================================================================*/
-        {
-            vids: [
+                {
+                    user: "JRain",
+                    link: "https://youtu.be/GJtL1HETZ1w",
+                    percent: 100,
+                    hz: "60hz"
+                },
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/K-LH_CYIYN0",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "dancing cartoon",
             author: "MinYong05",
@@ -688,6 +688,30 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=aWtvq22bb8I",
+            key: 31
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "JRain",
+                    link: "https://youtu.be/wA_UWOo83es",
+                    percent: 100,
+                    hz: "60hz"
+                },
+            ],
+            name: "Alcohol Free",
+            author: "lCont & More [lCont]",
+            mapInfo: {
+                simpleExp: "Alcohol Free - Twice",
+                uploadDate: "2021.08.14",
+                verifingAtt: "비공개",
+                long: "1분 31초",
+                highest: "72555622",
+                more: "lCont, JRain, mooney67",
+            },
+            percentToQualify: 72,
+            verificationVid: "https://www.youtube.com/watch?v=npfdfBfLZyg",
             key: 32
         },
         /*=================================================================================*/
@@ -819,12 +843,18 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/T_Vpmqb1xk8",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Fire",
             author: "DRIVER060",
             mapInfo: {
                 simpleExp: "Fire - BTS",
-                uploadDate: "2018.09.",
+                uploadDate: "2018.09.13",
                 verifingAtt: "비공개",
                 long: "2분 15초",
                 highest: "48902575",
@@ -945,6 +975,12 @@ const d = {
                     percent: 100,
                     hz: "144hz"
                 },
+                {
+                    user: "JRain",
+                    link: "https://youtu.be/j5veM1toL2g",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "RUN2U",
             author: "KrazyGFX",
@@ -963,6 +999,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/a3Osn3vheGM",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Feel My Rhythm",
             author: "Johnnyvision",
