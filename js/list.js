@@ -1,4 +1,4 @@
-'const d = {
+const d = {
     "list": [
         /*=================================================================================*/
         {
@@ -87,6 +87,7 @@
                     percent: 100,
                     hz: "120hz(mobile)"
                 },
+                {
                     user: "iRaily",
                     link: "https://youtu.be/-u5L63jhOTY",
                     percent: 100,
