@@ -793,7 +793,7 @@ const d = {
                     user: "IgongDae",
                     link: "https://youtu.be/h1EtvXCb2Xo",
                     percent: 100,
-                    hz: "144hz"
+                    hz: "360hz"
                 },
             ],
             name: "Eleven",
