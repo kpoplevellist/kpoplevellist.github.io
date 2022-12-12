@@ -87,6 +87,11 @@ const d = {
                     percent: 100,
                     hz: "120hz(mobile)"
                 },
+                    user: "iRaily",
+                    link: "https://youtu.be/-u5L63jhOTY",
+                    percent: 100,
+                    hz: "144hz"
+                },
             ],
             name: "Rough",
             author: "Kmini & More [zPlasmaLust]",
@@ -821,7 +826,7 @@ const d = {
                 uploadDate: "2021.07.08",
                 verifingAtt: "비공개",
                 long: "1분 58초",
-                highest: "71227264",
+                highest: "71227624",
                 more: "none",
             },
             percentToQualify: 60,
