@@ -777,6 +777,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/2iJxbD8oOMM",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "What is Love",
             author: "Hotdog71 & Sweetdream [Sweetdream]",
@@ -975,12 +981,18 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/F9u5zRQvRQ8",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Barcode",
             author: "Kjackpot",
             mapInfo: {
                 simpleExp: "바코드 - 김하온, 빈첸",
-                uploadDate: "2022.09.25",
+                uploadDate: "2020.09.25",
                 verifingAtt: "비공개",
                 long: "3분 39초",
                 highest: "64196306",
