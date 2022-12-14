@@ -136,24 +136,6 @@ const d = {
         {
             vids: [
             ],
-            name: "Violeta",
-            author: "IgongDae",
-            mapInfo: {
-                simpleExp: "Violeta - IZ*ONE",
-                uploadDate: "2020.04.21",
-                verifingAtt: "2941",
-                long: "3분 18초",
-                highest: "60991335",
-                more: "none",
-            },
-            percentToQualify: 60,
-            verificationVid: "https://www.youtube.com/watch?v=5cUEvttE2oM",
-            key: 7
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
             name: "Hann",
             author: "Rallow & More [Rallow]",
             mapInfo: {
@@ -166,6 +148,24 @@ const d = {
             },
             percentToQualify: 49,
             verificationVid: "https://www.youtube.com/watch?v=MxcxTcXMUuA",
+            key: 7
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Violeta",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "Violeta - IZ*ONE",
+                uploadDate: "2020.04.21",
+                verifingAtt: "2941",
+                long: "3분 18초",
+                highest: "60991335",
+                more: "none",
+            },
+            percentToQualify: 60,
+            verificationVid: "https://www.youtube.com/watch?v=5cUEvttE2oM",
             key: 8
         },
         /*=================================================================================*/
@@ -646,30 +646,6 @@ const d = {
         {
             vids: [
                 {
-                    user: "IgongDae",
-                    link: "https://youtu.be/Q-ZHTaVYtOo",
-                    percent: 100,
-                    hz: "360hz"
-                },
-            ],
-            name: "BlackPink",
-            author: "ShionYT",
-            mapInfo: {
-                simpleExp: "마지막처럼 - BlackPink",
-                uploadDate: "2020.11.06",
-                verifingAtt: "비공개",
-                long: "1분 2초",
-                highest: "65005764",
-                more: "none",
-            },
-            percentToQualify: 64,
-            verificationVid: "https://www.youtube.com/watch?v=TDF1I756SEM",
-            key: 30
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
                     user: "Jirachi",
                     link: "https://youtu.be/0bql6Udqif0",
                     percent: 100,
@@ -694,6 +670,30 @@ const d = {
             },
             percentToQualify: 62,
             verificationVid: "https://www.youtube.com/watch?v=HX2wzHuj6uI",
+            key: 30
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/Q-ZHTaVYtOo",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "BlackPink",
+            author: "ShionYT",
+            mapInfo: {
+                simpleExp: "마지막처럼 - BlackPink",
+                uploadDate: "2020.11.06",
+                verifingAtt: "비공개",
+                long: "1분 2초",
+                highest: "65005764",
+                more: "none",
+            },
+            percentToQualify: 64,
+            verificationVid: "https://www.youtube.com/watch?v=TDF1I756SEM",
             key: 31
         },
         /*=================================================================================*/
