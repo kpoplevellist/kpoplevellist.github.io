@@ -735,6 +735,12 @@ const d = {
                     percent: 100,
                     hz: "60hz"
                 },
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/QUyfBrQBYbM",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Alcohol Free",
             author: "lCont & More [lCont]",
@@ -880,6 +886,30 @@ const d = {
         {
             vids: [
                 {
+                    user: "IgongDae",
+                    link: "https://youtu.be/pB43pQOn50k",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "kda the baddest",
+            author: "telecoteco",
+            mapInfo: {
+                simpleExp: "THE BADDEST - K/DA",
+                uploadDate: "2018.09.13",
+                verifingAtt: "비공개",
+                long: "0분 45초",
+                highest: "63770852",
+                more: "none",
+            },
+            percentToQualify: 66,
+            verificationVid: "https://www.youtube.com/watch?v=xb1tXAVpErM",
+            key: 39
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
                     user: "Jirachi",
                     link: "https://youtu.be/Z1PnbRO--6A",
                     percent: 100,
@@ -910,7 +940,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=9YvpHZn-UOQ",
-            key: 39
+            key: 40
         },
         /*=================================================================================*/
         {
@@ -940,7 +970,7 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=fVZKQdVGnGM",
-            key: 40
+            key: 41
         },
         /*=================================================================================*/
         {
@@ -957,6 +987,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/V9KfYNDvN5I",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Permission to dance",
             author: "IIDoMangII",
@@ -970,11 +1006,17 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=TveOlTH-KNs",
-            key: 41
+            key: 42
         },
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/geZiVOPtVYU",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "Coin",
             author: "IIDoMangII & Coinlol [IIDoMangII]",
@@ -988,7 +1030,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=rrHhSKcgUEM",
-            key: 42
+            key: 43
         },
         /*=================================================================================*/
         {
@@ -1012,7 +1054,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
-            key: 43
+            key: 44
         },
         /*=================================================================================*/
         {
@@ -1054,7 +1096,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=JuVgDTN_hP4",
-            key: 44
+            key: 45
         },
         /*=================================================================================*/
         {
@@ -1084,7 +1126,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=FbWDGFUIWyo",
-            key: 45
+            key: 46
         },
         /*=================================================================================*/
     ],
