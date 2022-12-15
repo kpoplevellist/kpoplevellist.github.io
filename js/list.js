@@ -807,6 +807,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Compass",
+                    link: "https://youtu.be/Ck_CtBos--o",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Eleven",
             author: "ItzPlon & More [Rallow]",
@@ -945,6 +951,12 @@ const d = {
                     percent: 100,
                     hz: "120hz (mobile)"
                 },
+                {
+                    user: "Compass",
+                    link: "https://youtu.be/Ck_CtBos--o?t=98",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Permission to dance",
             author: "IIDoMangII",
@@ -1050,6 +1062,12 @@ const d = {
                 {
                     user: "IgongDae",
                     link: "https://youtu.be/a3Osn3vheGM",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "Compass",
+                    link: "https://youtu.be/Ck_CtBos--o?t=178",
                     percent: 100,
                     hz: "360hz"
                 },
