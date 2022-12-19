@@ -334,6 +334,42 @@ const d = {
         {
             vids: [
             ],
+            name: "TTT",
+            author: "IsmaHikari",
+            mapInfo: {
+                simpleExp: "Talk that Talk - Twice",
+                uploadDate: "2022.10.17",
+                verifingAtt: "비공개",
+                long: "2분 53초",
+                highest: "84736441",
+                more: "none",
+            },
+            percentToQualify: 66,
+            verificationVid: "https://www.youtube.com/watch?v=taThDX_r8IQ",
+            key: 16
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Destiny",
+            author: "IgongDae & More [IgongDae]",
+            mapInfo: {
+                simpleExp: "우연이 아니야 - IZ*ONE",
+                uploadDate: "2020.05.15",
+                verifingAtt: "2562",
+                long: "3분 20초",
+                highest: "61561391",
+                more: "RedSwitch, NeedInBalance, ItzPalLa, jjs5821, HyunTrol, IgongDae, Kowoo, Audiam",
+            },
+            percentToQualify: 66,
+            verificationVid: "https://www.youtube.com/watch?v=Lc4Ef9SG7Kk",
+            key: 17
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
             name: "Open Your Eyes",
             author: "IgongDae",
             mapInfo: {
@@ -346,7 +382,25 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=CfEMDvTDymQ",
-            key: 16
+            key: 18
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "SERENITY",
+            author: "irrene & More [irrene]",
+            mapInfo: {
+                simpleExp: "공중도둑 - 왜?",
+                uploadDate: "2022.11.07",
+                verifingAtt: "비공개",
+                long: "1분 27초",
+                highest: "85438734",
+                more: "tkcper1, shmanguy, skyeuwuu, Redlion_56, lexycat_, itzabunny, neohhhhhhhhhhhh, tooothpeck, Oneill28_, concretefork, redoneburgz, DaxHei, Kutsuuu, danpagnepapii, deactivelol",
+            },
+            percentToQualify: 68,
+            verificationVid: "https://www.youtube.com/watch?v=pD6a4L0s_cg",
+            key: 19
         },
         /*=================================================================================*/
         {
@@ -370,7 +424,7 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=-kkATsv_Gyc",
-            key: 17
+            key: 20
         },
         /*=================================================================================*/
         {
@@ -394,25 +448,7 @@ const d = {
             },
             percentToQualify: 58,
             verificationVid: "https://www.youtube.com/watch?v=ftCkBCHgPMI",
-            key: 18
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "Destiny",
-            author: "IgongDae & More [IgongDae]",
-            mapInfo: {
-                simpleExp: "우연이 아니야 - IZ*ONE",
-                uploadDate: "2020.05.15",
-                verifingAtt: "2562",
-                long: "3분 20초",
-                highest: "61561391",
-                more: "RedSwitch, NeedInBalance, ItzPalLa, jjs5821, HyunTrol, IgongDae, Kowoo, Audiam",
-            },
-            percentToQualify: 66,
-            verificationVid: "https://www.youtube.com/watch?v=Lc4Ef9SG7Kk",
-            key: 19
+            key: 21
         },
         /*=================================================================================*/
         {
@@ -430,7 +466,7 @@ const d = {
             },
             percentToQualify: 71,
             verificationVid: "https://www.youtube.com/watch?v=Z0jIXPsGubc",
-            key: 20
+            key: 22
         },
         /*=================================================================================*/
         {
@@ -460,7 +496,25 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=2suDFy8yOOE",
-            key: 21
+            key: 23
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "The Feels C",
+            author: "Johnnyvision & More [Johnnyvision]",
+            mapInfo: {
+                simpleExp: "The Feels - Twice",
+                uploadDate: "2022.02.05",
+                verifingAtt: "비공개",
+                long: "3분 16초",
+                highest: "77889143",
+                more: "MicronicXZ, HiroAkiba, AeroCGP, Jerryme, Partii, Apollymer, Janipol, Johnnyvision, WhiteFireGD, zXera, Ninjaism, Mechraze, Kippy, zCrazW, cymric, Janipol, Poog3rs, Skie, AnXgma, Mechraze, AshQt, Harry19, zrtwoxd, ZuriiGMD",
+            },
+            percentToQualify: 64,
+            verificationVid: "https://www.youtube.com/watch?v=kTlhI3DWRBk",
+            key: 24
         },
         /*=================================================================================*/
         {
@@ -478,7 +532,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=p6Sl1H8QUzg",
-            key: 22
+            key: 25
         },
         /*=================================================================================*/
         {
@@ -502,31 +556,7 @@ const d = {
             },
             percentToQualify: 71,
             verificationVid: "https://www.youtube.com/watch?v=xqHVSmm8Eoc",
-            key: 23
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "JRain",
-                    link: "https://youtu.be/0IUdCP8e9E8",
-                    percent: 100,
-                    hz: "180hz"
-                },
-            ],
-            name: "Beautiful Monster",
-            author: "IgongDae",
-            mapInfo: {
-                simpleExp: "Beautiful Monster - StayC",
-                uploadDate: "2022.09.23",
-                verifingAtt: "361",
-                long: "1분 16초",
-                highest: "83994655",
-                more: "none",
-            },
-            percentToQualify: 70,
-            verificationVid: "https://www.youtube.com/watch?v=ZR3dLzFbziY",
-            key: 24
+            key: 26
         },
         /*=================================================================================*/
         {
@@ -544,7 +574,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=5_2DTX-yvNk",
-            key: 25
+            key: 27
         },
         /*=================================================================================*/
         {
@@ -568,7 +598,49 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=uAvPzElEjsE",
-            key: 26
+            key: 28
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "WoW Layout",
+            author: "zFailon, Sidci [zFailon]",
+            mapInfo: {
+                simpleExp: "WOW - LOONA",
+                uploadDate: "2022.11.07",
+                verifingAtt: "비공개",
+                long: "1분 43초",
+                highest: "85409571",
+                more: "zFailon, Sidci",
+            },
+            percentToQualify: 65,
+            verificationVid: "https://www.youtube.com/watch?v=YgVyWPT3j28",
+            key: 29
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "JRain",
+                    link: "https://youtu.be/0IUdCP8e9E8",
+                    percent: 100,
+                    hz: "180hz"
+                },
+            ],
+            name: "Beautiful Monster",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "Beautiful Monster - StayC",
+                uploadDate: "2022.09.23",
+                verifingAtt: "361",
+                long: "1분 16초",
+                highest: "83994655",
+                more: "none",
+            },
+            percentToQualify: 70,
+            verificationVid: "https://www.youtube.com/watch?v=ZR3dLzFbziY",
+            key: 30
         },
         /*=================================================================================*/
         {
@@ -598,7 +670,43 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=FtnoWqjWRjg",
-            key: 27
+            key: 31
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "hula hoop",
+            author: "qarlij",
+            mapInfo: {
+                simpleExp: "Hula Hoop - LOONA",
+                uploadDate: "2022.06.30",
+                verifingAtt: "비공개",
+                long: "1분 5초",
+                highest: "81450308",
+                more: "none",
+            },
+            percentToQualify: 63,
+            verificationVid: "https://www.youtube.com/watch?v=wyDMV3slm40",
+            key: 32
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "fanfare",
+            author: "Daaaako & More [Daaaako]",
+            mapInfo: {
+                simpleExp: "Fanfare - Twice",
+                uploadDate: "2021.12.03",
+                verifingAtt: "비공개",
+                long: "2분 17초",
+                highest: "86314431",
+                more: "Daaaako, pickt, 언멍구, Luna, Dolphigh, 아스타틴, Reippah",
+            },
+            percentToQualify: 68,
+            verificationVid: "https://www.youtube.com/watch?v=Wz8RF8lwhfY",
+            key: 33
         },
         /*=================================================================================*/
         {
@@ -622,7 +730,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=WKu6UD0vsRc",
-            key: 28
+            key: 34
         },
         /*=================================================================================*/
         {
@@ -640,7 +748,43 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=4Uh6lB8CcC0",
-            key: 29
+            key: 35
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "BTS  DNA",
+            author: "lolbito",
+            mapInfo: {
+                simpleExp: "DNA - BTS",
+                uploadDate: "2019.03.15",
+                verifingAtt: "비공개",
+                long: "2분 47초",
+                highest: "71939283",
+                more: "54527013",
+            },
+            percentToQualify: 66,
+            verificationVid: "https://www.youtube.com/watch?v=KBqHhuy8vfY",
+            key: 36
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Alcohol Free L",
+            author: "Johnnyvision & More [Johnnyvision]",
+            mapInfo: {
+                simpleExp: "Alcohol Free - Twice",
+                uploadDate: "2021.07.30",
+                verifingAtt: "635",
+                long: "3분 28초",
+                highest: "71939283",
+                more: "xLapras, zXera, Ninjaism, HiroAkiba, WhiteFireGD, Lobbin, Johnnyvision, MicronicXZ, zXera, Itskippy, novakami, Jermeans, StaaTicz, Zerotwo7, Lordyam, IxFallen, Harry19, Hyp3rionic, Nereus, Stilwuf, Harry19",
+            },
+            percentToQualify: 64,
+            verificationVid: "https://www.youtube.com/watch?v=T7xSrLW9kRk",
+            key: 37
         },
         /*=================================================================================*/
         {
@@ -670,7 +814,7 @@ const d = {
             },
             percentToQualify: 62,
             verificationVid: "https://www.youtube.com/watch?v=HX2wzHuj6uI",
-            key: 30
+            key: 38
         },
         /*=================================================================================*/
         {
@@ -694,7 +838,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=TDF1I756SEM",
-            key: 31
+            key: 39
         },
         /*=================================================================================*/
         {
@@ -724,37 +868,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=aWtvq22bb8I",
-            key: 32
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "JRain",
-                    link: "https://youtu.be/wA_UWOo83es",
-                    percent: 100,
-                    hz: "60hz"
-                },
-                {
-                    user: "IgongDae",
-                    link: "https://youtu.be/QUyfBrQBYbM",
-                    percent: 100,
-                    hz: "360hz"
-                },
-            ],
-            name: "Alcohol Free",
-            author: "lCont & More [lCont]",
-            mapInfo: {
-                simpleExp: "Alcohol Free - Twice",
-                uploadDate: "2021.08.14",
-                verifingAtt: "비공개",
-                long: "1분 31초",
-                highest: "72555622",
-                more: "lCont, JRain, mooney67",
-            },
-            percentToQualify: 72,
-            verificationVid: "https://www.youtube.com/watch?v=npfdfBfLZyg",
-            key: 33
+            key: 40
         },
         /*=================================================================================*/
         {
@@ -778,31 +892,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=OfVpc1rxoW0",
-            key: 34
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "IgongDae",
-                    link: "https://youtu.be/2iJxbD8oOMM",
-                    percent: 100,
-                    hz: "360hz"
-                },
-            ],
-            name: "What is Love",
-            author: "Hotdog71 & Sweetdream [Sweetdream]",
-            mapInfo: {
-                simpleExp: "What is Love - Twice",
-                uploadDate: "2022.10.18",
-                verifingAtt: "비공개",
-                long: "3분 15초",
-                highest: "84758050",
-                more: "Hotdog71, Sweetdream",
-            },
-            percentToQualify: 70,
-            verificationVid: "https://www.youtube.com/watch?v=JX5JQKrJ5-0",
-            key: 35
+            key: 41
         },
         /*=================================================================================*/
         {
@@ -832,7 +922,79 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=yhSUOuWBnXs",
-            key: 36
+            key: 42
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "stigma v",
+            author: "lolbito",
+            mapInfo: {
+                simpleExp: "Stigma - V",
+                uploadDate: "2022.11.25",
+                verifingAtt: "비공개",
+                long: "3분 32초",
+                highest: "86045419",
+                more: "none",
+            },
+            percentToQualify: 71,
+            verificationVid: "https://www.youtube.com/watch?v=c5TJvaS4AIo",
+            key: 43
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "JRain",
+                    link: "https://youtu.be/wA_UWOo83es",
+                    percent: 100,
+                    hz: "60hz"
+                },
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/QUyfBrQBYbM",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "Alcohol Free",
+            author: "lCont & More [lCont]",
+            mapInfo: {
+                simpleExp: "Alcohol Free - Twice",
+                uploadDate: "2021.08.14",
+                verifingAtt: "비공개",
+                long: "1분 31초",
+                highest: "72555622",
+                more: "lCont, JRain, mooney67",
+            },
+            percentToQualify: 72,
+            verificationVid: "https://www.youtube.com/watch?v=npfdfBfLZyg",
+            key: 44
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/2iJxbD8oOMM",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "What is Love",
+            author: "Hotdog71 & Sweetdream [Sweetdream]",
+            mapInfo: {
+                simpleExp: "What is Love - Twice",
+                uploadDate: "2022.10.18",
+                verifingAtt: "비공개",
+                long: "3분 15초",
+                highest: "84758050",
+                more: "Hotdog71, Sweetdream",
+            },
+            percentToQualify: 70,
+            verificationVid: "https://www.youtube.com/watch?v=JX5JQKrJ5-0",
+            key: 45
         },
         /*=================================================================================*/
         {
@@ -856,7 +1018,7 @@ const d = {
             },
             percentToQualify: 60,
             verificationVid: "https://www.youtube.com/watch?v=369ogQz0BWA",
-            key: 37
+            key: 46
         },
         /*=================================================================================*/
         {
@@ -880,31 +1042,25 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=SJiJlLFeiqM",
-            key: 38
+            key: 47
         },
         /*=================================================================================*/
         {
             vids: [
-                {
-                    user: "IgongDae",
-                    link: "https://youtu.be/pB43pQOn50k",
-                    percent: 100,
-                    hz: "360hz"
-                },
             ],
-            name: "kda the baddest",
-            author: "telecoteco",
+            name: "How You like That",
+            author: "YahirGSL",
             mapInfo: {
-                simpleExp: "THE BADDEST - K/DA",
-                uploadDate: "2018.09.13",
+                simpleExp: "How You like That - BlackPink",
+                uploadDate: "2018.05.31",
                 verifingAtt: "비공개",
-                long: "0분 45초",
-                highest: "63770852",
+                long: "2분 56초",
+                highest: "80513498",
                 more: "none",
             },
-            percentToQualify: 66,
-            verificationVid: "https://www.youtube.com/watch?v=xb1tXAVpErM",
-            key: 39
+            percentToQualify: 67,
+            verificationVid: "https://www.youtube.com/watch?v=JlEjuF26ydU",
+            key: 48
         },
         /*=================================================================================*/
         {
@@ -940,7 +1096,127 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=9YvpHZn-UOQ",
-            key: 40
+            key: 49
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Fever",
+            author: "lolbito",
+            mapInfo: {
+                simpleExp: "Fever - Enhypen",
+                uploadDate: "2022.02.25",
+                verifingAtt: "비공개",
+                long: "2분 48초",
+                highest: "78364480",
+                more: "none",
+            },
+            percentToQualify: 67,
+            verificationVid: "https://www.youtube.com/watch?v=u5vIva8zMLg",
+            key: 50
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Good At Love",
+            author: "Sidci",
+            mapInfo: {
+                simpleExp: "Good at Love - Twice",
+                uploadDate: "2022.09.19",
+                verifingAtt: "비공개",
+                long: "0분 43초",
+                highest: "83832143",
+                more: "none",
+            },
+            percentToQualify: 70,
+            verificationVid: "https://www.youtube.com/watch?v=QWqNs9OnslM",
+            key: 51
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Talk That Talk",
+            author: "Sidci, KaTTharsis [Sidci]",
+            mapInfo: {
+                simpleExp: "Talk that Talk - Twice",
+                uploadDate: "2022.09.19",
+                verifingAtt: "비공개",
+                long: "0분 50초",
+                highest: "83832143",
+                more: "Sidci, KaTTharsis",
+            },
+            percentToQualify: 72,
+            verificationVid: "https://www.youtube.com/watch?v=KcoIwLCdsx0",
+            key: 52
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/geZiVOPtVYU",
+                    percent: 100,
+                    hz: "60hz"
+                },
+            ],
+            name: "Coin",
+            author: "IIDoMangII & Coinlol [IIDoMangII]",
+            mapInfo: {
+                simpleExp: "Coin - IU",
+                uploadDate: "2022.03.13",
+                verifingAtt: "비공개",
+                long: "1분 36초",
+                highest: "78749474",
+                more: "none",
+            },
+            percentToQualify: 76,
+            verificationVid: "https://www.youtube.com/watch?v=rrHhSKcgUEM",
+            key: 53
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/pB43pQOn50k",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "kda the baddest",
+            author: "telecoteco",
+            mapInfo: {
+                simpleExp: "THE BADDEST - K/DA",
+                uploadDate: "2018.09.13",
+                verifingAtt: "비공개",
+                long: "0분 45초",
+                highest: "63770852",
+                more: "none",
+            },
+            percentToQualify: 66,
+            verificationVid: "https://www.youtube.com/watch?v=xb1tXAVpErM",
+            key: 54
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Heart Shaker 2",
+            author: "Johnnyvision",
+            mapInfo: {
+                simpleExp: "Heart Shaker - Twice",
+                uploadDate: "2020.09.20",
+                verifingAtt: "비공개",
+                long: "3분 6초",
+                highest: "64115326",
+                more: "none",
+            },
+            percentToQualify: 67,
+            verificationVid: "https://www.youtube.com/watch?v=e4f7c531CuE",
+            key: 55
         },
         /*=================================================================================*/
         {
@@ -970,7 +1246,7 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=fVZKQdVGnGM",
-            key: 41
+            key: 56
         },
         /*=================================================================================*/
         {
@@ -1006,55 +1282,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=TveOlTH-KNs",
-            key: 42
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "IgongDae",
-                    link: "https://youtu.be/geZiVOPtVYU",
-                    percent: 100,
-                    hz: "60hz"
-                },
-            ],
-            name: "Coin",
-            author: "IIDoMangII & Coinlol [IIDoMangII]",
-            mapInfo: {
-                simpleExp: "Coin - IU",
-                uploadDate: "2022.03.13",
-                verifingAtt: "비공개",
-                long: "1분 36초",
-                highest: "78749474",
-                more: "none",
-            },
-            percentToQualify: 76,
-            verificationVid: "https://www.youtube.com/watch?v=rrHhSKcgUEM",
-            key: 43
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "IgongDae",
-                    link: "https://youtu.be/F9u5zRQvRQ8",
-                    percent: 100,
-                    hz: "360hz"
-                },
-            ],
-            name: "Barcode",
-            author: "Kjackpot",
-            mapInfo: {
-                simpleExp: "바코드 - 김하온, 빈첸",
-                uploadDate: "2020.09.25",
-                verifingAtt: "비공개",
-                long: "3분 39초",
-                highest: "64196306",
-                more: "none",
-            },
-            percentToQualify: 64,
-            verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
-            key: 44
+            key: 57
         },
         /*=================================================================================*/
         {
@@ -1096,7 +1324,67 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=JuVgDTN_hP4",
-            key: 45
+            key: 58
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/F9u5zRQvRQ8",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "Barcode",
+            author: "Kjackpot",
+            mapInfo: {
+                simpleExp: "바코드 - 김하온, 빈첸",
+                uploadDate: "2020.09.25",
+                verifingAtt: "비공개",
+                long: "3분 39초",
+                highest: "64196306",
+                more: "none",
+            },
+            percentToQualify: 64,
+            verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
+            key: 59
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Icon",
+            author: "KaTTharsis",
+            mapInfo: {
+                simpleExp: "Kill This Love - BlackPink",
+                uploadDate: "2022.10.21",
+                verifingAtt: "비공개",
+                long: "0분 40초",
+                highest: "86099453",
+                more: "none",
+            },
+            percentToQualify: 76,
+            verificationVid: "https://www.youtube.com/watch?v=5pOClFj_63c",
+            key: 60
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Kill This Love",
+            author: "issanagay",
+            mapInfo: {
+                simpleExp: "Kill This Love - BlackPink",
+                uploadDate: "2021.05.14",
+                verifingAtt: "비공개",
+                long: "1분 32초",
+                highest: "56896998",
+                more: "none",
+            },
+            percentToQualify: 73,
+            verificationVid: "https://www.youtube.com/watch?v=mpcZcOMe_go",
+            key: 61
         },
         /*=================================================================================*/
         {
@@ -1126,7 +1414,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=FbWDGFUIWyo",
-            key: 46
+            key: 62
         },
         /*=================================================================================*/
     ],
