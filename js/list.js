@@ -523,7 +523,7 @@ const d = {
             name: "In The Air",
             author: "JRain & More [JRain]",
             mapInfo: {
-                simpleExp: "TRI.BE - In The Air",
+                simpleExp: "In The Air - TRI.BE",
                 uploadDate: "2022.11.13",
                 verifingAtt: "비공개",
                 long: "2분 25초",
@@ -1358,7 +1358,7 @@ const d = {
             name: "Icon",
             author: "KaTTharsis",
             mapInfo: {
-                simpleExp: "Kill This Love - BlackPink",
+                simpleExp: "Icon - Twice",
                 uploadDate: "2022.10.21",
                 verifingAtt: "비공개",
                 long: "0분 40초",
