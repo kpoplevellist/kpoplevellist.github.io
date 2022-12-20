@@ -676,6 +676,25 @@ const d = {
         {
             vids: [
             ],
+            name: "BTS  DNA",
+            author: "lolbito",
+            mapInfo: {
+                simpleExp: "DNA - BTS",
+                uploadDate: "2019.03.15",
+                verifingAtt: "비공개",
+                long: "2분 47초",
+                highest: "71939283",
+                more: "54527013",
+            },
+            percentToQualify: 66,
+            verificationVid: "https://www.youtube.com/watch?v=KBqHhuy8vfY",
+            key: 32
+        },
+        /*=================================================================================*/
+
+        {
+            vids: [
+            ],
             name: "hula hoop",
             author: "qarlij",
             mapInfo: {
@@ -688,7 +707,7 @@ const d = {
             },
             percentToQualify: 63,
             verificationVid: "https://www.youtube.com/watch?v=wyDMV3slm40",
-            key: 32
+            key: 33
         },
         /*=================================================================================*/
         {
@@ -706,7 +725,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=Wz8RF8lwhfY",
-            key: 33
+            key: 34
         },
         /*=================================================================================*/
         {
@@ -730,7 +749,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=WKu6UD0vsRc",
-            key: 34
+            key: 35
         },
         /*=================================================================================*/
         {
@@ -748,43 +767,7 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=4Uh6lB8CcC0",
-            key: 35
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "BTS  DNA",
-            author: "lolbito",
-            mapInfo: {
-                simpleExp: "DNA - BTS",
-                uploadDate: "2019.03.15",
-                verifingAtt: "비공개",
-                long: "2분 47초",
-                highest: "71939283",
-                more: "54527013",
-            },
-            percentToQualify: 66,
-            verificationVid: "https://www.youtube.com/watch?v=KBqHhuy8vfY",
             key: 36
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "Alcohol Free L",
-            author: "Johnnyvision & More [Johnnyvision]",
-            mapInfo: {
-                simpleExp: "Alcohol Free - Twice",
-                uploadDate: "2021.07.30",
-                verifingAtt: "635",
-                long: "3분 28초",
-                highest: "71939283",
-                more: "xLapras, zXera, Ninjaism, HiroAkiba, WhiteFireGD, Lobbin, Johnnyvision, MicronicXZ, zXera, Itskippy, novakami, Jermeans, StaaTicz, Zerotwo7, Lordyam, IxFallen, Harry19, Hyp3rionic, Nereus, Stilwuf, Harry19",
-            },
-            percentToQualify: 64,
-            verificationVid: "https://www.youtube.com/watch?v=T7xSrLW9kRk",
-            key: 37
         },
         /*=================================================================================*/
         {
@@ -814,6 +797,24 @@ const d = {
             },
             percentToQualify: 62,
             verificationVid: "https://www.youtube.com/watch?v=HX2wzHuj6uI",
+            key: 37
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Alcohol Free L",
+            author: "Johnnyvision & More [Johnnyvision]",
+            mapInfo: {
+                simpleExp: "Alcohol Free - Twice",
+                uploadDate: "2021.07.30",
+                verifingAtt: "635",
+                long: "3분 28초",
+                highest: "71939283",
+                more: "xLapras, zXera, Ninjaism, HiroAkiba, WhiteFireGD, Lobbin, Johnnyvision, MicronicXZ, zXera, Itskippy, novakami, Jermeans, StaaTicz, Zerotwo7, Lordyam, IxFallen, Harry19, Hyp3rionic, Nereus, Stilwuf, Harry19",
+            },
+            percentToQualify: 64,
+            verificationVid: "https://www.youtube.com/watch?v=T7xSrLW9kRk",
             key: 38
         },
         /*=================================================================================*/
