@@ -391,7 +391,7 @@ const d = {
             name: "SERENITY",
             author: "irrene & More [irrene]",
             mapInfo: {
-                simpleExp: "공중도둑 - 왜?",
+                simpleExp: "왜? - 공중도둑",
                 uploadDate: "2022.11.07",
                 verifingAtt: "비공개",
                 long: "1분 27초",
@@ -1354,6 +1354,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/prRancXydIk",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Icon",
             author: "KaTTharsis",
