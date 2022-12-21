@@ -117,6 +117,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Sidci",
+                    link: "https://youtu.be/aghfkUbipak",
+                    percent: 100,
+                    hz: "165hz"
+                },
             ],
             name: "Gangnam Style",
             author: "KrazyGFX & More [Jhostyn Sanchez]",
@@ -603,6 +609,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Sidci",
+                    link: "https://youtu.be/YgVyWPT3j28",
+                    percent: 100,
+                    hz: "165hz"
+                },
             ],
             name: "WoW Layout",
             author: "zFailon, Sidci [zFailon]",
@@ -694,6 +706,12 @@ const d = {
 
         {
             vids: [
+                {
+                    user: "Sidci",
+                    link: "https://youtu.be/PcF6ivRJTzY",
+                    percent: 100,
+                    hz: "165hz"
+                },
             ],
             name: "hula hoop",
             author: "qarlij",
@@ -1102,6 +1120,12 @@ const d = {
                     percent: 100,
                     hz: "120hz (mobile)"
                 },
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/mxStDYKu2dk",
+                    percent: 100,
+                    hz: "144hz"
+                },
             ],
             name: "Smiley",
             author: "IIDoMangII",
@@ -1329,6 +1353,12 @@ const d = {
                     link: "https://youtu.be/j5veM1toL2g",
                     percent: 100,
                     hz: "60hz"
+                },
+                {
+                    user: "Sidci",
+                    link: "https://youtu.be/2q207_sGgeE",
+                    percent: 100,
+                    hz: "165hz"
                 },
             ],
             name: "RUN2U",
