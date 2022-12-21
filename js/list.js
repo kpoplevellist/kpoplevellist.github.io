@@ -1000,6 +1000,42 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+            ],
+            name: "Deja Vu",
+            author: "23138185 [JRain]",
+            mapInfo: {
+                simpleExp: "Deja Vu - DreamCatcher",
+                uploadDate: "2022.12.21",
+                verifingAtt: "181",
+                long: "0분 50초",
+                highest: "86734903",
+                more: "none",
+            },
+            percentToQualify: 66,
+            verificationVid: "https://www.youtube.com/watch?v=WFzmD_G4d2E",
+            key: 46
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "How You like That",
+            author: "YahirGSL",
+            mapInfo: {
+                simpleExp: "How You like That - BlackPink",
+                uploadDate: "2018.05.31",
+                verifingAtt: "비공개",
+                long: "2분 56초",
+                highest: "80513498",
+                more: "none",
+            },
+            percentToQualify: 67,
+            verificationVid: "https://www.youtube.com/watch?v=JlEjuF26ydU",
+            key: 47
+        },
+        /*=================================================================================*/
+        {
+            vids: [
                 {
                     user: "IgongDae",
                     link: "https://youtu.be/yvxnnRfnG7M",
@@ -1019,7 +1055,7 @@ const d = {
             },
             percentToQualify: 60,
             verificationVid: "https://www.youtube.com/watch?v=369ogQz0BWA",
-            key: 46
+            key: 48
         },
         /*=================================================================================*/
         {
@@ -1043,25 +1079,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=SJiJlLFeiqM",
-            key: 47
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "How You like That",
-            author: "YahirGSL",
-            mapInfo: {
-                simpleExp: "How You like That - BlackPink",
-                uploadDate: "2018.05.31",
-                verifingAtt: "비공개",
-                long: "2분 56초",
-                highest: "80513498",
-                more: "none",
-            },
-            percentToQualify: 67,
-            verificationVid: "https://www.youtube.com/watch?v=JlEjuF26ydU",
-            key: 48
+            key: 49
         },
         /*=================================================================================*/
         {
@@ -1097,7 +1115,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=9YvpHZn-UOQ",
-            key: 49
+            key: 50
         },
         /*=================================================================================*/
         {
@@ -1115,7 +1133,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=u5vIva8zMLg",
-            key: 50
+            key: 51
         },
         /*=================================================================================*/
         {
@@ -1133,7 +1151,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=QWqNs9OnslM",
-            key: 51
+            key: 52
         },
         /*=================================================================================*/
         {
@@ -1151,7 +1169,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=KcoIwLCdsx0",
-            key: 52
+            key: 53
         },
         /*=================================================================================*/
         {
@@ -1175,7 +1193,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=rrHhSKcgUEM",
-            key: 53
+            key: 54
         },
         /*=================================================================================*/
         {
@@ -1199,7 +1217,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=xb1tXAVpErM",
-            key: 54
+            key: 55
         },
         /*=================================================================================*/
         {
@@ -1217,7 +1235,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=e4f7c531CuE",
-            key: 55
+            key: 56
         },
         /*=================================================================================*/
         {
@@ -1247,7 +1265,7 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=fVZKQdVGnGM",
-            key: 56
+            key: 57
         },
         /*=================================================================================*/
         {
@@ -1283,7 +1301,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=TveOlTH-KNs",
-            key: 57
+            key: 58
         },
         /*=================================================================================*/
         {
@@ -1325,7 +1343,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=JuVgDTN_hP4",
-            key: 58
+            key: 59
         },
         /*=================================================================================*/
         {
@@ -1349,7 +1367,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
-            key: 59
+            key: 60
         },
         /*=================================================================================*/
         {
@@ -1373,7 +1391,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=5pOClFj_63c",
-            key: 60
+            key: 61
         },
         /*=================================================================================*/
         {
@@ -1391,7 +1409,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=mpcZcOMe_go",
-            key: 61
+            key: 62
         },
         /*=================================================================================*/
         {
@@ -1421,7 +1439,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=FbWDGFUIWyo",
-            key: 62
+            key: 63
         },
         /*=================================================================================*/
     ],
