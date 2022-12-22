@@ -1252,6 +1252,30 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/F5a5KMdC7VA",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "Say you Love me",
+            author: "Shiimapple",
+            mapInfo: {
+                simpleExp: "Say You Love Me - Twice",
+                uploadDate: "2019.12.05",
+                verifingAtt: "비공개",
+                long: "1분 20초",
+                highest: "58518625",
+                more: "none",
+            },
+            percentToQualify: 71,
+            verificationVid: "https://www.youtube.com/watch?v=YiB0dsSGfrA",
+            key: 56
+        },
+        /*=================================================================================*/
+        {
+            vids: [
             ],
             name: "Heart Shaker 2",
             author: "Johnnyvision",
@@ -1265,7 +1289,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=e4f7c531CuE",
-            key: 56
+            key: 57
         },
         /*=================================================================================*/
         {
@@ -1295,7 +1319,7 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=fVZKQdVGnGM",
-            key: 57
+            key: 58
         },
         /*=================================================================================*/
         {
@@ -1319,7 +1343,7 @@ const d = {
                     hz: "360hz"
                 },
             ],
-            name: "Permission to dance",
+            name: "permission to dance",
             author: "IIDoMangII",
             mapInfo: {
                 simpleExp: "Permission to dance - BTS",
@@ -1331,7 +1355,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=TveOlTH-KNs",
-            key: 58
+            key: 59
         },
         /*=================================================================================*/
         {
@@ -1379,7 +1403,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=JuVgDTN_hP4",
-            key: 59
+            key: 60
         },
         /*=================================================================================*/
         {
@@ -1403,7 +1427,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
-            key: 60
+            key: 61
         },
         /*=================================================================================*/
         {
@@ -1427,7 +1451,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=5pOClFj_63c",
-            key: 61
+            key: 62
         },
         /*=================================================================================*/
         {
@@ -1445,7 +1469,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=mpcZcOMe_go",
-            key: 62
+            key: 63
         },
         /*=================================================================================*/
         {
@@ -1475,7 +1499,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=FbWDGFUIWyo",
-            key: 63
+            key: 64
         },
         /*=================================================================================*/
     ],
