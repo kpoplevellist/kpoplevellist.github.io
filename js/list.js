@@ -928,6 +928,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Korea7723",
+                    link: "https://youtu.be/0Do181IzgHY",
+                    percent: 100,
+                    hz: "165hz"
+                },
             ],
             name: "Eleven",
             author: "ItzPlon & More [Rallow]",
