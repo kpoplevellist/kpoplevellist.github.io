@@ -712,6 +712,12 @@ const d = {
                     percent: 100,
                     hz: "165hz"
                 },
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/OnArchw6weY",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "hula hoop",
             author: "qarlij",
@@ -772,8 +778,14 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/TmqUPJeSsWw",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
-            name: "Lovesick Girl",
+            name: "Lovesick Girls",
             author: "Ret0Lart [Aluminium]",
             mapInfo: {
                 simpleExp: "Lovesick Girl - BlackPink",
