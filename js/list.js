@@ -875,6 +875,30 @@ const d = {
         {
             vids: [
                 {
+                    user: "IgongDae",
+                    link: "https://youtu.be/N-8RUoyIijU",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "Good At Love",
+            author: "Sidci",
+            mapInfo: {
+                simpleExp: "Good at Love - Twice",
+                uploadDate: "2022.09.19",
+                verifingAtt: "비공개",
+                long: "0분 43초",
+                highest: "83832143",
+                more: "none",
+            },
+            percentToQualify: 70,
+            verificationVid: "https://www.youtube.com/watch?v=QWqNs9OnslM",
+            key: 40
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
                     user: "JRain",
                     link: "https://youtu.be/GJtL1HETZ1w",
                     percent: 100,
@@ -899,7 +923,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=aWtvq22bb8I",
-            key: 40
+            key: 41
         },
         /*=================================================================================*/
         {
@@ -923,7 +947,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=OfVpc1rxoW0",
-            key: 41
+            key: 42
         },
         /*=================================================================================*/
         {
@@ -959,7 +983,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=yhSUOuWBnXs",
-            key: 42
+            key: 43
         },
         /*=================================================================================*/
         {
@@ -977,7 +1001,7 @@ const d = {
             },
             percentToQualify: 71,
             verificationVid: "https://www.youtube.com/watch?v=c5TJvaS4AIo",
-            key: 43
+            key: 44
         },
         /*=================================================================================*/
         {
@@ -1007,7 +1031,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=npfdfBfLZyg",
-            key: 44
+            key: 45
         },
         /*=================================================================================*/
         {
@@ -1031,7 +1055,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=JX5JQKrJ5-0",
-            key: 45
+            key: 46
         },
         /*=================================================================================*/
         {
@@ -1055,7 +1079,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=WFzmD_G4d2E",
-            key: 46
+            key: 47
         },
         /*=================================================================================*/
         {
@@ -1073,7 +1097,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=JlEjuF26ydU",
-            key: 47
+            key: 48
         },
         /*=================================================================================*/
         {
@@ -1097,7 +1121,31 @@ const d = {
             },
             percentToQualify: 60,
             verificationVid: "https://www.youtube.com/watch?v=369ogQz0BWA",
-            key: 48
+            key: 49
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/VDZftnyDXI0",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "Royal",
+            author: "Leaf98",
+            mapInfo: {
+                simpleExp: "Royal - IVE",
+                uploadDate: "2018.09.13",
+                verifingAtt: "비공개",
+                long: "0분 50초",
+                highest: "84478980",
+                more: "none",
+            },
+            percentToQualify: 70,
+            verificationVid: "https://www.youtube.com/watch?v=dQL_RUAh174",
+            key: 50
         },
         /*=================================================================================*/
         {
@@ -1121,7 +1169,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=SJiJlLFeiqM",
-            key: 49
+            key: 51
         },
         /*=================================================================================*/
         {
@@ -1163,7 +1211,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=9YvpHZn-UOQ",
-            key: 50
+            key: 52
         },
         /*=================================================================================*/
         {
@@ -1181,29 +1229,17 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=u5vIva8zMLg",
-            key: 51
+            key: 53
         },
         /*=================================================================================*/
         {
             vids: [
-            ],
-            name: "Good At Love",
-            author: "Sidci",
-            mapInfo: {
-                simpleExp: "Good at Love - Twice",
-                uploadDate: "2022.09.19",
-                verifingAtt: "비공개",
-                long: "0분 43초",
-                highest: "83832143",
-                more: "none",
-            },
-            percentToQualify: 70,
-            verificationVid: "https://www.youtube.com/watch?v=QWqNs9OnslM",
-            key: 52
-        },
-        /*=================================================================================*/
-        {
-            vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/cTDvyBes7Lk",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Talk That Talk",
             author: "Sidci, KaTTharsis [Sidci]",
@@ -1217,7 +1253,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=KcoIwLCdsx0",
-            key: 53
+            key: 54
         },
         /*=================================================================================*/
         {
@@ -1241,7 +1277,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=rrHhSKcgUEM",
-            key: 54
+            key: 55
         },
         /*=================================================================================*/
         {
@@ -1265,7 +1301,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=xb1tXAVpErM",
-            key: 55
+            key: 56
         },
         /*=================================================================================*/
         {
@@ -1289,7 +1325,7 @@ const d = {
             },
             percentToQualify: 71,
             verificationVid: "https://www.youtube.com/watch?v=YiB0dsSGfrA",
-            key: 56
+            key: 57
         },
         /*=================================================================================*/
         {
@@ -1307,7 +1343,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=e4f7c531CuE",
-            key: 57
+            key: 58
         },
         /*=================================================================================*/
         {
@@ -1337,7 +1373,7 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=fVZKQdVGnGM",
-            key: 58
+            key: 59
         },
         /*=================================================================================*/
         {
@@ -1373,7 +1409,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=TveOlTH-KNs",
-            key: 59
+            key: 60
         },
         /*=================================================================================*/
         {
@@ -1421,7 +1457,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=JuVgDTN_hP4",
-            key: 60
+            key: 61
         },
         /*=================================================================================*/
         {
@@ -1445,7 +1481,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
-            key: 61
+            key: 62
         },
         /*=================================================================================*/
         {
@@ -1469,11 +1505,17 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=5pOClFj_63c",
-            key: 62
+            key: 63
         },
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/RcpEsU2C7j4",
+                    percent: 100,
+                    hz: "120hz"
+                },
             ],
             name: "Kill This Love",
             author: "issanagay",
@@ -1487,7 +1529,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=mpcZcOMe_go",
-            key: 63
+            key: 64
         },
         /*=================================================================================*/
         {
@@ -1517,7 +1559,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=FbWDGFUIWyo",
-            key: 64
+            key: 65
         },
         /*=================================================================================*/
     ],
