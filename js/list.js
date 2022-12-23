@@ -1036,6 +1036,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/6_J_oi-yCI0",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Deja Vu",
             author: "23138185 [JRain]",
