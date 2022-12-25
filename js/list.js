@@ -159,6 +159,24 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Sparky",
+                    link: "https://youtu.be/jBJWttInhOo",
+                    percent: 100,
+                    hz: "240hz"
+                },
+                {
+                    user: "RedSwitch",
+                    link: "https://youtu.be/8LOHz_Z2v-c",
+                    percent: 100,
+                    hz: "144hz"
+                },
+                {
+                    user: "Atherox",
+                    link: "https://youtu.be/8ctTx3NK51g",
+                    percent: 100,
+                    hz: "144hz"
+                },
             ],
             name: "Violeta",
             author: "IgongDae",
@@ -357,6 +375,18 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "RedSwitch",
+                    link: "https://youtu.be/q1_dYJgBwbM",
+                    percent: 100,
+                    hz: "144hz"
+                },
+                {
+                    user: "BeCruX",
+                    link: "https://youtu.be/Pv2gccrB11M",
+                    percent: 100,
+                    hz: "144hz"
+                },
             ],
             name: "Destiny",
             author: "IgongDae & More [IgongDae]",
@@ -564,6 +594,12 @@ const d = {
                 {
                     user: "IgongDae",
                     link: "https://www.youtube.com/watch?v=WfFiyEAl_z8",
+                    percent: 100,
+                    hz: "144hz"
+                },
+                {
+                    user: "RedSwitch",
+                    link: "https://youtu.be/kEQjGkocIh8",
                     percent: 100,
                     hz: "144hz"
                 },
