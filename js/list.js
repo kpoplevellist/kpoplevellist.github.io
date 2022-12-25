@@ -143,7 +143,7 @@ const d = {
             vids: [
             ],
             name: "Hann",
-            author: "Rallow & More [Rallow]",
+            author: "Ralo & More [Ralo]",
             mapInfo: {
                 simpleExp: "HANN (一) - (G)I-DLE",
                 uploadDate: "2022.01.01",
@@ -972,7 +972,7 @@ const d = {
                 },
             ],
             name: "Eleven",
-            author: "ItzPlon & More [Rallow]",
+            author: "ItzPlon & More [Ralo]",
             mapInfo: {
                 simpleExp: "Eleven - IVE",
                 uploadDate: "2022.05.03",
@@ -1288,6 +1288,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "iRaily",
+                    link: "https://www.youtube.com/watch?v=nUXsgEWugSk&t=70s",
+                    percent: 100,
+                    hz: "288hz"
+                },
             ],
             name: "kda the baddest",
             author: "telecoteco",
@@ -1545,6 +1551,12 @@ const d = {
                     link: "https://youtu.be/Ck_CtBos--o?t=178",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "iRaily",
+                    link: "https://youtu.be/nUXsgEWugSk",
+                    percent: 100,
+                    hz: "288hz"
                 },
             ],
             name: "Feel My Rhythm",
