@@ -1168,6 +1168,12 @@ const d = {
                     percent: 100,
                     hz: "144hz"
                 },
+                {
+                    user: "Sweetdream",
+                    link: "https://www.youtube.com/watch?v=WyyIBBojviQ",
+                    percent: 100,
+                    hz: "144hz"
+                },
             ],
             name: "F a n c y",
             author: "Shiimapple",
