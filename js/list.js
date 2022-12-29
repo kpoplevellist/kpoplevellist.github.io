@@ -976,7 +976,7 @@ const d = {
             mapInfo: {
                 simpleExp: "Period, - BigNaughty",
                 uploadDate: "2022.08.27",
-                verifingAtt: "635",
+                verifingAtt: "비공개",
                 long: "1분 1초",
                 highest: "83140493",
                 more: "Lris, Pumpkin0w0, Dolphin, Xerrah, Chop",
