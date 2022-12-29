@@ -1126,6 +1126,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Sweetdream",
+                    link: "https://www.youtube.com/watch?v=q_47DqTe3kI",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Deja Vu",
             author: "23138185 [JRain]",
