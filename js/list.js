@@ -249,6 +249,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Korea7723",
+                    link: "https://youtu.be/af7iuY2gMWg",
+                    percent: 59,
+                    hz: "360hz"
+                },
             ],
             name: "After LIKE",
             author: "TeamIVE [ItzKaserine]",
