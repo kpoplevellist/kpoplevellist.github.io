@@ -1404,7 +1404,7 @@ const d = {
                 },
             ],
             name: "Smiley",
-            author: "IIDoMangII",
+            author: "IIDoManGII",
             mapInfo: {
                 simpleExp: "Smiley - Choi Yena",
                 uploadDate: "2022.02.28",
@@ -1488,7 +1488,7 @@ const d = {
                 },
             ],
             name: "Coin",
-            author: "IIDoMangII & Coinlol [IIDoMangII]",
+            author: "IIDoManGII & Coinlol [IIDoManGII]",
             mapInfo: {
                 simpleExp: "Coin - IU",
                 uploadDate: "2022.03.13",
@@ -1626,7 +1626,7 @@ const d = {
                 },
             ],
             name: "permission to dance",
-            author: "IIDoMangII",
+            author: "IIDoManGII",
             mapInfo: {
                 simpleExp: "Permission to dance - BTS",
                 uploadDate: "2021.12.18",
