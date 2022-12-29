@@ -177,6 +177,12 @@ const d = {
                     percent: 100,
                     hz: "144hz"
                 },
+                {
+                    user: "Robin",
+                    link: "https://youtu.be/78ReX3n-HV0",
+                    percent: 100,
+                    hz: "144hz"
+                },
             ],
             name: "Violeta",
             author: "IgongDae",
@@ -381,6 +387,24 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+            ],
+            name: "In The Air",
+            author: "JRain & More [JRain]",
+            mapInfo: {
+                simpleExp: "In The Air - TRI.BE",
+                uploadDate: "2022.11.13",
+                verifingAtt: "비공개",
+                long: "2분 25초",
+                highest: "85650741",
+                more: "JRain, lCont, bls, mooney67",
+            },
+            percentToQualify: 62,
+            verificationVid: "https://www.youtube.com/watch?v=p6Sl1H8QUzg",
+            key: 17
+        },
+        /*=================================================================================*/
+        {
+            vids: [
                 {
                     user: "RedSwitch",
                     link: "https://youtu.be/q1_dYJgBwbM",
@@ -404,9 +428,27 @@ const d = {
                 highest: "61561391",
                 more: "RedSwitch, NeedInBalance, ItzPalLa, jjs5821, HyunTrol, IgongDae, Kowoo, Audiam",
             },
-            percentToQualify: 66,
+            percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=Lc4Ef9SG7Kk",
-            key: 17
+            key: 18
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Shout",
+            author: "Chop & More [DeathCure]",
+            mapInfo: {
+                simpleExp: "소리쳐 - 한요한(feat. 후이)",
+                uploadDate: "2022.12.16",
+                verifingAtt: "비공개",
+                long: "2분 51초",
+                highest: "86739827",
+                more: "allall, heium, Ret0art, GDSean, Sercht, 100z, Chop, SilverGD, IIDoManGII, nole, Xerahh, Feede",
+            },
+            percentToQualify: 59,
+            verificationVid: "https://www.youtube.com/watch?v=xwIHIiZ3YSs",
+            key: 19
         },
         /*=================================================================================*/
         {
@@ -424,7 +466,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=CfEMDvTDymQ",
-            key: 18
+            key: 20
         },
         /*=================================================================================*/
         {
@@ -442,7 +484,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=pD6a4L0s_cg",
-            key: 19
+            key: 21
         },
         /*=================================================================================*/
         {
@@ -466,7 +508,7 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=-kkATsv_Gyc",
-            key: 20
+            key: 22
         },
         /*=================================================================================*/
         {
@@ -490,7 +532,7 @@ const d = {
             },
             percentToQualify: 58,
             verificationVid: "https://www.youtube.com/watch?v=ftCkBCHgPMI",
-            key: 21
+            key: 23
         },
         /*=================================================================================*/
         {
@@ -508,7 +550,7 @@ const d = {
             },
             percentToQualify: 71,
             verificationVid: "https://www.youtube.com/watch?v=Z0jIXPsGubc",
-            key: 22
+            key: 24
         },
         /*=================================================================================*/
         {
@@ -526,7 +568,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=kTlhI3DWRBk",
-            key: 23
+            key: 25
         },
         /*=================================================================================*/
         {
@@ -544,7 +586,7 @@ const d = {
             },
             percentToQualify: 63,
             verificationVid: "https://www.youtube.com/watch?v=5SxNmw3MDOw",
-            key: 24
+            key: 26
         },
         /*=================================================================================*/
         {
@@ -562,7 +604,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=36U5OZDy0og",
-            key: 25
+            key: 27
         },
         /*=================================================================================*/
         {
@@ -592,25 +634,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=2suDFy8yOOE",
-            key: 26
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "In The Air",
-            author: "JRain & More [JRain]",
-            mapInfo: {
-                simpleExp: "In The Air - TRI.BE",
-                uploadDate: "2022.11.13",
-                verifingAtt: "비공개",
-                long: "2분 25초",
-                highest: "85650741",
-                more: "JRain, lCont, bls, mooney67",
-            },
-            percentToQualify: 66,
-            verificationVid: "https://www.youtube.com/watch?v=p6Sl1H8QUzg",
-            key: 27
+            key: 28
         },
         /*=================================================================================*/
         {
@@ -640,7 +664,7 @@ const d = {
             },
             percentToQualify: 71,
             verificationVid: "https://www.youtube.com/watch?v=xqHVSmm8Eoc",
-            key: 28
+            key: 29
         },
         /*=================================================================================*/
         {
@@ -658,7 +682,25 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=5_2DTX-yvNk",
-            key: 29
+            key: 30
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Drivin",
+            author: "Chop & More [SangChun]",
+            mapInfo: {
+                simpleExp: "Drivin' - 김승민(feat. 래원, BigNaughty)",
+                uploadDate: "2022.08.28",
+                verifingAtt: "비공개",
+                long: "2분 40초",
+                highest: "83155279",
+                more: "Barang2, KJohn27, Chop, 100z, Complain, Peachh, J00n, GDSean",
+            },
+            percentToQualify: 66,
+            verificationVid: "https://www.youtube.com/watch?v=6Bj5-Dpvl5A",
+            key: 31
         },
         /*=================================================================================*/
         {
@@ -682,7 +724,7 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=uAvPzElEjsE",
-            key: 30
+            key: 32
         },
         /*=================================================================================*/
         {
@@ -706,7 +748,31 @@ const d = {
             },
             percentToQualify: 65,
             verificationVid: "https://www.youtube.com/watch?v=YgVyWPT3j28",
-            key: 31
+            key: 33
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/TmqUPJeSsWw",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "Lovesick Girls",
+            author: "Ret0Lart [Aluminium]",
+            mapInfo: {
+                simpleExp: "Lovesick Girl - BlackPink",
+                uploadDate: "2021.10.21",
+                verifingAtt: "비공개",
+                long: "1분 18초",
+                highest: "74077351",
+                more: "none",
+            },
+            percentToQualify: 69,
+            verificationVid: "https://www.youtube.com/watch?v=4Uh6lB8CcC0",
+            key: 34
         },
         /*=================================================================================*/
         {
@@ -730,7 +796,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=ZR3dLzFbziY",
-            key: 32
+            key: 35
         },
         /*=================================================================================*/
         {
@@ -760,7 +826,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=FtnoWqjWRjg",
-            key: 33
+            key: 36
         },
         /*=================================================================================*/
         {
@@ -778,7 +844,49 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=KBqHhuy8vfY",
-            key: 34
+            key: 37
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "fanfare",
+            author: "Daaaako & More [Daaaako]",
+            mapInfo: {
+                simpleExp: "Fanfare - Twice",
+                uploadDate: "2021.12.03",
+                verifingAtt: "비공개",
+                long: "2분 17초",
+                highest: "86314431",
+                more: "Daaaako, pickt, 언멍구, Luna, Dolphigh, 아스타틴, Reippah",
+            },
+            percentToQualify: 68,
+            verificationVid: "https://www.youtube.com/watch?v=Wz8RF8lwhfY",
+            key: 38
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "Jirachi",
+                    link: "https://youtu.be/WKu6UD0vsRc",
+                    percent: 100,
+                    hz: "240hz"
+                },
+            ],
+            name: "Glass bead",
+            author: "Ret0Lart & More [Ret0Lart]",
+            mapInfo: {
+                simpleExp: "유리구슬 - GFRIEND",
+                uploadDate: "2021.08.",
+                verifingAtt: "비공개",
+                long: "1분 21초",
+                highest: "72481601",
+                more: "Ret0Lart, Bananphu, Angkko, Luina",
+            },
+            percentToQualify: 67,
+            verificationVid: "https://www.youtube.com/watch?v=WKu6UD0vsRc",
+            key: 39
         },
         /*=================================================================================*/
 
@@ -809,73 +917,7 @@ const d = {
             },
             percentToQualify: 63,
             verificationVid: "https://www.youtube.com/watch?v=wyDMV3slm40",
-            key: 35
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "fanfare",
-            author: "Daaaako & More [Daaaako]",
-            mapInfo: {
-                simpleExp: "Fanfare - Twice",
-                uploadDate: "2021.12.03",
-                verifingAtt: "비공개",
-                long: "2분 17초",
-                highest: "86314431",
-                more: "Daaaako, pickt, 언멍구, Luna, Dolphigh, 아스타틴, Reippah",
-            },
-            percentToQualify: 68,
-            verificationVid: "https://www.youtube.com/watch?v=Wz8RF8lwhfY",
-            key: 36
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "Jirachi",
-                    link: "https://youtu.be/WKu6UD0vsRc",
-                    percent: 100,
-                    hz: "240hz"
-                },
-            ],
-            name: "Glass bead",
-            author: "Ret0Lart & More [Ret0Lart]",
-            mapInfo: {
-                simpleExp: "유리구슬 - GFRIEND",
-                uploadDate: "2021.08.",
-                verifingAtt: "비공개",
-                long: "1분 21초",
-                highest: "72481601",
-                more: "Ret0Lart, Bananphu, Angkko, Luina",
-            },
-            percentToQualify: 67,
-            verificationVid: "https://www.youtube.com/watch?v=WKu6UD0vsRc",
-            key: 37
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "IgongDae",
-                    link: "https://youtu.be/TmqUPJeSsWw",
-                    percent: 100,
-                    hz: "360hz"
-                },
-            ],
-            name: "Lovesick Girls",
-            author: "Ret0Lart [Aluminium]",
-            mapInfo: {
-                simpleExp: "Lovesick Girl - BlackPink",
-                uploadDate: "2021.10.21",
-                verifingAtt: "비공개",
-                long: "1분 18초",
-                highest: "74077351",
-                more: "none",
-            },
-            percentToQualify: 69,
-            verificationVid: "https://www.youtube.com/watch?v=4Uh6lB8CcC0",
-            key: 38
+            key: 40
         },
         /*=================================================================================*/
         {
@@ -905,7 +947,7 @@ const d = {
             },
             percentToQualify: 62,
             verificationVid: "https://www.youtube.com/watch?v=HX2wzHuj6uI",
-            key: 39
+            key: 41
         },
         /*=================================================================================*/
         {
@@ -923,7 +965,25 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=T7xSrLW9kRk",
-            key: 40
+            key: 42
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Period",
+            author: "Chop & More [Aqua0607]",
+            mapInfo: {
+                simpleExp: "Period, - BigNaughty",
+                uploadDate: "2022.08.27",
+                verifingAtt: "635",
+                long: "1분 1초",
+                highest: "83140493",
+                more: "Lris, Pumpkin0w0, Dolphin, Xerrah, Chop",
+            },
+            percentToQualify: 64,
+            verificationVid: "https://www.youtube.com/watch?v=lgSybIHqZIY",
+            key: 43
         },
         /*=================================================================================*/
         {
@@ -947,7 +1007,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=TDF1I756SEM",
-            key: 41
+            key: 44
         },
         /*=================================================================================*/
         {
@@ -971,7 +1031,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=QWqNs9OnslM",
-            key: 42
+            key: 45
         },
         /*=================================================================================*/
         {
@@ -1001,7 +1061,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=aWtvq22bb8I",
-            key: 43
+            key: 46
         },
         /*=================================================================================*/
         {
@@ -1025,7 +1085,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=OfVpc1rxoW0",
-            key: 44
+            key: 47
         },
         /*=================================================================================*/
         {
@@ -1061,7 +1121,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=yhSUOuWBnXs",
-            key: 45
+            key: 48
         },
         /*=================================================================================*/
         {
@@ -1079,7 +1139,7 @@ const d = {
             },
             percentToQualify: 71,
             verificationVid: "https://www.youtube.com/watch?v=c5TJvaS4AIo",
-            key: 46
+            key: 49
         },
         /*=================================================================================*/
         {
@@ -1109,7 +1169,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=npfdfBfLZyg",
-            key: 47
+            key: 50
         },
         /*=================================================================================*/
         {
@@ -1133,7 +1193,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=JX5JQKrJ5-0",
-            key: 48
+            key: 51
         },
         /*=================================================================================*/
         {
@@ -1163,7 +1223,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=WFzmD_G4d2E",
-            key: 49
+            key: 52
         },
         /*=================================================================================*/
         {
@@ -1181,7 +1241,91 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=JlEjuF26ydU",
-            key: 50
+            key: 53
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Alcohol Free",
+            author: "IsmaHikari",
+            mapInfo: {
+                simpleExp: "Alcohol Free - Twice",
+                uploadDate: "2022.12.10",
+                verifingAtt: "비공개",
+                long: "1분 02초",
+                highest: "86559330",
+                more: "none",
+            },
+            percentToQualify: 69,
+            verificationVid: "https://www.youtube.com/watch?v=mYLPoQgxlpU",
+            key: 54
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Adios",
+            author: "IIDoManGII",
+            mapInfo: {
+                simpleExp: "Adios - Everglow",
+                uploadDate: "2018.09.13",
+                verifingAtt: "비공개",
+                long: "1분 32초",
+                highest: "75774282",
+                more: "none",
+            },
+            percentToQualify: 68,
+            verificationVid: "https://www.youtube.com/watch?v=P87Ondr_3Ko",
+            key: 55
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/VDZftnyDXI0",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "Royal",
+            author: "Leaf98",
+            mapInfo: {
+                simpleExp: "Royal - IVE",
+                uploadDate: "2018.09.13",
+                verifingAtt: "비공개",
+                long: "0분 50초",
+                highest: "84478980",
+                more: "none",
+            },
+            percentToQualify: 70,
+            verificationVid: "https://www.youtube.com/watch?v=dQL_RUAh174",
+            key: 56
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/T_Vpmqb1xk8",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "Fire",
+            author: "DRIVER060",
+            mapInfo: {
+                simpleExp: "Fire - BTS",
+                uploadDate: "2018.09.13",
+                verifingAtt: "비공개",
+                long: "2분 15초",
+                highest: "48902575",
+                more: "none",
+            },
+            percentToQualify: 68,
+            verificationVid: "https://www.youtube.com/watch?v=SJiJlLFeiqM",
+            key: 57
         },
         /*=================================================================================*/
         {
@@ -1211,55 +1355,25 @@ const d = {
             },
             percentToQualify: 60,
             verificationVid: "https://www.youtube.com/watch?v=369ogQz0BWA",
-            key: 51
+            key: 58
         },
         /*=================================================================================*/
         {
             vids: [
-                {
-                    user: "IgongDae",
-                    link: "https://youtu.be/VDZftnyDXI0",
-                    percent: 100,
-                    hz: "360hz"
-                },
             ],
-            name: "Royal",
-            author: "Leaf98",
+            name: "Doughnut",
+            author: "Sidci, KaTTharsis [Sidci]",
             mapInfo: {
-                simpleExp: "Royal - IVE",
-                uploadDate: "2018.09.13",
+                simpleExp: "Doughnut - Twice",
+                uploadDate: "2022.12.26",
                 verifingAtt: "비공개",
-                long: "0분 50초",
-                highest: "84478980",
-                more: "none",
+                long: "1분 04초",
+                highest: "87086992",
+                more: "Sidci, KaTTharsis",
             },
-            percentToQualify: 70,
-            verificationVid: "https://www.youtube.com/watch?v=dQL_RUAh174",
-            key: 52
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "IgongDae",
-                    link: "https://youtu.be/T_Vpmqb1xk8",
-                    percent: 100,
-                    hz: "360hz"
-                },
-            ],
-            name: "Fire",
-            author: "DRIVER060",
-            mapInfo: {
-                simpleExp: "Fire - BTS",
-                uploadDate: "2018.09.13",
-                verifingAtt: "비공개",
-                long: "2분 15초",
-                highest: "48902575",
-                more: "none",
-            },
-            percentToQualify: 68,
-            verificationVid: "https://www.youtube.com/watch?v=SJiJlLFeiqM",
-            key: 53
+            percentToQualify: 71,
+            verificationVid: "https://www.youtube.com/watch?v=7XaWpkjfDO0",
+            key: 59
         },
         /*=================================================================================*/
         {
@@ -1301,7 +1415,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=9YvpHZn-UOQ",
-            key: 54
+            key: 60
         },
         /*=================================================================================*/
         {
@@ -1319,7 +1433,25 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=u5vIva8zMLg",
-            key: 55
+            key: 61
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Labyrinth",
+            author: "Atherox, Silver [Atherox]",
+            mapInfo: {
+                simpleExp: "Labyrinth - GFRIEND",
+                uploadDate: "2020.08.01",
+                verifingAtt: "비공개",
+                long: "1분 32초",
+                highest: "63124297",
+                more: "Atherox, Silver",
+            },
+            percentToQualify: 70,
+            verificationVid: "https://www.youtube.com/watch?v=AczEh6IwzVs",
+            key: 62
         },
         /*=================================================================================*/
         {
@@ -1343,7 +1475,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=KcoIwLCdsx0",
-            key: 56
+            key: 63
         },
         /*=================================================================================*/
         {
@@ -1367,7 +1499,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=rrHhSKcgUEM",
-            key: 57
+            key: 64
         },
         /*=================================================================================*/
         {
@@ -1391,7 +1523,7 @@ const d = {
             },
             percentToQualify: 71,
             verificationVid: "https://www.youtube.com/watch?v=YiB0dsSGfrA",
-            key: 58
+            key: 65
         },
         /*=================================================================================*/
         {
@@ -1409,7 +1541,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=e4f7c531CuE",
-            key: 59
+            key: 66
         },
         /*=================================================================================*/
         {
@@ -1439,7 +1571,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=xb1tXAVpErM",
-            key: 60
+            key: 67
         },
         /*=================================================================================*/
         {
@@ -1469,7 +1601,7 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=fVZKQdVGnGM",
-            key: 61
+            key: 68
         },
         /*=================================================================================*/
         {
@@ -1505,7 +1637,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=TveOlTH-KNs",
-            key: 62
+            key: 69
         },
         /*=================================================================================*/
         {
@@ -1553,7 +1685,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=JuVgDTN_hP4",
-            key: 63
+            key: 70
         },
         /*=================================================================================*/
         {
@@ -1577,7 +1709,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
-            key: 64
+            key: 71
         },
         /*=================================================================================*/
         {
@@ -1601,7 +1733,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=5pOClFj_63c",
-            key: 65
+            key: 72
         },
         /*=================================================================================*/
         {
@@ -1625,7 +1757,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=mpcZcOMe_go",
-            key: 66
+            key: 73
         },
         /*=================================================================================*/
         {
@@ -1661,7 +1793,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=FbWDGFUIWyo",
-            key: 67
+            key: 74
         },
         /*=================================================================================*/
     ],
