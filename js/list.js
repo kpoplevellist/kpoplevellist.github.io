@@ -124,6 +124,12 @@ const d = {
         {
             vids: [
                 {
+                    user: "Jirachi",
+                    link: "https://youtu.be/q7Nej8sKgZk",
+                    percent: 83,
+                    hz: "240hz"
+                },
+                {
                     user: "Korea7723",
                     link: "https://youtu.be/af7iuY2gMWg",
                     percent: 59,
@@ -1107,6 +1113,12 @@ const d = {
                     link: "https://youtu.be/0Do181IzgHY",
                     percent: 100,
                     hz: "165hz"
+                },
+                {
+                    user: "Jirachi",
+                    link: "https://youtu.be/7KIFrNbr5O0",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Eleven",
