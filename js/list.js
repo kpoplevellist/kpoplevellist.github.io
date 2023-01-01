@@ -1450,6 +1450,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/SCmRKuJOOJs",
+                    percent: 100,
+                    hz: "144hz"
+                },
             ],
             name: "Labyrinth",
             author: "Atherox, Silver [Atherox]",
