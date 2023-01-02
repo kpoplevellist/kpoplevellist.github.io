@@ -1780,6 +1780,12 @@ const d = {
                     percent: 100,
                     hz: "120hz"
                 },
+                {
+                    user: "mkoijn10",
+                    link: "https://youtu.be/f9tEDaDDZBA",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "Kill This Love",
             author: "issanagay",
