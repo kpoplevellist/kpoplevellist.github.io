@@ -1816,6 +1816,12 @@ const d = {
                     percent: 100,
                     hz: "288hz"
                 },
+                {
+                    user: "mkoijn10",
+                    link: "https://youtu.be/67a4MwzQ3RM",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "Feel My Rhythm",
             author: "Johnnyvision",
