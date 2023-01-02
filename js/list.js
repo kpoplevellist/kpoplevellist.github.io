@@ -28,24 +28,6 @@ const d = {
         {
             vids: [
             ],
-            name: "Hann",
-            author: "Ralo & More [Ralo]",
-            mapInfo: {
-                simpleExp: "HANN (一) - (G)I-DLE",
-                uploadDate: "2022.01.01",
-                verifingAtt: "비공개",
-                long: "3분 30초",
-                highest: "77007213",
-                more: "Hav, Sheryn, Muon, Tabun, Plon, Hily, Reippah, Rallow, Gpi, Hardbass, Hakua, Mephitz, Vue, Jun17, Ojinu, Vantablack, SomeoneD, Xeph, M4riNe, Rkskek, Xvoid, 3niv",
-            },
-            percentToQualify: 49,
-            verificationVid: "https://www.youtube.com/watch?v=MxcxTcXMUuA",
-            key: 1
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
             name: "Talk And Talk",
             author: "IgongDae",
             mapInfo: {
@@ -58,7 +40,7 @@ const d = {
             },
 			percentToQualify: 48,
             verificationVid: "https://www.youtube.com/watch?v=ezeKiAuB4zk",
-            key: 2
+            key: 1
         },
         /*=================================================================================*/
         {
@@ -76,7 +58,7 @@ const d = {
             },
             percentToQualify: 54,
             verificationVid: "https://www.youtube.com/watch?v=J6JD6OLzNW0",
-            key: 3
+            key: 2
         },
         /*=================================================================================*/
         {
@@ -94,6 +76,24 @@ const d = {
             },
             percentToQualify: 50,
             verificationVid: "https://www.youtube.com/watch?v=Obm7L-0FE6s",
+            key: 3
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Hann",
+            author: "Ralo & More [Ralo]",
+            mapInfo: {
+                simpleExp: "HANN (一) - (G)I-DLE",
+                uploadDate: "2022.01.01",
+                verifingAtt: "비공개",
+                long: "3분 30초",
+                highest: "77007213",
+                more: "Hav, Sheryn, Muon, Tabun, Plon, Hily, Reippah, Rallow, Gpi, Hardbass, Hakua, Mephitz, Vue, Jun17, Ojinu, Vantablack, SomeoneD, Xeph, M4riNe, Rkskek, Xvoid, 3niv",
+            },
+            percentToQualify: 49,
+            verificationVid: "https://www.youtube.com/watch?v=MxcxTcXMUuA",
             key: 4
         },
         /*=================================================================================*/
@@ -123,36 +123,6 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-                {
-                    user: "Jirachi",
-                    link: "https://youtu.be/q7Nej8sKgZk",
-                    percent: 83,
-                    hz: "240hz"
-                },
-                {
-                    user: "Korea7723",
-                    link: "https://youtu.be/af7iuY2gMWg",
-                    percent: 59,
-                    hz: "360hz"
-                },
-            ],
-            name: "After LIKE",
-            author: "TeamIVE [ItzKaserine]",
-            mapInfo: {
-                simpleExp: "After Like - IVE",
-                uploadDate: "2022.11.10",
-                verifingAtt: "비공개",
-                long: "3분 00초",
-                highest: "85511736",
-                more: "none",
-            },
-            percentToQualify: 59,
-            verificationVid: "https://www.youtube.com/watch?v=fR_d7YR-354",
-            key: 6
-        },
-        /*=================================================================================*/
-        {
-            vids: [
             ],
             name: "Attention",
             author: "IgongDae [BlueTomcat]",
@@ -166,7 +136,7 @@ const d = {
             },
             percentToQualify: 47,
             verificationVid: "https://www.youtube.com/watch?v=vyb143bP7FQ",
-            key: 7
+            key: 6
         },
         /*=================================================================================*/
         {
@@ -184,7 +154,7 @@ const d = {
             },
             percentToQualify: 44,
             verificationVid: "https://www.youtube.com/watch?v=RqVqyU60fD0",
-            key: 8
+            key: 7
         },
         /*=================================================================================*/
         {
@@ -226,7 +196,7 @@ const d = {
             },
             percentToQualify: 60,
             verificationVid: "https://www.youtube.com/watch?v=5cUEvttE2oM",
-            key: 9
+            key: 8
         },
         /*=================================================================================*/
         {
@@ -250,7 +220,7 @@ const d = {
             },
             percentToQualify: 65,
             verificationVid: "https://www.youtube.com/watch?v=lHTpZsN6Esg",
-            key: 10
+            key: 9
         },
         /*=================================================================================*/
         {
@@ -280,7 +250,7 @@ const d = {
             },
             percentToQualify: 54,
             verificationVid: "https://www.youtube.com/watch?v=Vf-FJIPpTTQ",
-            key: 11
+            key: 10
         },
         /*=================================================================================*/
         {
@@ -298,7 +268,7 @@ const d = {
             },
             percentToQualify: 59,
             verificationVid: "https://www.youtube.com/watch?v=uaE3O5W-AoY",
-            key: 12
+            key: 11
         },
         /*=================================================================================*/
         {
@@ -322,7 +292,7 @@ const d = {
             },
             percentToQualify: 55,
             verificationVid: "https://www.youtube.com/watch?v=hHmQyfOuykU",
-            key: 13
+            key: 12
         },
         /*=================================================================================*/
         {
@@ -346,6 +316,36 @@ const d = {
             },
             percentToQualify: 61,
             verificationVid: "https://www.youtube.com/watch?v=2CF1E77xtjU",
+            key: 13
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "Jirachi",
+                    link: "https://youtu.be/q7Nej8sKgZk",
+                    percent: 83,
+                    hz: "240hz"
+                },
+                {
+                    user: "Korea7723",
+                    link: "https://youtu.be/af7iuY2gMWg",
+                    percent: 59,
+                    hz: "360hz"
+                },
+            ],
+            name: "After LIKE",
+            author: "TeamIVE [ItzKaserine]",
+            mapInfo: {
+                simpleExp: "After Like - IVE",
+                uploadDate: "2022.11.10",
+                verifingAtt: "비공개",
+                long: "3분 00초",
+                highest: "85511736",
+                more: "none",
+            },
+            percentToQualify: 59,
+            verificationVid: "https://www.youtube.com/watch?v=fR_d7YR-354",
             key: 14
         },
         /*=================================================================================*/
