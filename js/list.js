@@ -1756,6 +1756,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "mkoijn10",
+                    link: "https://youtu.be/7gBEZ2tmm3o",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "Icon",
             author: "KaTTharsis",
