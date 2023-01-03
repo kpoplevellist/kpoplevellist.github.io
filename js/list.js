@@ -1408,6 +1408,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/k_-HYZbYr_c",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Doughnut",
             author: "Sidci, KaTTharsis [Sidci]",
