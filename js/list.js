@@ -634,36 +634,6 @@ const d = {
         {
             vids: [
                 {
-                    user: "Jirachi",
-                    link: "https://youtu.be/lGi4fgYriWg",
-                    percent: 100,
-                    hz: "60hz"
-                },
-                {
-                    user: "iRaily",
-                    link: "https://youtu.be/j9psirK4_3k",
-                    percent: 100,
-                    hz: "288hz"
-                },
-            ],
-            name: "Fiesta",
-            author: "Kmini & More [Kmini]",
-            mapInfo: {
-                simpleExp: "Fiesta - IZ*ONE",
-                uploadDate: "2021.09.01",
-                verifingAtt: "비공개",
-                long: "1분 57초",
-                highest: "73190562",
-                more: "UlmomE, kar98, Alice, PLO, GD3NIV, AlmondCrash, Lebi06, GD HINIX, 후라보노, someoneD, afterless, siu, m4rine, Lunaris, wapon77, Cron7, iEstia, Vantablack, yonaka, LUX, An Gyung, Gpi, pororo7, galchi, lime0037",
-            },
-            percentToQualify: 67,
-            verificationVid: "https://www.youtube.com/watch?v=2suDFy8yOOE",
-            key: 29
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
                     user: "IgongDae",
                     link: "https://www.youtube.com/watch?v=WfFiyEAl_z8",
                     percent: 100,
@@ -688,6 +658,36 @@ const d = {
             },
             percentToQualify: 71,
             verificationVid: "https://www.youtube.com/watch?v=xqHVSmm8Eoc",
+            key: 29
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "Jirachi",
+                    link: "https://youtu.be/lGi4fgYriWg",
+                    percent: 100,
+                    hz: "60hz"
+                },
+                {
+                    user: "iRaily",
+                    link: "https://youtu.be/j9psirK4_3k",
+                    percent: 100,
+                    hz: "288hz"
+                },
+            ],
+            name: "Fiesta",
+            author: "Kmini & More [Kmini]",
+            mapInfo: {
+                simpleExp: "Fiesta - IZ*ONE",
+                uploadDate: "2021.09.01",
+                verifingAtt: "비공개",
+                long: "1분 57초",
+                highest: "73190562",
+                more: "UlmomE, kar98, Alice, PLO, GD3NIV, AlmondCrash, Lebi06, GD HINIX, 후라보노, someoneD, afterless, siu, m4rine, Lunaris, wapon77, Cron7, iEstia, Vantablack, yonaka, LUX, An Gyung, Gpi, pororo7, galchi, lime0037",
+            },
+            percentToQualify: 67,
+            verificationVid: "https://www.youtube.com/watch?v=2suDFy8yOOE",
             key: 30
         },
         /*=================================================================================*/
@@ -1156,24 +1156,6 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-            ],
-            name: "stigma v",
-            author: "lolbito",
-            mapInfo: {
-                simpleExp: "Stigma - V",
-                uploadDate: "2022.11.25",
-                verifingAtt: "비공개",
-                long: "3분 32초",
-                highest: "86045419",
-                more: "none",
-            },
-            percentToQualify: 71,
-            verificationVid: "https://www.youtube.com/watch?v=c5TJvaS4AIo",
-            key: 50
-        },
-        /*=================================================================================*/
-        {
-            vids: [
                 {
                     user: "JRain",
                     link: "https://youtu.be/wA_UWOo83es",
@@ -1199,7 +1181,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=npfdfBfLZyg",
-            key: 51
+            key: 50
         },
         /*=================================================================================*/
         {
@@ -1223,7 +1205,43 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=JX5JQKrJ5-0",
+            key: 51
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "stigma v",
+            author: "lolbito",
+            mapInfo: {
+                simpleExp: "Stigma - V",
+                uploadDate: "2022.11.25",
+                verifingAtt: "비공개",
+                long: "3분 32초",
+                highest: "86045419",
+                more: "none",
+            },
+            percentToQualify: 71,
+            verificationVid: "https://www.youtube.com/watch?v=c5TJvaS4AIo",
             key: 52
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "How You like That",
+            author: "YahirGSL",
+            mapInfo: {
+                simpleExp: "How You like That - BlackPink",
+                uploadDate: "2018.05.31",
+                verifingAtt: "비공개",
+                long: "2분 56초",
+                highest: "80513498",
+                more: "none",
+            },
+            percentToQualify: 67,
+            verificationVid: "https://www.youtube.com/watch?v=JlEjuF26ydU",
+            key: 53
         },
         /*=================================================================================*/
         {
@@ -1253,24 +1271,6 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=WFzmD_G4d2E",
-            key: 53
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "How You like That",
-            author: "YahirGSL",
-            mapInfo: {
-                simpleExp: "How You like That - BlackPink",
-                uploadDate: "2018.05.31",
-                verifingAtt: "비공개",
-                long: "2분 56초",
-                highest: "80513498",
-                more: "none",
-            },
-            percentToQualify: 67,
-            verificationVid: "https://www.youtube.com/watch?v=JlEjuF26ydU",
             key: 54
         },
         /*=================================================================================*/
