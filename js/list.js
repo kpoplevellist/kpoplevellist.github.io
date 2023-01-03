@@ -1470,7 +1470,7 @@ const d = {
             vids: [
                 {
                     user: "IgongDae",
-                    link: "https://youtu.be/6diSWPKvk3Q",
+                    link: "https://youtu.be/5Io-twGM82A",
                     percent: 100,
                     hz: "360hz"
                 },
