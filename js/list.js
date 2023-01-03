@@ -1360,6 +1360,24 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+            ],
+            name: "Up no more",
+            author: "Mishito",
+            mapInfo: {
+                simpleExp: "UP NO MORE - Twice",
+                uploadDate: "2022.12.29",
+                verifingAtt: "비공개",
+                long: "3분 30초",
+                highest: "87200457",
+                more: "none",
+            },
+            percentToQualify: 65,
+            verificationVid: "https://www.youtube.com/watch?v=6XFq_Ax3DJc",
+            key: 59
+        },
+        /*=================================================================================*/
+        {
+            vids: [
                 {
                     user: "IgongDae",
                     link: "https://youtu.be/yvxnnRfnG7M",
@@ -1385,7 +1403,7 @@ const d = {
             },
             percentToQualify: 60,
             verificationVid: "https://www.youtube.com/watch?v=369ogQz0BWA",
-            key: 59
+            key: 60
         },
         /*=================================================================================*/
         {
@@ -1403,7 +1421,7 @@ const d = {
             },
             percentToQualify: 71,
             verificationVid: "https://www.youtube.com/watch?v=7XaWpkjfDO0",
-            key: 60
+            key: 61
         },
         /*=================================================================================*/
         {
@@ -1445,29 +1463,17 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=9YvpHZn-UOQ",
-            key: 61
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "Up no more",
-            author: "Mishito",
-            mapInfo: {
-                simpleExp: "UP NO MORE - Twice",
-                uploadDate: "2022.12.29",
-                verifingAtt: "비공개",
-                long: "3분 30초",
-                highest: "87200457",
-                more: "none",
-            },
-            percentToQualify: 65,
-            verificationVid: "https://www.youtube.com/watch?v=6XFq_Ax3DJc",
             key: 62
         },
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/6diSWPKvk3Q",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Fever",
             author: "lolbito",
