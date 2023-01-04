@@ -423,6 +423,12 @@ const d = {
                     percent: 100,
                     hz: "144hz"
                 },
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/yXIKf91H57c",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Destiny",
             author: "IgongDae & More [IgongDae]",
