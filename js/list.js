@@ -549,6 +549,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/Drv1X5h0a7Y",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Merry Go Round",
             author: "IgongDae",
