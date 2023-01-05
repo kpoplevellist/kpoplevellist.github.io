@@ -411,6 +411,162 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+            ],
+            name: "Up And",
+            author: "IgongDae & More [IgongDae]",
+            mapInfo: {
+                simpleExp: "Up And - fromis_9",
+                uploadDate: "2023.01.05",
+                verifingAtt: "893",
+                long: "1분 44초",
+                highest: "87449442",
+                more: "PoCha, Kowoo, Compass, GDSean, JRain, IgongDae, Cadooo, IIDoManGII, HyunTrol, mkoijn10, mooney67, ItzWain, 23138185",
+            },
+            percentToQualify: 60,
+            verificationVid: "https://www.youtube.com/watch?v=xblWIqySwvE",
+            key: 18
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Shout",
+            author: "Chop & More [DeathCure]",
+            mapInfo: {
+                simpleExp: "소리쳐 - 한요한(feat. 후이)",
+                uploadDate: "2022.12.16",
+                verifingAtt: "비공개",
+                long: "2분 51초",
+                highest: "86739827",
+                more: "allall, heium, Ret0art, GDSean, Sercht, 100z, Chop, SilverGD, IIDoManGII, nole, Xerahh, Feede",
+            },
+            percentToQualify: 59,
+            verificationVid: "https://www.youtube.com/watch?v=xwIHIiZ3YSs",
+            key: 19
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "DICE",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "DICE - NMIXX",
+                uploadDate: "2023.01.02",
+                verifingAtt: "604",
+                long: "1분 5초",
+                highest: "87365257",
+                more: "none",
+            },
+            percentToQualify: 63,
+            verificationVid: "https://www.youtube.com/watch?v=e3w9jvKxYHI",
+            key: 20
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Open Your Eyes",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "Open Your Eyes - IZ*ONE",
+                uploadDate: "2022.11.10",
+                verifingAtt: "1466",
+                long: "1분 15초",
+                highest: "85510610",
+                more: "none",
+            },
+            percentToQualify: 64,
+            verificationVid: "https://www.youtube.com/watch?v=CfEMDvTDymQ",
+            key: 21
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "SERENITY",
+            author: "irrene & More [irrene]",
+            mapInfo: {
+                simpleExp: "왜? - 공중도둑",
+                uploadDate: "2022.11.07",
+                verifingAtt: "비공개",
+                long: "1분 27초",
+                highest: "85438734",
+                more: "tkcper1, shmanguy, skyeuwuu, Redlion_56, lexycat_, itzabunny, neohhhhhhhhhhhh, tooothpeck, Oneill28_, concretefork, redoneburgz, DaxHei, Kutsuuu, danpagnepapii, deactivelol",
+            },
+            percentToQualify: 68,
+            verificationVid: "https://www.youtube.com/watch?v=pD6a4L0s_cg",
+            key: 22
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "JRain",
+                    link: "https://youtu.be/UMPSSqR1sss",
+                    percent: 100,
+                    hz: "60hz"
+                },
+            ],
+            name: "SO BAD",
+            author: "IgongDae & More [IgongDae]",
+            mapInfo: {
+                simpleExp: "SO BAD - StayC",
+                uploadDate: "2022.09.27",
+                verifingAtt: "697",
+                long: "2분 3초",
+                highest: "84105803",
+                more: "jjs5821, JRain, lCont, Pium, W1NT3R, mooney67, Hand, By Player, HyunTrol, IgongDae",
+            },
+            percentToQualify: 69,
+            verificationVid: "https://www.youtube.com/watch?v=-kkATsv_Gyc",
+            key: 23
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "JRain",
+                    link: "https://youtu.be/xiVHDF8WR5w",
+                    percent: 100,
+                    hz: "120hz"
+                },
+            ],
+            name: "THE BADDEST",
+            author: "Maesile & More [Maesile]",
+            mapInfo: {
+                simpleExp: "THE BADDEST - K/DA",
+                uploadDate: "2022.03.30",
+                verifingAtt: "186+",
+                long: "2분 14초",
+                highest: "79133375",
+                more: "Maesile, Goraei, Kinellaly, cccd, JRain, lCont, W1NT3R, Pium, mooney67",
+            },
+            percentToQualify: 58,
+            verificationVid: "https://www.youtube.com/watch?v=ftCkBCHgPMI",
+            key: 24
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Merry Go Round",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "회전목마 - IZ*ONE",
+                uploadDate: "2020.07.05",
+                verifingAtt: "821",
+                long: "1분 22초",
+                highest: "62558314",
+                more: "none",
+            },
+            percentToQualify: 71,
+            verificationVid: "https://www.youtube.com/watch?v=Z0jIXPsGubc",
+            key: 25
+        },
+        /*=================================================================================*/
+        {
+            vids: [
                 {
                     user: "RedSwitch",
                     link: "https://youtu.be/q1_dYJgBwbM",
@@ -442,162 +598,6 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=Lc4Ef9SG7Kk",
-            key: 18
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "Up And",
-            author: "IgongDae & More [IgongDae]",
-            mapInfo: {
-                simpleExp: "Up And - fromis_9",
-                uploadDate: "2023.01.05",
-                verifingAtt: "893",
-                long: "1분 44초",
-                highest: "87449442",
-                more: "PoCha, Kowoo, Compass, GDSean, JRain, IgongDae, Cadooo, IIDoManGII, HyunTrol, mkoijn10, mooney67, ItzWain, 23138185",
-            },
-            percentToQualify: 60,
-            verificationVid: "https://www.youtube.com/watch?v=xblWIqySwvE",
-            key: 19
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "Shout",
-            author: "Chop & More [DeathCure]",
-            mapInfo: {
-                simpleExp: "소리쳐 - 한요한(feat. 후이)",
-                uploadDate: "2022.12.16",
-                verifingAtt: "비공개",
-                long: "2분 51초",
-                highest: "86739827",
-                more: "allall, heium, Ret0art, GDSean, Sercht, 100z, Chop, SilverGD, IIDoManGII, nole, Xerahh, Feede",
-            },
-            percentToQualify: 59,
-            verificationVid: "https://www.youtube.com/watch?v=xwIHIiZ3YSs",
-            key: 20
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "DICE",
-            author: "IgongDae",
-            mapInfo: {
-                simpleExp: "DICE - NMIXX",
-                uploadDate: "2023.01.02",
-                verifingAtt: "604",
-                long: "1분 5초",
-                highest: "87365257",
-                more: "none",
-            },
-            percentToQualify: 63,
-            verificationVid: "https://www.youtube.com/watch?v=e3w9jvKxYHI",
-            key: 21
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "Open Your Eyes",
-            author: "IgongDae",
-            mapInfo: {
-                simpleExp: "Open Your Eyes - IZ*ONE",
-                uploadDate: "2022.11.10",
-                verifingAtt: "1466",
-                long: "1분 15초",
-                highest: "85510610",
-                more: "none",
-            },
-            percentToQualify: 64,
-            verificationVid: "https://www.youtube.com/watch?v=CfEMDvTDymQ",
-            key: 22
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "SERENITY",
-            author: "irrene & More [irrene]",
-            mapInfo: {
-                simpleExp: "왜? - 공중도둑",
-                uploadDate: "2022.11.07",
-                verifingAtt: "비공개",
-                long: "1분 27초",
-                highest: "85438734",
-                more: "tkcper1, shmanguy, skyeuwuu, Redlion_56, lexycat_, itzabunny, neohhhhhhhhhhhh, tooothpeck, Oneill28_, concretefork, redoneburgz, DaxHei, Kutsuuu, danpagnepapii, deactivelol",
-            },
-            percentToQualify: 68,
-            verificationVid: "https://www.youtube.com/watch?v=pD6a4L0s_cg",
-            key: 23
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "JRain",
-                    link: "https://youtu.be/UMPSSqR1sss",
-                    percent: 100,
-                    hz: "60hz"
-                },
-            ],
-            name: "SO BAD",
-            author: "IgongDae & More [IgongDae]",
-            mapInfo: {
-                simpleExp: "SO BAD - StayC",
-                uploadDate: "2022.09.27",
-                verifingAtt: "697",
-                long: "2분 3초",
-                highest: "84105803",
-                more: "jjs5821, JRain, lCont, Pium, W1NT3R, mooney67, Hand, By Player, HyunTrol, IgongDae",
-            },
-            percentToQualify: 69,
-            verificationVid: "https://www.youtube.com/watch?v=-kkATsv_Gyc",
-            key: 24
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "JRain",
-                    link: "https://youtu.be/xiVHDF8WR5w",
-                    percent: 100,
-                    hz: "120hz"
-                },
-            ],
-            name: "THE BADDEST",
-            author: "Maesile & More [Maesile]",
-            mapInfo: {
-                simpleExp: "THE BADDEST - K/DA",
-                uploadDate: "2022.03.30",
-                verifingAtt: "186+",
-                long: "2분 14초",
-                highest: "79133375",
-                more: "Maesile, Goraei, Kinellaly, cccd, JRain, lCont, W1NT3R, Pium, mooney67",
-            },
-            percentToQualify: 58,
-            verificationVid: "https://www.youtube.com/watch?v=ftCkBCHgPMI",
-            key: 25
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "Merry Go Round",
-            author: "IgongDae",
-            mapInfo: {
-                simpleExp: "회전목마 - IZ*ONE",
-                uploadDate: "2020.07.05",
-                verifingAtt: "821",
-                long: "1분 22초",
-                highest: "62558314",
-                more: "none",
-            },
-            percentToQualify: 71,
-            verificationVid: "https://www.youtube.com/watch?v=Z0jIXPsGubc",
             key: 26
         },
         /*=================================================================================*/
