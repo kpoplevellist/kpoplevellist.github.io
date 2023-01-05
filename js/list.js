@@ -1878,6 +1878,30 @@ const d = {
             vids: [
                 {
                     user: "IgongDae",
+                    link: "https://youtu.be/2CAyWIiiOD8",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "GANGNAM STYLE",
+            author: "byronjose04",
+            mapInfo: {
+                simpleExp: "강남스타일 - PSY",
+                uploadDate: "2021.07.19",
+                verifingAtt: "비공개",
+                long: "3분 34초",
+                highest: "71500954",
+                more: "none",
+            },
+            percentToQualify: 68,
+            verificationVid: "https://www.youtube.com/watch?v=tjm87lEn5YE",
+            key: 79
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
                     link: "https://youtu.be/F9u5zRQvRQ8",
                     percent: 100,
                     hz: "360hz"
@@ -1895,7 +1919,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
-            key: 79
+            key: 80
         },
         /*=================================================================================*/
         {
@@ -1925,7 +1949,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=5pOClFj_63c",
-            key: 80
+            key: 81
         },
         /*=================================================================================*/
         {
@@ -1955,7 +1979,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=mpcZcOMe_go",
-            key: 81
+            key: 82
         },
         /*=================================================================================*/
         {
@@ -1997,7 +2021,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=FbWDGFUIWyo",
-            key: 82
+            key: 83
         },
         /*=================================================================================*/
     ],
