@@ -627,6 +627,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "mkoijn10",
+                    link: "https://youtu.be/ideaD1vK_xc",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "Black Venom",
             author: "Glauca",
