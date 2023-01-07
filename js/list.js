@@ -631,7 +631,7 @@ const d = {
                     user: "mkoijn10",
                     link: "https://youtu.be/ideaD1vK_xc",
                     percent: 100,
-                    hz: "60hz"
+                    hz: "60hz(mobile)"
                 },
             ],
             name: "Black Venom",
@@ -1066,6 +1066,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "mkoijn10",
+                    link: "https://youtu.be/K7hJrp7_-U4",
+                    percent: 100,
+                    hz: "60hz(mobile)"
+                },
             ],
             name: "Period",
             author: "Chop & More [Aqua0607]",
@@ -1227,6 +1233,12 @@ const d = {
                     link: "https://youtu.be/7KIFrNbr5O0",
                     percent: 100,
                     hz: "240hz"
+                },
+                {
+                    user: "mkoijn10",
+                    link: "https://youtu.be/8n4FInRup6E",
+                    percent: 100,
+                    hz: "60hz(mobile)"
                 },
             ],
             name: "Eleven",
@@ -1407,6 +1419,12 @@ const d = {
                     link: "https://youtu.be/VDZftnyDXI0",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "mkoijn10",
+                    link: "https://youtu.be/Y6RFOeLJ8pw",
+                    percent: 100,
+                    hz: "60hz(mobile)"
                 },
             ],
             name: "Royal",
@@ -1816,6 +1834,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "mkoijn10",
+                    link: "https://youtu.be/w1TreRO4xLA",
+                    percent: 100,
+                    hz: "60hz(mobile)"
+                },
             ],
             name: "permission to dance",
             author: "IIDoManGII",
@@ -1946,7 +1970,7 @@ const d = {
                     user: "mkoijn10",
                     link: "https://youtu.be/7gBEZ2tmm3o",
                     percent: 100,
-                    hz: "60hz"
+                    hz: "60hz(mobile)"
                 },
             ],
             name: "Icon",
@@ -1976,7 +2000,7 @@ const d = {
                     user: "mkoijn10",
                     link: "https://youtu.be/f9tEDaDDZBA",
                     percent: 100,
-                    hz: "60hz"
+                    hz: "60hz(mobile)"
                 },
             ],
             name: "Kill This Love",
@@ -2018,7 +2042,7 @@ const d = {
                     user: "mkoijn10",
                     link: "https://youtu.be/67a4MwzQ3RM",
                     percent: 100,
-                    hz: "60hz"
+                    hz: "60hz(mobile)"
                 },
             ],
             name: "Feel My Rhythm",
