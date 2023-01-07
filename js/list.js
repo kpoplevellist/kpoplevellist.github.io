@@ -1912,6 +1912,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "mkoijn10",
+                    link: "https://youtu.be/dbtNPaYXvbk",
+                    percent: 100,
+                    hz: "60hz(mobile)"
+                },
             ],
             name: "Barcode",
             author: "Kjackpot",
