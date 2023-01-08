@@ -1384,6 +1384,12 @@ const d = {
                     percent: 100,
                     hz: "120hz(mobile)"
                 },
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/tnOfECLB55I",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Alcohol Free",
             author: "IsmaHikari",
@@ -1402,6 +1408,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/Ggko4NcvOsU",
+                    percent: 100,
+                    hz: "120hz"
+                },
             ],
             name: "Adios",
             author: "IIDoManGII",
@@ -2043,6 +2055,12 @@ const d = {
                     link: "https://youtu.be/f9tEDaDDZBA",
                     percent: 100,
                     hz: "60hz(mobile)"
+                },
+                {
+                    user: "yuchan6788",
+                    link: "https://youtu.be/d6kNcnm5UfI",
+                    percent: 100,
+                    hz: "120hz(mobile)"
                 },
             ],
             name: "Kill This Love",
