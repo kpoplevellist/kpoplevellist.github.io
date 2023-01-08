@@ -2074,6 +2074,12 @@ const d = {
                     percent: 100,
                     hz: "60hz(mobile)"
                 },
+                {
+                    user: "yuchan6788",
+                    link: "https://youtu.be/tgLDHkArS5A",
+                    percent: 100,
+                    hz: "120hz(mobile)"
+                },
             ],
             name: "Feel My Rhythm",
             author: "Johnnyvision",
