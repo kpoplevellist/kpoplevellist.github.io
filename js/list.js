@@ -1606,6 +1606,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/FeAc4XnwdnU",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "counting star",
             author: "KiroXeG",
@@ -1629,6 +1635,12 @@ const d = {
                     link: "https://youtu.be/SCmRKuJOOJs",
                     percent: 100,
                     hz: "144hz"
+                },
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/DEjVFmcf-sQ",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "Labyrinth",
@@ -1720,6 +1732,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/JjlWlYckr5c",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Heart Shaker 2",
             author: "Johnnyvision",
@@ -1738,6 +1756,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/UNoDw7up518",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Butter",
             author: "32Nova",
