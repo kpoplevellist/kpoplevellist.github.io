@@ -1378,6 +1378,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "yuchan6788",
+                    link: "https://youtu.be/ncbM7phmv38",
+                    percent: 100,
+                    hz: "120hz(mobile)"
+                },
             ],
             name: "Alcohol Free",
             author: "IsmaHikari",
@@ -1468,6 +1474,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/9Ldke6bgU8A",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Up no more",
             author: "Mishito",
