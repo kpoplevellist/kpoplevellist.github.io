@@ -1798,6 +1798,12 @@ const d = {
                     percent: 100,
                     hz: "144hz"
                 },
+                {
+                    user: "mkoijn10",
+                    link: "https://youtu.be/XmO9wpJ_TV4",
+                    percent: 100,
+                    hz: "60hz(mobile)"
+                },
             ],
             name: "Say you love me",
             author: "Barang2 & More [Korea7723]",
