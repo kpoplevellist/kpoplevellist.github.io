@@ -1138,6 +1138,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "mkoijn10",
+                    link: "https://youtu.be/9hOSj-qQcDw",
+                    percent: 100,
+                    hz: "60hz(mobile)"
+                },
             ],
             name: "Good At Love",
             author: "Sidci",
