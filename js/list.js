@@ -207,6 +207,12 @@ const d = {
                     percent: 100,
                     hz: "240hz"
                 },
+                {
+                    user: "JRain",
+                    link: "https://youtu.be/MRJlBrMsJBA",
+                    percent: 100,
+                    hz: "120hz"
+                },
             ],
             name: "Love Shhh",
             author: "IgongDae",
