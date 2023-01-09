@@ -1240,6 +1240,18 @@ const d = {
                     percent: 100,
                     hz: "60hz(mobile)"
                 },
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/UmGRzUJWhQE",
+                    percent: 100,
+                    hz: "144hz"
+                },
+                {
+                    user: "유찬",
+                    link: "https://youtu.be/9exaoZOtDzg",
+                    percent: 100,
+                    hz: "120hz(mobile)"
+                },
             ],
             name: "Eleven",
             author: "ItzPlon & More [Ralo]",
@@ -1379,7 +1391,7 @@ const d = {
         {
             vids: [
                 {
-                    user: "yuchan6788",
+                    user: "유찬",
                     link: "https://youtu.be/ncbM7phmv38",
                     percent: 100,
                     hz: "120hz(mobile)"
@@ -1389,6 +1401,12 @@ const d = {
                     link: "https://youtu.be/tnOfECLB55I",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "mkoijn10",
+                    link: "https://youtu.be/9XH5axLj02M",
+                    percent: 100,
+                    hz: "60hz(mobile)"
                 },
             ],
             name: "Alcohol Free",
@@ -1786,6 +1804,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "유찬",
+                    link: "https://youtu.be/-RaAB9g1lQQ",
+                    percent: 100,
+                    hz: "120hz(mobile)"
+                },
             ],
             name: "Butter",
             author: "32Nova",
@@ -1918,6 +1942,12 @@ const d = {
                     percent: 100,
                     hz: "60hz(mobile)"
                 },
+                {
+                    user: "유찬",
+                    link: "https://youtu.be/AX1EE1e7B04",
+                    percent: 100,
+                    hz: "120hz(mobile)"
+                },
             ],
             name: "permission to dance",
             author: "IIDoManGII",
@@ -1965,6 +1995,12 @@ const d = {
                     link: "https://youtu.be/2q207_sGgeE",
                     percent: 100,
                     hz: "165hz"
+                },
+                {
+                    user: "mkoijn10",
+                    link: "https://youtu.be/FTzq-sMcwd4",
+                    percent: 100,
+                    hz: "60hz(mobile)"
                 },
             ],
             name: "RUN2U",
@@ -2081,7 +2117,7 @@ const d = {
                     hz: "60hz(mobile)"
                 },
                 {
-                    user: "yuchan6788",
+                    user: "유찬",
                     link: "https://youtu.be/d6kNcnm5UfI",
                     percent: 100,
                     hz: "120hz(mobile)"
@@ -2129,7 +2165,7 @@ const d = {
                     hz: "60hz(mobile)"
                 },
                 {
-                    user: "yuchan6788",
+                    user: "유찬",
                     link: "https://youtu.be/tgLDHkArS5A",
                     percent: 100,
                     hz: "120hz(mobile)"
