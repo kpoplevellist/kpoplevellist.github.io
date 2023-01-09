@@ -1180,6 +1180,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "유찬",
+                    link: "https://youtu.be/9T62ctme5zU",
+                    percent: 100,
+                    hz: "120hz(mobile)"
+                },
             ],
             name: "dancing cartoon",
             author: "MinYong05",
@@ -2034,6 +2040,54 @@ const d = {
             vids: [
                 {
                     user: "IgongDae",
+                    link: "https://youtu.be/lWdJZQD5Sps",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "merry and happy",
+            author: "Johnnyvision",
+            mapInfo: {
+                simpleExp: "Merry and Happy - Twice",
+                uploadDate: "2022.12.23",
+                verifingAtt: "비공개",
+                long: "3분 11초",
+                highest: "87015708",
+                more: "none",
+            },
+            percentToQualify: 69,
+            verificationVid: "https://www.youtube.com/watch?v=jkKC7ue0Q50",
+            key: 80
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/xhZN6-VkpeU",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "How you like that",
+            author: "Rausyan06",
+            mapInfo: {
+                simpleExp: "How You Like That - BlackPink",
+                uploadDate: "2020.08.29",
+                verifingAtt: "비공개",
+                long: "1분 26초",
+                highest: "63673786",
+                more: "none",
+            },
+            percentToQualify: 79,
+            verificationVid: "https://www.youtube.com/watch?v=Nby0gJZ-Mm0",
+            key: 81
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
                     link: "https://youtu.be/2CAyWIiiOD8",
                     percent: 100,
                     hz: "360hz"
@@ -2051,7 +2105,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=tjm87lEn5YE",
-            key: 80
+            key: 82
         },
         /*=================================================================================*/
         {
@@ -2081,7 +2135,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
-            key: 81
+            key: 83
         },
         /*=================================================================================*/
         {
@@ -2111,7 +2165,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=5pOClFj_63c",
-            key: 82
+            key: 84
         },
         /*=================================================================================*/
         {
@@ -2147,7 +2201,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=mpcZcOMe_go",
-            key: 83
+            key: 85
         },
         /*=================================================================================*/
         {
@@ -2195,7 +2249,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=FbWDGFUIWyo",
-            key: 84
+            key: 86
         },
         /*=================================================================================*/
     ],
