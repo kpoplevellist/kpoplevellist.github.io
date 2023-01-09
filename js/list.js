@@ -465,6 +465,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "JRain",
+                    link: "https://youtu.be/fvPhwcUkJAE",
+                    percent: 100,
+                    hz: "120hz"
+                },
             ],
             name: "Open Your Eyes",
             author: "IgongDae",
