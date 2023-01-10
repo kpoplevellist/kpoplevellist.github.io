@@ -639,7 +639,7 @@ const d = {
                 more: "none",
             },
             percentToQualify: 62,
-            verificationVid: "https://b01-kr-naver-vod.pstatic.net/cafe/a/read/v2/VOD_ALPHA/cafe_2019_08_17_390/34fb366f-c0d0-11e9-8219-48df37269fd0.mp4?_lsu_sa_=6c25b5f711cb6bf6e7d4354965c5dfb34e1236b8fa031f2135d780c2173333150222da0d69d5f20f70aa3392b731fbff47383c75a3c56b56b0ea308701839d2f97faa8e32406cd01b94698c1fd319d22&in_out_flag=1",
+            verificationVid: "https://www.youtube.com/watch?v=J9xM-ZuPbgw",
             key: 27
         },
         /*=================================================================================*/
