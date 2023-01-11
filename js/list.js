@@ -327,6 +327,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+               {
+                    user: "유찬",
+                    link: "https://youtu.be/nbtHZwYEmkk",
+                    percent: 69,
+                    hz: "120hz (mobile)"
+                },
                 {
                     user: "Jirachi",
                     link: "https://youtu.be/q7Nej8sKgZk",
@@ -2074,6 +2080,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+              {
+                    user: "유찬",
+                    link: "https://youtu.be/4vIcx4_ald4",
+                    percent: 100,
+                    hz: "120hz (mobile"
+                },
                 {
                     user: "IgongDae",
                     link: "https://youtu.be/lWdJZQD5Sps",
@@ -2098,6 +2110,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+               {
+                    user: "유찬",
+                    link: "https://youtu.be/Oj7zZBlTg_U",
+                    percent: 100 ,
+                    hz: "120hz (mobile)"
+                },
                 {
                     user: "IgongDae",
                     link: "https://youtu.be/xhZN6-VkpeU",
