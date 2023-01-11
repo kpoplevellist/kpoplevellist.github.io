@@ -1348,17 +1348,17 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-               {
-                    user: "Korea7723",
-                    link: "https://youtu.be/eHXU1nOA53Q",
-                    percent:100 ,
-                    hz: "165hz"
-                },
                 {
                     user: "IgongDae",
                     link: "https://youtu.be/2iJxbD8oOMM",
                     percent: 100,
                     hz: "360hz"
+                },
+               {
+                    user: "Korea7723",
+                    link: "https://youtu.be/eHXU1nOA53Q",
+                    percent:100 ,
+                    hz: "165hz"
                 },
             ],
             name: "What is Love",
