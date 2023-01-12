@@ -741,24 +741,6 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-            ],
-            name: "Christmas Present",
-            author: "Sweetdream & More [Sweetdream]",
-            mapInfo: {
-                simpleExp: "겨울겨울해 - GFRIEND",
-                uploadDate: "2023.01.05",
-                verifingAtt: "347",
-                long: "1분 32초",
-                highest: "87470348",
-                more: "Sweetdream, IIDoManGII, PAI, JRain, mooney67",
-            },
-            percentToQualify: 70,
-            verificationVid: "https://www.youtube.com/watch?v=0RbcFBcwLxI",
-            key: 32
-        },
-        /*=================================================================================*/
-        {
-            vids: [
                 {
                     user: "Jirachi",
                     link: "https://youtu.be/lGi4fgYriWg",
@@ -784,7 +766,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=2suDFy8yOOE",
-            key: 33
+            key: 32
         },
         /*=================================================================================*/
         {
@@ -802,7 +784,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=5_2DTX-yvNk",
-            key: 34
+            key: 33
         },
         /*=================================================================================*/
         {
@@ -820,7 +802,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=6Bj5-Dpvl5A",
-            key: 35
+            key: 34
         },
         /*=================================================================================*/
         {
@@ -844,7 +826,7 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=uAvPzElEjsE",
-            key: 36
+            key: 35
         },
         /*=================================================================================*/
         {
@@ -868,7 +850,7 @@ const d = {
             },
             percentToQualify: 65,
             verificationVid: "https://www.youtube.com/watch?v=YgVyWPT3j28",
-            key: 37
+            key: 36
         },
         /*=================================================================================*/
         {
@@ -892,7 +874,7 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=4Uh6lB8CcC0",
-            key: 38
+            key: 37
         },
         /*=================================================================================*/
         {
@@ -916,6 +898,30 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=ZR3dLzFbziY",
+            key: 38
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "JRain",
+                    link: "https://youtu.be/TNgStcNu8eU",
+                    percent: 100,
+                    hz: "120hz"
+                },
+            ],
+            name: "Christmas Present",
+            author: "Sweetdream & More [Sweetdream]",
+            mapInfo: {
+                simpleExp: "겨울겨울해 - GFRIEND",
+                uploadDate: "2023.01.05",
+                verifingAtt: "347",
+                long: "1분 32초",
+                highest: "87470348",
+                more: "Sweetdream, IIDoManGII, PAI, JRain, mooney67",
+            },
+            percentToQualify: 70,
+            verificationVid: "https://www.youtube.com/watch?v=0RbcFBcwLxI",
             key: 39
         },
         /*=================================================================================*/
@@ -2115,6 +2121,12 @@ const d = {
                     link: "https://youtu.be/lWdJZQD5Sps",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "JRain",
+                    link: "https://youtu.be/vWXRq2zWX9o",
+                    percent: 100,
+                    hz: "60hz"
                 },
             ],
             name: "merry and happy",
