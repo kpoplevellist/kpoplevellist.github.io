@@ -1707,6 +1707,12 @@ const d = {
                     percent: 100,
                     hz: "60hz(mobile)"
                 },
+                {
+                    user: "Ret0Lart",
+                    link: "https://youtu.be/gqjlQq3B3gk",
+                    percent: 100,
+                    hz: "244hz"
+                },
             ],
             name: "RUN2U",
             author: "KrazyGFX",
