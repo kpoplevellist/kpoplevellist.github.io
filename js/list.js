@@ -773,14 +773,13 @@ const d = {
             vids: [
             ],
             name: "Savage",
-            author: "Ret0Lart & More [Aluminum]",
+            author: "Ret0Lart & More [Aluminium]",
             mapInfo: {
                 simpleExp: "Savage - Aespa",
                 uploadDate: "2022.03.06",
                 verifingAtt: "비공개",
                 long: "1분 30초",
                 highest: "78503423",
-                more: "Reippah, Karnari, scatlic, Projekt GD, Ret0Lart, X1arm, Rallow, Aluminum, Ji han, M4riNe, Jun17, Gpi",
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=5_2DTX-yvNk",
@@ -1203,6 +1202,12 @@ const d = {
                     percent: 100,
                     hz: "120hz(mobile)"
                 },
+                {
+                    user: "Aluminium",
+                    link: "https://youtu.be/eEo_vYgRLXQ",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Eleven",
             author: "ItzPlon & More [Ralo]",
@@ -1412,6 +1417,12 @@ const d = {
                     link: "https://youtu.be/Y6RFOeLJ8pw",
                     percent: 100,
                     hz: "60hz(mobile)"
+                },
+                {
+                    user: "Aluminium",
+                    link: "https://youtu.be/McYzl8SwdBQ",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Royal",
