@@ -817,10 +817,10 @@ const d = {
             author: "Ret0Lart & More [Ralo]",
             mapInfo: {
                 simpleExp: "RE:WIND - 이세계아이돌",
-                uploadDate: "2022.08.28",
+                uploadDate: "2022.11.28",
                 verifingAtt: "비공개",
                 long: "1분 41초",
-                highest: "83155279",
+                highest: "85890263",
                 more: "hardbass, Aluminium, Leaf, Gpi, Reippah, Ret0Lart, By Player",
             },
             percentToQualify: 62,
