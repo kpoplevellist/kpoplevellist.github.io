@@ -82,7 +82,7 @@ const d = {
         {
             vids: [
                 {
-                    user: "Aluminum",
+                    user: "Aluminium",
                     link: "https://youtu.be/NtOTY-RG1nw",
                     percent: 100,
                     hz: "240hz"
@@ -1239,7 +1239,7 @@ const d = {
                     hz: "60hz(mobile)"
                 },
                 {
-                    user: "Aluminum",
+                    user: "Aluminium",
                     link: "https://youtu.be/SseWB9GZ3t4",
                     percent: 100,
                     hz: "240hz"
@@ -2013,7 +2013,7 @@ const d = {
                     hz: "120hz(mobile)"
                 },
                 {
-                    user: "Aluminum",
+                    user: "Aluminium",
                     link: "https://youtu.be/ASQ4X5GWoiA",
                     percent: 100,
                     hz: "240hz"
@@ -2253,7 +2253,7 @@ const d = {
                     hz: "120hz(mobile)"
                 },
                 {
-                    user: "Aluminum",
+                    user: "Aluminium",
                     link: "https://youtu.be/SpvONPx6lcs",
                     percent: 100,
                     hz: "45hz"
