@@ -81,6 +81,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Aluminium",
+                    link: "https://youtu.be/NtOTY-RG1nw",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Hann",
             author: "Ralo & More [Ralo]",
@@ -1202,6 +1208,12 @@ const d = {
                     percent: 100,
                     hz: "120hz(mobile)"
                 },
+                {
+                    user: "Aluminium",
+                    link: "https://youtu.be/eEo_vYgRLXQ",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Eleven",
             author: "ItzPlon & More [Ralo]",
@@ -1225,6 +1237,12 @@ const d = {
                     link: "https://youtu.be/K7hJrp7_-U4",
                     percent: 100,
                     hz: "60hz(mobile)"
+                },
+                {
+                    user: "Aluminium",
+                    link: "https://youtu.be/SseWB9GZ3t4",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Period",
@@ -1411,6 +1429,12 @@ const d = {
                     link: "https://youtu.be/Y6RFOeLJ8pw",
                     percent: 100,
                     hz: "60hz(mobile)"
+                },
+                {
+                    user: "Aluminium",
+                    link: "https://youtu.be/McYzl8SwdBQ",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Royal",
