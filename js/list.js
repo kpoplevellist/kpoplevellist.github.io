@@ -2260,6 +2260,30 @@ const d = {
             vids: [
                 {
                     user: "IgongDae",
+                    link: "https://youtu.be/ZkhpKm67X_0",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "ddc and me",
+            author: "Coffee",
+            mapInfo: {
+                simpleExp: "DDC & ME - Polodared",
+                uploadDate: "2023.01.15",
+                verifingAtt: "비공개",
+                long: "0분 55초",
+                highest: "87790855",
+                more: "none",
+            },
+            percentToQualify: 78,
+            verificationVid: "https://www.youtube.com/watch?v=n4WqkIYn1dc",
+            key: 86
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
                     link: "https://youtu.be/RcpEsU2C7j4",
                     percent: 100,
                     hz: "120hz"
@@ -2289,7 +2313,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=mpcZcOMe_go",
-            key: 86
+            key: 87
         },
         /*=================================================================================*/
         {
@@ -2343,7 +2367,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=FbWDGFUIWyo",
-            key: 87
+            key: 88
         },
         /*=================================================================================*/
     ],
