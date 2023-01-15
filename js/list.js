@@ -81,6 +81,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Aluminum",
+                    link: "https://youtu.be/NtOTY-RG1nw",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Hann",
             author: "Ralo & More [Ralo]",
@@ -1232,6 +1238,12 @@ const d = {
                     percent: 100,
                     hz: "60hz(mobile)"
                 },
+                {
+                    user: "Aluminum",
+                    link: "https://youtu.be/SseWB9GZ3t4",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Period",
             author: "Chop & More [Aqua0607]",
@@ -1264,14 +1276,14 @@ const d = {
                 },
             ],
             name: "Alcohol Free",
-            author: "lCont & More [lCont]",
+            author: "Cont & More [Cont]",
             mapInfo: {
                 simpleExp: "Alcohol Free - Twice",
                 uploadDate: "2021.08.14",
                 verifingAtt: "비공개",
                 long: "1분 31초",
                 highest: "72555622",
-                more: "lCont, JRain, mooney67",
+                more: "Cont, JRain, mooney67",
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=npfdfBfLZyg",
@@ -2000,6 +2012,12 @@ const d = {
                     percent: 100,
                     hz: "120hz(mobile)"
                 },
+                {
+                    user: "Aluminum",
+                    link: "https://youtu.be/ASQ4X5GWoiA",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "permission to dance",
             author: "IIDoManGII",
@@ -2233,6 +2251,12 @@ const d = {
                     link: "https://youtu.be/tgLDHkArS5A",
                     percent: 100,
                     hz: "120hz(mobile)"
+                },
+                {
+                    user: "Aluminum",
+                    link: "https://youtu.be/SpvONPx6lcs",
+                    percent: 100,
+                    hz: "45hz"
                 },
             ],
             name: "Feel My Rhythm",
