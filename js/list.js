@@ -812,6 +812,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Aluminium",
+                    link: "https://www.youtube.com/watch?v=-xw2OPHBeuw",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "RE wind",
             author: "Ret0Lart & More [Ralo]",
