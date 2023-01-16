@@ -2278,7 +2278,7 @@ const d = {
                 },
             ],
             name: "ddc and me",
-            author: "Coffee",
+            author: "Aluminium",
             mapInfo: {
                 simpleExp: "DDC & ME - Polodared",
                 uploadDate: "2023.01.15",
