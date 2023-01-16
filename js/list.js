@@ -820,7 +820,7 @@ const d = {
                 uploadDate: "2022.11.28",
                 verifingAtt: "비공개",
                 long: "1분 41초",
-                highest: "85890263",
+                highest: "85890293",
                 more: "hardbass, Aluminium, Leaf, Gpi, Reippah, Ret0Lart, By Player",
             },
             percentToQualify: 62,
@@ -835,6 +835,12 @@ const d = {
                     link: "https://youtu.be/hZuJSIOU3i8",
                     percent: 100,
                     hz: "165hz"
+                },
+                {
+                    user: "Aluminium",
+                    link: "https://youtu.be/AJKQziPSp6E",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Butter",
