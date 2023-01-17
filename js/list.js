@@ -1820,6 +1820,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Aluminium",
+                    link: "https://youtu.be/kcvFjjLPErM",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "into the new wrold",
             author: "Ret0Lart [Elisa]",
@@ -2137,6 +2143,12 @@ const d = {
                     link: "https://youtu.be/vWXRq2zWX9o",
                     percent: 100,
                     hz: "60hz"
+                },
+                {
+                    user: "Aluminium",
+                    link: "https://youtu.be/qMZbzCGqP7M",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "merry and happy",
