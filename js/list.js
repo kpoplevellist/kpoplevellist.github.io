@@ -1418,6 +1418,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/8R1Z8bwUjrA",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "How You like That",
             author: "YahirGSL",
@@ -1835,6 +1841,12 @@ const d = {
                 {
                     user: "Aluminium",
                     link: "https://youtu.be/kcvFjjLPErM",
+                    percent: 100,
+                    hz: "240hz"
+                },
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/qqLnNhxkSyg",
                     percent: 100,
                     hz: "240hz"
                 },
