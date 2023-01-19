@@ -981,7 +981,7 @@ const d = {
         {
             vids: [
             ],
-            nae: "BTS  DNA",
+            name: "BTS  DNA",
             author: "lolbito",
             mapInfo: {
                 simpleExp: "DNA - BTS",
