@@ -777,6 +777,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "NanCho",
+                    link: "https://youtu.be/plqBNd69QIU",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Savage",
             author: "Ret0Lart & More [Aluminium]",
@@ -871,6 +877,12 @@ const d = {
                     link: "https://youtu.be/YgVyWPT3j28",
                     percent: 100,
                     hz: "165hz"
+                },
+                {
+                    user: "NanCho",
+                    link: "https://youtu.be/GVjgvCyrij4",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "WoW Layout",
