@@ -874,13 +874,13 @@ const d = {
             vids: [
                 {
                     user: "Sidci",
-                    link: "https://youtu.be/plqBNd69QIU",
+                    link: "https://youtu.be/YgVyWPT3j28",
                     percent: 100,
                     hz: "165hz"
                 },
                 {
                     user: "NanCho",
-                    link: "https://youtu.be/GVjgvCyrij4",
+                    link: "https://youtu.be/plqBNd69QIU",
                     percent: 100,
                     hz: "360hz"
                 },
