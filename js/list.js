@@ -1808,6 +1808,12 @@ const d = {
                     percent: 100,
                     hz: "60hz"
                 },
+                {
+                    user: "Aluminium",
+                    link: "https://youtu.be/cF6HdRKKJ9A",
+                    percent: 100,
+                    hz: 240hz"
+                },
             ],
             name: "Coin",
             author: "IIDoManGII & Coinlol [IIDoManGII]",
