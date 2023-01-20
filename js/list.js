@@ -854,6 +854,12 @@ const d = {
                     percent: 100,
                     hz: "240hz"
                 },
+                {
+                    user: "NanCho",
+                    link: "https://youtu.be/vE4PRPSLHUc",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Butter",
             author: "LuX & more [Mephitz]",
@@ -1273,6 +1279,12 @@ const d = {
                     link: "https://youtu.be/eEo_vYgRLXQ",
                     percent: 100,
                     hz: "240hz"
+                },
+                {
+                    user: "NanCho",
+                    link: "https://youtu.be/z0Bk9xHy2Z0",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "Eleven",
