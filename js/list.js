@@ -1812,7 +1812,7 @@ const d = {
                     user: "Aluminium",
                     link: "https://youtu.be/cF6HdRKKJ9A",
                     percent: 100,
-                    hz: 240hz"
+                    hz: "240hz"
                 },
             ],
             name: "Coin",
