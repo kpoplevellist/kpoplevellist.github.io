@@ -843,7 +843,7 @@ const d = {
         {
             vids: [
             ],
-            name: "Fanfare",
+            name: "anfare",
             author: "Daaaako & More [Daaaako]",
             mapInfo: {
                 simpleExp: "Fanfare - Twice",
