@@ -1814,7 +1814,7 @@ const d = {
                 more: "none",
             },
             percentToQualify: 66,
-            verificationVid: "https://youtu.be/Fg236_-veog",
+            verificationVid: "https://www.youtube.com/watch?v=Fg236_-veog",
             key: 70
         },
         /*=================================================================================*/
