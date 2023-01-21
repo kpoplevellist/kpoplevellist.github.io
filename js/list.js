@@ -1100,6 +1100,30 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/8R1Z8bwUjrA",
+                    percent: 100,
+                    hz: "240hz"
+                },
+            ],
+            name: "How You like That",
+            author: "YahirGSL",
+            mapInfo: {
+                simpleExp: "How You like That - BlackPink",
+                uploadDate: "2018.05.31",
+                verifingAtt: "비공개",
+                long: "2분 56초",
+                highest: "80513498",
+                more: "none",
+            },
+            percentToQualify: 67,
+            verificationVid: "https://www.youtube.com/watch?v=JlEjuF26ydU",
+            key: 46
+        },
+        /*=================================================================================*/
+        {
+            vids: [
             ],
             name: "SINCE",
             author: "IgongDae",
@@ -1113,7 +1137,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=h5IQwMym02M",
-            key: 46
+            key: 47
         },
         /*=================================================================================*/
         {
@@ -1137,7 +1161,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=TDF1I756SEM",
-            key: 47
+            key: 48
         },
         /*=================================================================================*/
         {
@@ -1167,7 +1191,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=QWqNs9OnslM",
-            key: 48
+            key: 49
         },
         /*=================================================================================*/
         {
@@ -1203,7 +1227,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=aWtvq22bb8I",
-            key: 49
+            key: 50
         },
         /*=================================================================================*/
         {
@@ -1221,7 +1245,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=EZXfv_YylVg",
-            key: 50
+            key: 51
         },
         /*=================================================================================*/
         {
@@ -1245,7 +1269,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=OfVpc1rxoW0",
-            key: 51
+            key: 52
         },
         /*=================================================================================*/
         {
@@ -1263,7 +1287,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=x8JcBgfrN4o",
-            key: 52
+            key: 53
         },
         /*=================================================================================*/
         {
@@ -1335,7 +1359,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=yhSUOuWBnXs",
-            key: 53
+            key: 54
         },
         /*=================================================================================*/
         {
@@ -1371,7 +1395,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lgSybIHqZIY",
-            key: 54
+            key: 55
         },
         /*=================================================================================*/
         {
@@ -1401,7 +1425,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=npfdfBfLZyg",
-            key: 55
+            key: 56
         },
         /*=================================================================================*/
         {
@@ -1425,36 +1449,6 @@ const d = {
             },
             percentToQualify: 65,
             verificationVid: "https://www.youtube.com/watch?v=4BmopVxL8q0",
-            key: 56
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "IgongDae",
-                    link: "https://youtu.be/2iJxbD8oOMM",
-                    percent: 100,
-                    hz: "360hz"
-                },
-               {
-                    user: "Korea7723",
-                    link: "https://youtu.be/eHXU1nOA53Q",
-                    percent:100 ,
-                    hz: "165hz"
-                },
-            ],
-            name: "What is Love",
-            author: "Hotdog71 & Sweetdream [Sweetdream]",
-            mapInfo: {
-                simpleExp: "What is Love - Twice",
-                uploadDate: "2022.10.18",
-                verifingAtt: "비공개",
-                long: "3분 15초",
-                highest: "84758050",
-                more: "Hotdog71, Sweetdream",
-            },
-            percentToQualify: 70,
-            verificationVid: "https://www.youtube.com/watch?v=JX5JQKrJ5-0",
             key: 57
         },
         /*=================================================================================*/
@@ -1486,23 +1480,29 @@ const d = {
             vids: [
                 {
                     user: "IgongDae",
-                    link: "https://youtu.be/8R1Z8bwUjrA",
+                    link: "https://youtu.be/2iJxbD8oOMM",
                     percent: 100,
-                    hz: "240hz"
+                    hz: "360hz"
+                },
+               {
+                    user: "Korea7723",
+                    link: "https://youtu.be/eHXU1nOA53Q",
+                    percent:100 ,
+                    hz: "165hz"
                 },
             ],
-            name: "How You like That",
-            author: "YahirGSL",
+            name: "What is Love",
+            author: "Hotdog71 & Sweetdream [Sweetdream]",
             mapInfo: {
-                simpleExp: "How You like That - BlackPink",
-                uploadDate: "2018.05.31",
+                simpleExp: "What is Love - Twice",
+                uploadDate: "2022.10.18",
                 verifingAtt: "비공개",
-                long: "2분 56초",
-                highest: "80513498",
-                more: "none",
+                long: "3분 15초",
+                highest: "84758050",
+                more: "Hotdog71, Sweetdream",
             },
-            percentToQualify: 67,
-            verificationVid: "https://www.youtube.com/watch?v=JlEjuF26ydU",
+            percentToQualify: 70,
+            verificationVid: "https://www.youtube.com/watch?v=JX5JQKrJ5-0",
             key: 59
         },
         /*=================================================================================*/
