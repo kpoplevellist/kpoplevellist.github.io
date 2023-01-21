@@ -1172,24 +1172,6 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-            ],
-            name: "Ditto",
-            author: "IgongDae & More [IgongDae]",
-            mapInfo: {
-                simpleExp: "Ditto - NewJeans",
-                uploadDate: "2023.01.22",
-                verifingAtt: "비공개",
-                long: "1분 14초",
-                highest: "87950301",
-                more: "KaTTharsis, IgongDae, IIDoManGII, Sidci",
-            },
-            percentToQualify: 66,
-            verificationVid: "https://www.youtube.com/watch?v=x8JcBgfrN4o",
-            key: 49
-        },
-        /*=================================================================================*/
-        {
-            vids: [
                 {
                     user: "JRain",
                     link: "https://youtu.be/GJtL1HETZ1w",
@@ -1221,7 +1203,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=aWtvq22bb8I",
-            key: 50
+            key: 49
         },
         /*=================================================================================*/
         {
@@ -1239,7 +1221,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=EZXfv_YylVg",
-            key: 51
+            key: 50
         },
         /*=================================================================================*/
         {
@@ -1263,6 +1245,24 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=OfVpc1rxoW0",
+            key: 51
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Ditto",
+            author: "IgongDae & More [IgongDae]",
+            mapInfo: {
+                simpleExp: "Ditto - NewJeans",
+                uploadDate: "2023.01.22",
+                verifingAtt: "비공개",
+                long: "1분 14초",
+                highest: "87950301",
+                more: "KaTTharsis, IgongDae, IIDoManGII, Sidci",
+            },
+            percentToQualify: 66,
+            verificationVid: "https://www.youtube.com/watch?v=x8JcBgfrN4o",
             key: 52
         },
         /*=================================================================================*/
