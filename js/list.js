@@ -249,6 +249,12 @@ const d = {
                     percent: 100,
                     hz: "144hz"
                 },
+                {
+                    user: "Daaaako",
+                    link: "https://youtu.be/Xiv2nresPvE",
+                    percent: 100,
+                    hz: "75hz"
+                },
             ],
             name: "Rough",
             author: "Kmini & More [zPlasmaLust]",
@@ -759,6 +765,18 @@ const d = {
                     percent: 100,
                     hz: "288hz"
                 },
+                {
+                    user: "Daaaako",
+                    link: "https://youtu.be/mZfndM_RZso",
+                    percent: 100,
+                    hz: "75hz"
+                },
+                {
+                    user: "NanCho",
+                    link: "https://youtu.be/k45LIbUGno4",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Fiesta",
             author: "Kmini & More [Kmini]",
@@ -1082,6 +1100,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Daaaako",
+                    link: "https://youtu.be/NbCzYzZAwiw",
+                    percent: 100,
+                    hz: "75hz"
+                },
             ],
             name: "Alcohol Free L",
             author: "Johnnyvision & More [Johnnyvision]",
@@ -1232,6 +1256,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/bP7X9pD24aU",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "blue moon",
             author: "Ret0Lart & Elina [Aluminium]",
