@@ -1274,6 +1274,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/FFR5zX_L5Ng",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Ditto",
             author: "IgongDae & More [IgongDae]",
@@ -1489,6 +1495,12 @@ const d = {
                     link: "https://youtu.be/eHXU1nOA53Q",
                     percent:100 ,
                     hz: "165hz"
+                },
+                {
+                    user: "NanCho",
+                    link: "https://youtu.be/ajGyiRHivS8",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "What is Love",
