@@ -1100,6 +1100,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "NanCho",
+                    link: "https://youtu.be/yjjY4ETalow",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "STEREOTYPE",
             author: "Aluminium & More [Aluminium]",
