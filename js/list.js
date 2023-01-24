@@ -1286,6 +1286,12 @@ const d = {
                     percent: 100,
                     hz: "120hz(mobile)"
                 },
+                {
+                    user: "Blebae",
+                    link: "https://youtu.be/A0VhKuPI1GM",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "dancing cartoon",
             author: "MinYong05",
