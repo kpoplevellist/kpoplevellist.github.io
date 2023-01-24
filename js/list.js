@@ -2530,6 +2530,30 @@ const d = {
             vids: [
                 {
                     user: "IgongDae",
+                    link: "https://youtu.be/r-QdKGUv3vg",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "Moonlight Sunrise",
+            author: "IsmaHikari",
+            mapInfo: {
+                simpleExp: "Moonlight Sunrise - Twice",
+                uploadDate: "2023.01.21",
+                verifingAtt: "비공개",
+                long: "1분 11초",
+                highest: "87952960",
+                more: "none",
+            },
+            percentToQualify: 77,
+            verificationVid: "https://www.youtube.com/watch?v=5kx6_ElpKIU",
+            key: 93
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
                     link: "https://youtu.be/F9u5zRQvRQ8",
                     percent: 100,
                     hz: "360hz"
@@ -2553,7 +2577,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
-            key: 93
+            key: 94
         },
         /*=================================================================================*/
         {
@@ -2583,7 +2607,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=5pOClFj_63c",
-            key: 94
+            key: 95
         },
         /*=================================================================================*/
         {
@@ -2607,7 +2631,7 @@ const d = {
             },
             percentToQualify: 78,
             verificationVid: "https://www.youtube.com/watch?v=n4WqkIYn1dc",
-            key: 95
+            key: 96
         },
         /*=================================================================================*/
         {
@@ -2643,7 +2667,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=mpcZcOMe_go",
-            key: 96
+            key: 97
         },
         /*=================================================================================*/
         {
@@ -2697,7 +2721,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=FbWDGFUIWyo",
-            key: 97
+            key: 98
         },
         /*=================================================================================*/
     ],
