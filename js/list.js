@@ -1346,6 +1346,12 @@ const d = {
                     percent: 100,
                     hz: "240hz"
                 },
+                {
+                    user: "Jirachi",
+                    link: "https://youtu.be/i6X_uWsbo7c",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Ditto",
             author: "IgongDae & More [IgongDae]",
