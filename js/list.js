@@ -795,6 +795,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Blebae",
+                    link: "https://youtu.be/keDtFWPHZDQ",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "XOXO",
             author: "IgongDae",
