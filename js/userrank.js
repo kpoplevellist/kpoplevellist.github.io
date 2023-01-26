@@ -64,15 +64,15 @@ userData.sort(function(a,b) {
 
 function getPoint(rank, percent, cutline, hz) {
   var hzpoint = 1.0;
-  if (rank > 101) {
-    var score = roundNumber(((percent - (cutline-1))/(100 - (cutline-1))), 3);
-    if (percent != 100) {
+  if (rank > 120) {
+    var score = roundNumber(((percent - (cutline-1))/(120 - (cutline-1))), 3);
+    if (percent != 120) {
       return roundNumber(score - (score/3), 3);
     } else {
       return score;
     }
   } else {
-      var score = roundNumber(((3/(((rank-1) / 100) + 1.302775)) - 1.302775)*100*((percent - (cutline-1))/(100 - (cutline-1))), 3);
+      var score = roundNumber(((3/(((rank-1) / 120) + 1.302775)) - 1.302775)*120*((percent - (cutline-1))/(120 - (cutline-1))), 3);
       if (percent != 100) {
         return roundNumber(score - (score/3), 3);
       } else {
@@ -100,17 +100,17 @@ function getTrophy(rank) {
     var point = userData[rank-1].point;
     if (rank == 1) {
       return "top1_trophy.png";
-    } else if (point >= 200) {
+    } else if (point >= 1000) {
       return "gold_trophy.png";
-    } else if (point >= 150) {
+    } else if (point >= 500) {
       return "silver_trophy.png";
-    } else if (point >= 100) {
+    } else if (point >= 300) {
       return "cooper_trophy.png";
-    } else if (point >= 60) {
+    } else if (point >= 200) {
       return "green_trophy.png";
-    } else if (point >= 30) {
+    } else if (point >= 100) {
       return "aqua_trophy.png";
-    } else if (point >= 10) {
+    } else if (point >= 50) {
       return "pink_trophy.png";
     } else {
       return "red_trophy.png";
