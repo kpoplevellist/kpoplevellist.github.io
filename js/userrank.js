@@ -51,7 +51,7 @@ for (var i = 0; i < list.length; i++) {
         if (verifier.toUpperCase() == userData[r].name.toUpperCase()) {
             var userRecord = userData[r].verified;
             userRecord.push(i+1);
-            userData[r].point = roundNumber(userData[r].point + getPoint(i+1, 120, list[i].percentToQualify, null), 3);
+            userData[r].point = roundNumber(userData[r].point + getPoint(i+1, 100, list[i].percentToQualify, null), 3);
             userData[r].verified = userRecord;
         }
     }
@@ -65,14 +65,14 @@ userData.sort(function(a,b) {
 function getPoint(rank, percent, cutline, hz) {
   var hzpoint = 1.0;
   if (rank > 120) {
-    var score = roundNumber(((percent - (cutline-1))/(120 - (cutline-1))), 3);
+    var score = roundNumber(((percent - (cutline-1))/(100 - (cutline-1))), 3);
     if (percent != 100) {
       return roundNumber(score - (score/3), 3);
     } else {
       return score;
     }
   } else {
-      var score = roundNumber(((3/(((rank-1) / 120) + 1.302775)) - 1.302775)*120*((percent - (cutline-1))/(120 - (cutline-1))), 3);
+      var score = roundNumber(((3/(((rank-1) / 100) + 1.302775)) - 1.302775)*100*((percent - (cutline-1))/(100 - (cutline-1))), 3);
       if (percent != 100) {
         return roundNumber(score - (score/3), 3);
       } else {
