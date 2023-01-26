@@ -66,7 +66,7 @@ function getPoint(rank, percent, cutline, hz) {
   var hzpoint = 1.0;
   if (rank > 120) {
     var score = roundNumber(((percent - (cutline-1))/(120 - (cutline-1))), 3);
-    if (percent != 120) {
+    if (percent != 100) {
       return roundNumber(score - (score/3), 3);
     } else {
       return score;
