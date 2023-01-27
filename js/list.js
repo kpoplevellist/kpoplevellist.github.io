@@ -27,6 +27,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "JRain",
+                    link: "https://youtu.be/bkvnpmW37TQ",
+                    percent: 100,
+                    hz: "120hz"
+                },
             ],
             name: "Talk And Talk",
             author: "IgongDae",
