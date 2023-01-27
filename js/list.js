@@ -1244,6 +1244,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "NanCho",
+                    link: "https://youtu.be/Ecojs78qvWA",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "hello mr myyerterday",
             author: "Ret0lart & More [Aluminium]",
