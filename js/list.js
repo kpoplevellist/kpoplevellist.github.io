@@ -489,6 +489,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Compass",
+                    link: "https://youtu.be/z9ZQQBZBPrc",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "hype boy",
             author: "Blebae",
