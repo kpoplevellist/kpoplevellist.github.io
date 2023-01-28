@@ -472,24 +472,6 @@ const d = {
         {
             vids: [
             ],
-            name: "Up And",
-            author: "IgongDae & More [IgongDae]",
-            mapInfo: {
-                simpleExp: "Up And - fromis_9",
-                uploadDate: "2023.01.05",
-                verifingAtt: "893",
-                long: "1분 44초",
-                highest: "87449442",
-                more: "PoCha, Kowoo, Compass, GDSean, JRain, IgongDae, Cadooo, IIDoManGII, HyunTrol, mkoijn10, mooney67, ItzWain, 23138185",
-            },
-            percentToQualify: 60,
-            verificationVid: "https://www.youtube.com/watch?v=xblWIqySwvE",
-            key: 19
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
             name: "SERENITY",
             author: "irrene & More [irrene]",
             mapInfo: {
@@ -502,7 +484,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=pD6a4L0s_cg",
-            key: 20
+            key: 19
         },
         /*=================================================================================*/
         {
@@ -520,6 +502,24 @@ const d = {
             },
             percentToQualify: 59,
             verificationVid: "https://www.youtube.com/watch?v=xwIHIiZ3YSs",
+            key: 20
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Up And",
+            author: "IgongDae & More [IgongDae]",
+            mapInfo: {
+                simpleExp: "Up And - fromis_9",
+                uploadDate: "2023.01.05",
+                verifingAtt: "893",
+                long: "1분 44초",
+                highest: "87449442",
+                more: "PoCha, Kowoo, Compass, GDSean, JRain, IgongDae, Cadooo, IIDoManGII, HyunTrol, mkoijn10, mooney67, ItzWain, 23138185",
+            },
+            percentToQualify: 60,
+            verificationVid: "https://www.youtube.com/watch?v=xblWIqySwvE",
             key: 21
         },
         /*=================================================================================*/
