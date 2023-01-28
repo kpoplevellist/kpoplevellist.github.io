@@ -27,6 +27,42 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+            ],
+            name: "Kiss",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "Kiss - NMIXX",
+                uploadDate: "2022.08.15",
+                verifingAtt: "2305",
+                long: "1분 29초",
+                highest: "82762478",
+                more: "none",
+            },
+            percentToQualify: 54,
+            verificationVid: "https://www.youtube.com/watch?v=J6JD6OLzNW0",
+            key: 1
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "SWAN",
+            author: "IgongDae [RedSwitch]",
+            mapInfo: {
+                simpleExp: "환상동화 (Secret Story of the Swan) - IZ*ONE",
+                uploadDate: "2020.09.26",
+                verifingAtt: "1148",
+                long: "3분 13초",
+                highest: "64199166",
+                more: "none",
+            },
+            percentToQualify: 50,
+            verificationVid: "https://www.youtube.com/watch?v=Obm7L-0FE6s",
+            key: 2
+        },
+        /*=================================================================================*/
+        {
+            vids: [
                 {
                     user: "JRain",
                     link: "https://youtu.be/bkvnpmW37TQ",
@@ -46,42 +82,6 @@ const d = {
             },
 			percentToQualify: 48,
             verificationVid: "https://www.youtube.com/watch?v=ezeKiAuB4zk",
-            key: 1
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "Kiss",
-            author: "IgongDae",
-            mapInfo: {
-                simpleExp: "Kiss - NMIXX",
-                uploadDate: "2022.08.15",
-                verifingAtt: "2305",
-                long: "1분 29초",
-                highest: "82762478",
-                more: "none",
-            },
-            percentToQualify: 54,
-            verificationVid: "https://www.youtube.com/watch?v=J6JD6OLzNW0",
-            key: 2
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "SWAN",
-            author: "IgongDae [RedSwitch]",
-            mapInfo: {
-                simpleExp: "환상동화 (Secret Story of the Swan) - IZ*ONE",
-                uploadDate: "2020.09.26",
-                verifingAtt: "1148",
-                long: "3분 13초",
-                highest: "64199166",
-                more: "none",
-            },
-            percentToQualify: 50,
-            verificationVid: "https://www.youtube.com/watch?v=Obm7L-0FE6s",
             key: 3
         },
         /*=================================================================================*/
@@ -279,25 +279,19 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-                {
-                    user: "JRain",
-                    link: "https://youtu.be/Awk4pbjGXKM",
-                    percent: 100,
-                    hz: "120hz"
-                },
             ],
-            name: "Cookie",
+            name: "DICE",
             author: "IgongDae",
             mapInfo: {
-                simpleExp: "Cookie - NewJeans",
-                uploadDate: "2023.01.28",
-                verifingAtt: "937",
-                long: "1분 14초",
-                highest: "88111875",
+                simpleExp: "DICE - NMIXX",
+                uploadDate: "2023.01.02",
+                verifingAtt: "604",
+                long: "1분 5초",
+                highest: "87365257",
                 more: "none",
             },
-            percentToQualify: 65,
-            verificationVid: "https://www.youtube.com/watch?v=JYD51qYmEU8",
+            percentToQualify: 63,
+            verificationVid: "https://www.youtube.com/watch?v=e3w9jvKxYHI",
             key: 11
         },
         /*=================================================================================*/
@@ -453,19 +447,25 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "JRain",
+                    link: "https://youtu.be/Awk4pbjGXKM",
+                    percent: 100,
+                    hz: "120hz"
+                },
             ],
-            name: "DICE",
+            name: "Cookie",
             author: "IgongDae",
             mapInfo: {
-                simpleExp: "DICE - NMIXX",
-                uploadDate: "2023.01.02",
-                verifingAtt: "604",
-                long: "1분 5초",
-                highest: "87365257",
+                simpleExp: "Cookie - NewJeans",
+                uploadDate: "2023.01.28",
+                verifingAtt: "937",
+                long: "1분 14초",
+                highest: "88111875",
                 more: "none",
             },
-            percentToQualify: 63,
-            verificationVid: "https://www.youtube.com/watch?v=e3w9jvKxYHI",
+            percentToQualify: 65,
+            verificationVid: "https://www.youtube.com/watch?v=JYD51qYmEU8",
             key: 18
         },
         /*=================================================================================*/
