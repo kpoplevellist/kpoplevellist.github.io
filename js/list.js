@@ -279,6 +279,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "JRain",
+                    link: "https://youtu.be/Awk4pbjGXKM",
+                    percent: 100,
+                    hz: "120hz"
+                },
             ],
             name: "Cookie",
             author: "IgongDae",
