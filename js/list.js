@@ -2662,7 +2662,7 @@ const d = {
                 },
                 {
                     user: "HANJINGD",
-                    link: "https://youtu.be/pFkWD1jhzyk",
+                    link: "https://youtu.be/CvXySTM7fPQ",
                     percent: 100,
                     hz: "60hz(mobile)"
                 },
