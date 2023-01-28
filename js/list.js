@@ -321,6 +321,12 @@ const d = {
                     percent: 100,
                     hz: "120hz"
                 },
+                {
+                    user: "HANJINGD",
+                    link: "https://youtu.be/pFkWD1jhzyk",
+                    percent: 100,
+                    hz: "120hz"
+                },
             ],
             name: "Stay This Way",
             author: "IgongDae",
@@ -2000,6 +2006,12 @@ const d = {
                     percent: 100,
                     hz: "144hz"
                 },
+                {
+                    user: "HANJINGD",
+                    link: "https://youtu.be/70nNgiV5iug",
+                    percent: 100,
+                    hz: "60hz(mobile)"
+                },
             ],
             name: "Smiley",
             author: "IIDoManGII",
@@ -2645,6 +2657,12 @@ const d = {
                 {
                     user: "mkoijn10",
                     link: "https://youtu.be/dbtNPaYXvbk",
+                    percent: 100,
+                    hz: "60hz(mobile)"
+                },
+                {
+                    user: "HANJINGD",
+                    link: "https://youtu.be/pFkWD1jhzyk",
                     percent: 100,
                     hz: "60hz(mobile)"
                 },
