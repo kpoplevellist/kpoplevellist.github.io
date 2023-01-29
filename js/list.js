@@ -2744,6 +2744,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "mkoijn10",
+                    link: "https://youtu.be/zV7xb40UVk4",
+                    percent: 100,
+                    hz: "60hz(mobile)"
+                },
             ],
             name: "ddc and me",
             author: "Aluminium",
