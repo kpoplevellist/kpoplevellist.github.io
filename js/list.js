@@ -2634,7 +2634,7 @@ const d = {
                     user: "유찬",
                     link: "https://youtu.be/Oj7zZBlTg_U",
                     percent: 100 ,
-                    hz: "120hz (mobile)"
+                    hz: "120hz(mobile)"
                 },
                 {
                     user: "IgongDae",
