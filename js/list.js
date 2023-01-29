@@ -2520,7 +2520,7 @@ const d = {
                     user: "Korea7723",
                     link: "https://youtu.be/obyKBQiJwEk",
                     percent: 100,
-                    hz: "120hz (mobile)"
+                    hz: "120hz(mobile)"
                 },
                 {
                     user: "Compass",
@@ -2592,7 +2592,7 @@ const d = {
                     user: "유찬",
                     link: "https://youtu.be/4vIcx4_ald4",
                     percent: 100,
-                    hz: "120hz (mobile"
+                    hz: "120hz(mobile)"
                 },
                 {
                     user: "IgongDae",
@@ -2633,7 +2633,7 @@ const d = {
                {
                     user: "유찬",
                     link: "https://youtu.be/Oj7zZBlTg_U",
-                    percent: 100 ,
+                    percent: 100,
                     hz: "120hz(mobile)"
                 },
                 {
