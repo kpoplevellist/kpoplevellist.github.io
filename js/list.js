@@ -953,7 +953,7 @@ const d = {
                 },
             ],
             name: "Savage",
-            author: "Ret0Lart & More [Aluminium]",
+            author: "Ret0Lart & More [Ret0Lart]",
             mapInfo: {
                 simpleExp: "Savage - Aespa",
                 uploadDate: "2022.03.06",
@@ -1043,6 +1043,12 @@ const d = {
                 {
                     user: "NanCho",
                     link: "https://youtu.be/vE4PRPSLHUc",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/wk5EEghY8eY",
                     percent: 100,
                     hz: "360hz"
                 },
@@ -1286,6 +1292,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/4xf_EoUXfmY",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "hello mr myyerterday",
             author: "Ret0lart & More [Aluminium]",
@@ -1354,7 +1366,7 @@ const d = {
                 },
             ],
             name: "blue moon",
-            author: "Ret0Lart & Elina [Aluminium]",
+            author: "Ret0Lart & Elina [Ret0Lart]",
             mapInfo: {
                 simpleExp: "BLUE MOON - 효린&창모 (Prod. GroovyRoom)",
                 uploadDate: "2022.07.17",
