@@ -1540,7 +1540,7 @@ const d = {
                 },
                 {
                     user: "IgongDae",
-                    link: "https://youtu.be/N-8RUoyIijU",
+                    link: "https://youtu.be/OV4S6rAwBPI",
                     percent: 100,
                     hz: "360hz"
                 },
