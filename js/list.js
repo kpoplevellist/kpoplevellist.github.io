@@ -1532,6 +1532,18 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Aluminium",
+                    link: "https://youtu.be/P35begE9QgA",
+                    percent: 100,
+                    hz: "240hz"
+                },
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/N-8RUoyIijU",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Black hole",
             author: "imwu & nole [imwu]",
