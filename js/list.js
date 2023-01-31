@@ -1029,6 +1029,336 @@ const d = {
         {
             vids: [
                 {
+                    user: "Sidci",
+                    link: "https://youtu.be/YgVyWPT3j28",
+                    percent: 100,
+                    hz: "165hz"
+                },
+                {
+                    user: "NanCho",
+                    link: "https://youtu.be/plqBNd69QIU",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "WoW Layout",
+            author: "zFailon, Sidci [zFailon]",
+            mapInfo: {
+                simpleExp: "WOW - LOONA",
+                uploadDate: "2022.11.07",
+                verifingAtt: "비공개",
+                long: "1분 43초",
+                highest: "85409571",
+                more: "zFailon, Sidci",
+            },
+            percentToQualify: 65,
+            verificationVid: "https://www.youtube.com/watch?v=YgVyWPT3j28",
+            key: 43
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "JRain",
+                    link: "https://youtu.be/0IUdCP8e9E8",
+                    percent: 100,
+                    hz: "180hz"
+                },
+            ],
+            name: "Beautiful Monster",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "Beautiful Monster - StayC",
+                uploadDate: "2022.09.23",
+                verifingAtt: "361",
+                long: "1분 16초",
+                highest: "83994655",
+                more: "none",
+            },
+            percentToQualify: 70,
+            verificationVid: "https://www.youtube.com/watch?v=ZR3dLzFbziY",
+            key: 44
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "JRain",
+                    link: "https://youtu.be/TNgStcNu8eU",
+                    percent: 100,
+                    hz: "120hz"
+                },
+            ],
+            name: "Christmas Present",
+            author: "Sweetdream & More [Sweetdream]",
+            mapInfo: {
+                simpleExp: "겨울겨울해 - GFRIEND",
+                uploadDate: "2023.01.05",
+                verifingAtt: "347",
+                long: "1분 32초",
+                highest: "87470348",
+                more: "Sweetdream, IIDoManGII, PAI, JRain, mooney67",
+            },
+            percentToQualify: 70,
+            verificationVid: "https://www.youtube.com/watch?v=0RbcFBcwLxI",
+            key: 45
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "Aqua0607",
+                    link: "https://youtu.be/9Zn1YD0EsL8",
+                    percent: 100,
+                    hz: "288hz"
+                },
+            ],
+            name: "OMG",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "OMG - NewJeans",
+                uploadDate: "2023.01.24",
+                verifingAtt: "298",
+                long: "1분 1초",
+                highest: "88015561",
+                more: "none",
+            },
+            percentToQualify: 71,
+            verificationVid: "https://www.youtube.com/watch?v=b6kTEeL86d4",
+            key: 46
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "mooney67",
+                    link: "https://youtu.be/tr_YdNnv_X4",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/XiXygH_yTlA",
+                    percent: 100,
+                    hz: "240hz"
+                },
+            ],
+            name: "WA DA DA",
+            author: "JRain & More [JRain]",
+            mapInfo: {
+                simpleExp: "WA DA DA - Kep1er",
+                uploadDate: "2022.10.13",
+                verifingAtt: "650",
+                long: "1분 16초",
+                highest: "84594625",
+                more: "bls, JRain, Mooney67, Cont",
+            },
+            percentToQualify: 68,
+            verificationVid: "https://www.youtube.com/watch?v=FtnoWqjWRjg",
+            key: 47
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "BTS  DNA",
+            author: "lolbito",
+            mapInfo: {
+                simpleExp: "DNA - BTS",
+                uploadDate: "2019.03.15",
+                verifingAtt: "비공개",
+                long: "2분 47초",
+                highest: "54527013",
+                more: "none",
+            },
+            percentToQualify: 66,
+            verificationVid: "https://www.youtube.com/watch?v=KBqHhuy8vfY",
+            key: 48
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Yogurting",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "Always - 신지",
+                uploadDate: "2023.01.31",
+                verifingAtt: "139",
+                long: "1분 4초",
+                highest: "88215905",
+                more: "none",
+            },
+            percentToQualify: 62,
+            verificationVid: "https://www.youtube.com/watch?v=vvUfaM6atzo",
+            key: 49
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "Sidci",
+                    link: "https://youtu.be/PcF6ivRJTzY",
+                    percent: 100,
+                    hz: "165hz"
+                },
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/OnArchw6weY",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "hula hoop",
+            author: "qarlij",
+            mapInfo: {
+                simpleExp: "Hula Hoop - LOONA",
+                uploadDate: "2022.06.30",
+                verifingAtt: "비공개",
+                long: "1분 5초",
+                highest: "81450308",
+                more: "none",
+            },
+            percentToQualify: 63,
+            verificationVid: "https://www.youtube.com/watch?v=wyDMV3slm40",
+            key: 50
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "Jirachi",
+                    link: "https://youtu.be/0bql6Udqif0",
+                    percent: 100,
+                    hz: "240hz"
+                },
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/vaaIOzO-Cp4",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "NanCho",
+                    link: "https://youtu.be/yjjY4ETalow",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "STEREOTYPE",
+            author: "Aluminium & More [Aluminium]",
+            mapInfo: {
+                simpleExp: "색안경 - StayC",
+                uploadDate: "2022.08.25",
+                verifingAtt: "비공개",
+                long: "3분 12초",
+                highest: "83091137",
+                more: "Sercht, Rosmontis, Astatinegmd, XTGamers, Selity, Leaf, Gpi, Hand, ojinu, yukama, Aluminium, dodam, GD3NIV, SRAModumin",
+            },
+            percentToQualify: 62,
+            verificationVid: "https://www.youtube.com/watch?v=HX2wzHuj6uI",
+            key: 51
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "NanCho",
+                    link: "https://youtu.be/Ecojs78qvWA",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/4xf_EoUXfmY",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "hello mr myyerterday",
+            author: "Ret0lart & More [Aluminium]",
+            mapInfo: {
+                simpleExp: "Hello Mr. My Yesterday - AshGray",
+                uploadDate: "2023.01.23",
+                verifingAtt: "비공개",
+                long: "1분 32초",
+                highest: "88010034",
+                more: "Ret0lart, Soya, Aluminium",
+            },
+            percentToQualify: 67,
+            verificationVid: "https://www.youtube.com/watch?v=SZbpR0ZPQ8w",
+            key: 52
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "POP STARS",
+            author: "noisyEH",
+            mapInfo: {
+                simpleExp: "POP/STARS - K/DA",
+                uploadDate: "2022.03.01",
+                verifingAtt: "5288",
+                long: "3분 8초",
+                highest: "78463926",
+                more: "none",
+            },
+            percentToQualify: 63,
+            verificationVid: "https://www.youtube.com/watch?v=As6VOGNewyg",
+            key: 53
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "Daaaako",
+                    link: "https://youtu.be/NbCzYzZAwiw",
+                    percent: 100,
+                    hz: "75hz"
+                },
+            ],
+            name: "Alcohol Free L",
+            author: "Johnnyvision & More [Johnnyvision]",
+            mapInfo: {
+                simpleExp: "Alcohol Free - Twice",
+                uploadDate: "2021.07.30",
+                verifingAtt: "635",
+                long: "3분 28초",
+                highest: "71939283",
+                more: "xLapras, zXera, Ninjaism, HiroAkiba, WhiteFireGD, Lobbin, Johnnyvision, MicronicXZ, zXera, Itskippy, novakami, Jermeans, StaaTicz, Zerotwo7, Lordyam, IxFallen, Harry19, Hyp3rionic, Nereus, Stilwuf, Harry19",
+            },
+            percentToQualify: 64,
+            verificationVid: "https://www.youtube.com/watch?v=T7xSrLW9kRk",
+            key: 54
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/bP7X9pD24aU",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "blue moon",
+            author: "Ret0Lart & Elina [Ret0Lart]",
+            mapInfo: {
+                simpleExp: "BLUE MOON - 효린&창모 (Prod. GroovyRoom)",
+                uploadDate: "2022.07.17",
+                verifingAtt: "비공개",
+                long: "1분 33초",
+                highest: "81925484",
+                more: "Ret0Lart, Elina",
+            },
+            percentToQualify: 64,
+            verificationVid: "https://www.youtube.com/watch?v=EZXfv_YylVg",
+            key: 55
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
                     user: "Korea7723",
                     link: "https://youtu.be/hZuJSIOU3i8",
                     percent: 100,
@@ -1065,336 +1395,6 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=uAvPzElEjsE",
-            key: 43
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "Sidci",
-                    link: "https://youtu.be/YgVyWPT3j28",
-                    percent: 100,
-                    hz: "165hz"
-                },
-                {
-                    user: "NanCho",
-                    link: "https://youtu.be/plqBNd69QIU",
-                    percent: 100,
-                    hz: "360hz"
-                },
-            ],
-            name: "WoW Layout",
-            author: "zFailon, Sidci [zFailon]",
-            mapInfo: {
-                simpleExp: "WOW - LOONA",
-                uploadDate: "2022.11.07",
-                verifingAtt: "비공개",
-                long: "1분 43초",
-                highest: "85409571",
-                more: "zFailon, Sidci",
-            },
-            percentToQualify: 65,
-            verificationVid: "https://www.youtube.com/watch?v=YgVyWPT3j28",
-            key: 44
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "JRain",
-                    link: "https://youtu.be/0IUdCP8e9E8",
-                    percent: 100,
-                    hz: "180hz"
-                },
-            ],
-            name: "Beautiful Monster",
-            author: "IgongDae",
-            mapInfo: {
-                simpleExp: "Beautiful Monster - StayC",
-                uploadDate: "2022.09.23",
-                verifingAtt: "361",
-                long: "1분 16초",
-                highest: "83994655",
-                more: "none",
-            },
-            percentToQualify: 70,
-            verificationVid: "https://www.youtube.com/watch?v=ZR3dLzFbziY",
-            key: 45
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "JRain",
-                    link: "https://youtu.be/TNgStcNu8eU",
-                    percent: 100,
-                    hz: "120hz"
-                },
-            ],
-            name: "Christmas Present",
-            author: "Sweetdream & More [Sweetdream]",
-            mapInfo: {
-                simpleExp: "겨울겨울해 - GFRIEND",
-                uploadDate: "2023.01.05",
-                verifingAtt: "347",
-                long: "1분 32초",
-                highest: "87470348",
-                more: "Sweetdream, IIDoManGII, PAI, JRain, mooney67",
-            },
-            percentToQualify: 70,
-            verificationVid: "https://www.youtube.com/watch?v=0RbcFBcwLxI",
-            key: 46
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "Aqua0607",
-                    link: "https://youtu.be/9Zn1YD0EsL8",
-                    percent: 100,
-                    hz: "288hz"
-                },
-            ],
-            name: "OMG",
-            author: "IgongDae",
-            mapInfo: {
-                simpleExp: "OMG - NewJeans",
-                uploadDate: "2023.01.24",
-                verifingAtt: "298",
-                long: "1분 1초",
-                highest: "88015561",
-                more: "none",
-            },
-            percentToQualify: 71,
-            verificationVid: "https://www.youtube.com/watch?v=b6kTEeL86d4",
-            key: 47
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "mooney67",
-                    link: "https://youtu.be/tr_YdNnv_X4",
-                    percent: 100,
-                    hz: "360hz"
-                },
-                {
-                    user: "Sweetdream",
-                    link: "https://youtu.be/XiXygH_yTlA",
-                    percent: 100,
-                    hz: "240hz"
-                },
-            ],
-            name: "WA DA DA",
-            author: "JRain & More [JRain]",
-            mapInfo: {
-                simpleExp: "WA DA DA - Kep1er",
-                uploadDate: "2022.10.13",
-                verifingAtt: "650",
-                long: "1분 16초",
-                highest: "84594625",
-                more: "bls, JRain, Mooney67, Cont",
-            },
-            percentToQualify: 68,
-            verificationVid: "https://www.youtube.com/watch?v=FtnoWqjWRjg",
-            key: 48
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "BTS  DNA",
-            author: "lolbito",
-            mapInfo: {
-                simpleExp: "DNA - BTS",
-                uploadDate: "2019.03.15",
-                verifingAtt: "비공개",
-                long: "2분 47초",
-                highest: "54527013",
-                more: "none",
-            },
-            percentToQualify: 66,
-            verificationVid: "https://www.youtube.com/watch?v=KBqHhuy8vfY",
-            key: 49
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "Yogurting",
-            author: "IgongDae",
-            mapInfo: {
-                simpleExp: "Always - 신지",
-                uploadDate: "2023.01.31",
-                verifingAtt: "139",
-                long: "1분 4초",
-                highest: "88215905",
-                more: "none",
-            },
-            percentToQualify: 62,
-            verificationVid: "https://www.youtube.com/watch?v=wZZJ27FVbvg",
-            key: 50
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "Sidci",
-                    link: "https://youtu.be/PcF6ivRJTzY",
-                    percent: 100,
-                    hz: "165hz"
-                },
-                {
-                    user: "IgongDae",
-                    link: "https://youtu.be/OnArchw6weY",
-                    percent: 100,
-                    hz: "360hz"
-                },
-            ],
-            name: "hula hoop",
-            author: "qarlij",
-            mapInfo: {
-                simpleExp: "Hula Hoop - LOONA",
-                uploadDate: "2022.06.30",
-                verifingAtt: "비공개",
-                long: "1분 5초",
-                highest: "81450308",
-                more: "none",
-            },
-            percentToQualify: 63,
-            verificationVid: "https://www.youtube.com/watch?v=wyDMV3slm40",
-            key: 51
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "Jirachi",
-                    link: "https://youtu.be/0bql6Udqif0",
-                    percent: 100,
-                    hz: "240hz"
-                },
-                {
-                    user: "IgongDae",
-                    link: "https://youtu.be/vaaIOzO-Cp4",
-                    percent: 100,
-                    hz: "360hz"
-                },
-                {
-                    user: "NanCho",
-                    link: "https://youtu.be/yjjY4ETalow",
-                    percent: 100,
-                    hz: "360hz"
-                },
-            ],
-            name: "STEREOTYPE",
-            author: "Aluminium & More [Aluminium]",
-            mapInfo: {
-                simpleExp: "색안경 - StayC",
-                uploadDate: "2022.08.25",
-                verifingAtt: "비공개",
-                long: "3분 12초",
-                highest: "83091137",
-                more: "Sercht, Rosmontis, Astatinegmd, XTGamers, Selity, Leaf, Gpi, Hand, ojinu, yukama, Aluminium, dodam, GD3NIV, SRAModumin",
-            },
-            percentToQualify: 62,
-            verificationVid: "https://www.youtube.com/watch?v=HX2wzHuj6uI",
-            key: 52
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "NanCho",
-                    link: "https://youtu.be/Ecojs78qvWA",
-                    percent: 100,
-                    hz: "360hz"
-                },
-                {
-                    user: "IgongDae",
-                    link: "https://youtu.be/4xf_EoUXfmY",
-                    percent: 100,
-                    hz: "360hz"
-                },
-            ],
-            name: "hello mr myyerterday",
-            author: "Ret0lart & More [Aluminium]",
-            mapInfo: {
-                simpleExp: "Hello Mr. My Yesterday - AshGray",
-                uploadDate: "2023.01.23",
-                verifingAtt: "비공개",
-                long: "1분 32초",
-                highest: "88010034",
-                more: "Ret0lart, Soya, Aluminium",
-            },
-            percentToQualify: 67,
-            verificationVid: "https://www.youtube.com/watch?v=SZbpR0ZPQ8w",
-            key: 53
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "POP STARS",
-            author: "noisyEH",
-            mapInfo: {
-                simpleExp: "POP/STARS - K/DA",
-                uploadDate: "2022.03.01",
-                verifingAtt: "5288",
-                long: "3분 8초",
-                highest: "78463926",
-                more: "none",
-            },
-            percentToQualify: 63,
-            verificationVid: "https://www.youtube.com/watch?v=As6VOGNewyg",
-            key: 54
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "Daaaako",
-                    link: "https://youtu.be/NbCzYzZAwiw",
-                    percent: 100,
-                    hz: "75hz"
-                },
-            ],
-            name: "Alcohol Free L",
-            author: "Johnnyvision & More [Johnnyvision]",
-            mapInfo: {
-                simpleExp: "Alcohol Free - Twice",
-                uploadDate: "2021.07.30",
-                verifingAtt: "635",
-                long: "3분 28초",
-                highest: "71939283",
-                more: "xLapras, zXera, Ninjaism, HiroAkiba, WhiteFireGD, Lobbin, Johnnyvision, MicronicXZ, zXera, Itskippy, novakami, Jermeans, StaaTicz, Zerotwo7, Lordyam, IxFallen, Harry19, Hyp3rionic, Nereus, Stilwuf, Harry19",
-            },
-            percentToQualify: 64,
-            verificationVid: "https://www.youtube.com/watch?v=T7xSrLW9kRk",
-            key: 55
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "IgongDae",
-                    link: "https://youtu.be/bP7X9pD24aU",
-                    percent: 100,
-                    hz: "360hz"
-                },
-            ],
-            name: "blue moon",
-            author: "Ret0Lart & Elina [Ret0Lart]",
-            mapInfo: {
-                simpleExp: "BLUE MOON - 효린&창모 (Prod. GroovyRoom)",
-                uploadDate: "2022.07.17",
-                verifingAtt: "비공개",
-                long: "1분 33초",
-                highest: "81925484",
-                more: "Ret0Lart, Elina",
-            },
-            percentToQualify: 64,
-            verificationVid: "https://www.youtube.com/watch?v=EZXfv_YylVg",
             key: 56
         },
         /*=================================================================================*/
@@ -1810,6 +1810,30 @@ const d = {
             vids: [
                 {
                     user: "IgongDae",
+                    link: "https://youtu.be/9Ldke6bgU8A",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "Up no more",
+            author: "Mishito",
+            mapInfo: {
+                simpleExp: "UP NO MORE - Twice",
+                uploadDate: "2022.12.29",
+                verifingAtt: "비공개",
+                long: "3분 30초",
+                highest: "87200457",
+                more: "none",
+            },
+            percentToQualify: 65,
+            verificationVid: "https://www.youtube.com/watch?v=6XFq_Ax3DJc",
+            key: 70
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
                     link: "https://youtu.be/2iJxbD8oOMM",
                     percent: 100,
                     hz: "360hz"
@@ -1839,7 +1863,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=JX5JQKrJ5-0",
-            key: 70
+            key: 71
         },
         /*=================================================================================*/
         {
@@ -1869,7 +1893,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=AczEh6IwzVs",
-            key: 71
+            key: 72
         },
         /*=================================================================================*/
         {
@@ -1899,7 +1923,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=WFzmD_G4d2E",
-            key: 72
+            key: 73
         },
         /*=================================================================================*/
         {
@@ -1935,7 +1959,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=dQL_RUAh174",
-            key: 73
+            key: 74
         },
         /*=================================================================================*/
         {
@@ -1959,30 +1983,6 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=SJiJlLFeiqM",
-            key: 74
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "IgongDae",
-                    link: "https://youtu.be/9Ldke6bgU8A",
-                    percent: 100,
-                    hz: "360hz"
-                },
-            ],
-            name: "Up no more",
-            author: "Mishito",
-            mapInfo: {
-                simpleExp: "UP NO MORE - Twice",
-                uploadDate: "2022.12.29",
-                verifingAtt: "비공개",
-                long: "3분 30초",
-                highest: "87200457",
-                more: "none",
-            },
-            percentToQualify: 65,
-            verificationVid: "https://www.youtube.com/watch?v=6XFq_Ax3DJc",
             key: 75
         },
         /*=================================================================================*/
