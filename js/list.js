@@ -597,6 +597,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "DNM121",
+                    link: "https://youtu.be/stcjO8lqwXw",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Smartphone",
             author: "Blebae",
