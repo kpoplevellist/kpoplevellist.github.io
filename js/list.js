@@ -171,6 +171,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "PoCle",
+                    link: "https://youtu.be/58Tsow09apc",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Bom",
             author: "Blebae",
@@ -321,6 +327,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/Q418cXO1Zyc",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "MANIAC",
             author: "Adelx",
