@@ -976,6 +976,30 @@ const d = {
         {
             vids: [
                 {
+                    user: "Aqua0607",
+                    link: "https://youtu.be/9Zn1YD0EsL8",
+                    percent: 100,
+                    hz: "288hz"
+                },
+            ],
+            name: "OMG",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "OMG - NewJeans",
+                uploadDate: "2023.01.24",
+                verifingAtt: "298",
+                long: "1분 1초",
+                highest: "88015561",
+                more: "none",
+            },
+            percentToQualify: 71,
+            verificationVid: "https://www.youtube.com/watch?v=b6kTEeL86d4",
+            key: 41
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
                     user: "Jirachi",
                     link: "https://youtu.be/lGi4fgYriWg",
                     percent: 100,
@@ -1012,7 +1036,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=2suDFy8yOOE",
-            key: 41
+            key: 42
         },
         /*=================================================================================*/
         {
@@ -1035,7 +1059,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=5_2DTX-yvNk",
-            key: 42
+            key: 43
         },
         /*=================================================================================*/
         {
@@ -1053,7 +1077,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=6Bj5-Dpvl5A",
-            key: 43
+            key: 44
         },
         /*=================================================================================*/
         {
@@ -1077,7 +1101,7 @@ const d = {
             },
             percentToQualify: 62,
             verificationVid: "https://www.youtube.com/watch?v=carLFcD3amY",
-            key: 44
+            key: 45
         },
         /*=================================================================================*/
         {
@@ -1095,7 +1119,7 @@ const d = {
             },
             percentToQualify: 65,
             verificationVid: "https://www.youtube.com/watch?v=Wz8RF8lwhfY",
-            key: 45
+            key: 46
         },
         /*=================================================================================*/
         {
@@ -1125,7 +1149,7 @@ const d = {
             },
             percentToQualify: 65,
             verificationVid: "https://www.youtube.com/watch?v=YgVyWPT3j28",
-            key: 46
+            key: 47
         },
         /*=================================================================================*/
         {
@@ -1149,7 +1173,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=ZR3dLzFbziY",
-            key: 47
+            key: 48
         },
         /*=================================================================================*/
         {
@@ -1173,30 +1197,6 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=0RbcFBcwLxI",
-            key: 48
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "Aqua0607",
-                    link: "https://youtu.be/9Zn1YD0EsL8",
-                    percent: 100,
-                    hz: "288hz"
-                },
-            ],
-            name: "OMG",
-            author: "IgongDae",
-            mapInfo: {
-                simpleExp: "OMG - NewJeans",
-                uploadDate: "2023.01.24",
-                verifingAtt: "298",
-                long: "1분 1초",
-                highest: "88015561",
-                more: "none",
-            },
-            percentToQualify: 71,
-            verificationVid: "https://www.youtube.com/watch?v=b6kTEeL86d4",
             key: 49
         },
         /*=================================================================================*/
