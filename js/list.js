@@ -1628,6 +1628,12 @@ const d = {
                     percent: 100,
                     hz: "240hz"
                 },
+                {
+                    user: "Aluminium",
+                    link: "https://youtu.be/4nE_Sy7dtVY",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Ditto",
             author: "IgongDae & More [IgongDae]",
