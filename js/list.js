@@ -1017,6 +1017,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/biIk_a2VsUQ",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Can I Love",
             author: "Aluminium",
