@@ -1262,6 +1262,12 @@ const d = {
                     percent: 100,
                     hz: "240hz"
                 },
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/p_Rx-d0VIHo",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "WA DA DA",
             author: "JRain & More [JRain]",
