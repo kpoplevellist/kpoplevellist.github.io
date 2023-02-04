@@ -1268,6 +1268,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Compass",
+                    link: "https://youtu.be/w6hFOT6qGRE?t=387",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "WA DA DA",
             author: "JRain & More [JRain]",
@@ -1889,6 +1895,12 @@ const d = {
                 {
                     user: "IgongDae",
                     link: "https://youtu.be/QUyfBrQBYbM",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "Compass",
+                    link: "https://youtu.be/w6hFOT6qGRE?t=269",
                     percent: 100,
                     hz: "360hz"
                 },
@@ -2762,6 +2774,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Compass",
+                    link: "https://youtu.be/w6hFOT6qGRE?t=189",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Baptized In Fire",
             author: "IgongDae",
@@ -2978,6 +2996,12 @@ const d = {
                     percent: 100,
                     hz: "60hz(mobile)"
                 },
+                {
+                    user: "Compass",
+                    link: "https://youtu.be/w6hFOT6qGRE?t=115",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "ddc and me",
             author: "Aluminium",
@@ -3013,6 +3037,12 @@ const d = {
                     link: "https://youtu.be/d6kNcnm5UfI",
                     percent: 100,
                     hz: "120hz(mobile)"
+                },
+                {
+                    user: "Compass",
+                    link: "https://youtu.be/w6hFOT6qGRE",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "Kill This Love",
