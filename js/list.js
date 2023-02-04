@@ -1294,7 +1294,7 @@ const d = {
                 uploadDate: "2023.02.04",
                 verifingAtt: "148",
                 long: "1분 17초",
-                highest: "87470348",
+                highest: "88315049",
                 more: "none",
             },
             percentToQualify: 72,
