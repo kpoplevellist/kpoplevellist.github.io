@@ -3042,7 +3042,7 @@ const d = {
                     user: "Compass",
                     link: "https://youtu.be/w6hFOT6qGRE",
                     percent: 100,
-                    hz: "360hz"
+                    hz: "144hz"
                 },
             ],
             name: "Kill This Love",
