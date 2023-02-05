@@ -693,6 +693,12 @@ const d = {
                     percent: 100,
                     hz: "60hz"
                 },
+       {
+                    user: "Heeru",
+                    link: "https://youtu.be/YK-bZ2VaPTE",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "SO BAD",
             author: "IgongDae & More [IgongDae]",
