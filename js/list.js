@@ -1262,6 +1262,12 @@ const d = {
                     percent: 100,
                     hz: "120hz"
                 },
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/IyVnZO8Udyk",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Christmas Present",
             author: "Sweetdream & More [Sweetdream]",
