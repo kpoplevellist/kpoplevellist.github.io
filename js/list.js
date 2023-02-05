@@ -291,6 +291,12 @@ const d = {
                     percent: 100,
                     hz: "165hz"
                 },
+       {
+                    user: "Heeru",
+                    link: "https://youtu.be/eUsO12HhpLw",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Rough",
             author: "Kmini & More [zPlasmaLust]",
