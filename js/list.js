@@ -69,8 +69,8 @@ const d = {
             mapInfo: {
                 simpleExp: "Attention - NewJeans",
                 uploadDate: "2023.02.08",
-                verifingAtt: "비공개",
-                long: "1분 30초",
+                verifingAtt: "1191",
+                long: "1분 33초",
                 highest: "88444201",
                 more: "none",
             },
