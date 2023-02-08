@@ -63,6 +63,24 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+            ],
+            name: "Attention E",
+            author: "Compass",
+            mapInfo: {
+                simpleExp: "Attention - NewJeans",
+                uploadDate: "2023.02.08",
+                verifingAtt: "비공개",
+                long: "1분 30초",
+                highest: "88444201",
+                more: "none",
+            },
+            percentToQualify: 55,
+            verificationVid: "https://www.youtube.com/watch?v=solMMBZLbx0",
+            key: 3
+        },
+        /*=================================================================================*/
+        {
+            vids: [
                 {
                     user: "JRain",
                     link: "https://youtu.be/bkvnpmW37TQ",
@@ -82,7 +100,7 @@ const d = {
             },
 			percentToQualify: 48,
             verificationVid: "https://www.youtube.com/watch?v=ezeKiAuB4zk",
-            key: 3
+            key: 4
         },
         /*=================================================================================*/
         {
@@ -106,7 +124,7 @@ const d = {
             },
             percentToQualify: 49,
             verificationVid: "https://www.youtube.com/watch?v=MxcxTcXMUuA",
-            key: 4
+            key: 5
         },
         /*=================================================================================*/
         {
@@ -130,7 +148,7 @@ const d = {
             },
             percentToQualify: 59,
             verificationVid: "https://www.youtube.com/watch?v=9z_4JmZ0irI",
-            key: 5
+            key: 6
         },
         /*=================================================================================*/
         {
@@ -148,7 +166,7 @@ const d = {
             },
             percentToQualify: 47,
             verificationVid: "https://www.youtube.com/watch?v=vyb143bP7FQ",
-            key: 6
+            key: 7
         },
         /*=================================================================================*/
         {
@@ -166,24 +184,6 @@ const d = {
             },
             percentToQualify: 44,
             verificationVid: "https://www.youtube.com/watch?v=RqVqyU60fD0",
-            key: 7
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "Attention E",
-            author: "Compass",
-            mapInfo: {
-                simpleExp: "Attention - NewJeans",
-                uploadDate: "2023.02.08",
-                verifingAtt: "비공개",
-                long: "1분 30초",
-                highest: "88444201",
-                more: "none",
-            },
-            percentToQualify: 55,
-            verificationVid: "https://www.youtube.com/watch?v=solMMBZLbx0",
             key: 8
         },
         /*=================================================================================*/
