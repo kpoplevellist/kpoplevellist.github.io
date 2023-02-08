@@ -945,6 +945,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/OWdYShhsleM",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "The Feels C",
             author: "Johnnyvision & More [Johnnyvision]",
