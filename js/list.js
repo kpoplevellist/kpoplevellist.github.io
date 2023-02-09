@@ -1748,6 +1748,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/7F0I2RTYEHs",
+                    percent: 100,
+                    hz: "120hz"
+                },
             ],
             name: "More and More",
             author: "IsmaHikari & DeepresonanceX [IsmaHikari]",
