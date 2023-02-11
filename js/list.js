@@ -1264,7 +1264,7 @@ const d = {
                 uploadDate: "2022.12.03",
                 verifingAtt: "비공개",
                 long: "2분 17초",
-                highest: "85890293",
+                highest: "86314431",
                 more: "Daaaako, pickt, 언멍구, Luna, Dolphigh, 아스타틴, Reippah",
             },
             percentToQualify: 65,
