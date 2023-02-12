@@ -1917,7 +1917,7 @@ const d = {
                 simpleExp: "ANTIFRAGILE - LE SSERAFIM",
                 uploadDate: "2023.02.13",
                 verifingAtt: "비공개",
-                long: "0분 43초",
+                long: "0분 42초",
                 highest: "83832143",
                 more: "none",
             },
