@@ -47,7 +47,7 @@ const d = {
             vids: [
             ],
             name: "Attention E",
-            author: "Compass",
+            author: "Compass21",
             mapInfo: {
                 simpleExp: "Attention - NewJeans",
                 uploadDate: "2023.02.08",
@@ -552,7 +552,7 @@ const d = {
                 verifingAtt: "893",
                 long: "1분 44초",
                 highest: "87449442",
-                more: "PoCha, Kowoo, Compass, GDSean, JRain, IgongDae, Cadooo, IIDoManGII, HyunTrol, mkoijn10, mooney67, ItzWain, 23138185",
+                more: "PoCha, Kowoo, Compass21, GDSean, JRain, IgongDae, Cadooo, IIDoManGII, HyunTrol, mkoijn10, mooney67, ItzWain, 23138185",
             },
             percentToQualify: 60,
             verificationVid: "https://www.youtube.com/watch?v=xblWIqySwvE",
@@ -562,7 +562,7 @@ const d = {
         {
             vids: [
                 {
-                    user: "Compass",
+                    user: "Compass21",
                     link: "https://youtu.be/z9ZQQBZBPrc",
                     percent: 100,
                     hz: "360hz"
@@ -1353,7 +1353,7 @@ const d = {
                     hz: "360hz"
                 },
                 {
-                    user: "Compass",
+                    user: "Compass21",
                     link: "https://youtu.be/w6hFOT6qGRE?t=387",
                     percent: 100,
                     hz: "360hz"
@@ -1912,7 +1912,7 @@ const d = {
                 },
             ],
             name: "AntiFragile",
-            author: "mkojin60 & Compass [mkojin60]",
+            author: "mkojin60 & Compass21 [mkojin60]",
             mapInfo: {
                 simpleExp: "ANTIFRAGILE - LE SSERAFIM",
                 uploadDate: "2023.02.13",
@@ -1935,7 +1935,7 @@ const d = {
                     hz: "360hz"
                 },
                 {
-                    user: "Compass",
+                    user: "Compass21",
                     link: "https://youtu.be/Ck_CtBos--o",
                     percent: 100,
                     hz: "360hz"
@@ -2049,7 +2049,7 @@ const d = {
                     hz: "360hz"
                 },
                 {
-                    user: "Compass",
+                    user: "Compass21",
                     link: "https://youtu.be/w6hFOT6qGRE?t=269",
                     percent: 100,
                     hz: "360hz"
@@ -2225,7 +2225,7 @@ const d = {
                 verifingAtt: "비공개",
                 long: "3분 2초",
                 highest: "87952960",
-                more: "none",
+                more: "IsmaHikari, HKattFlush, Revy, Mishito, GerzoneGD, Sidci",
             },
             percentToQualify: 65,
             verificationVid: "https://www.youtube.com/watch?v=IWtCXFbsDPQ",
@@ -2577,7 +2577,7 @@ const d = {
         {
             vids: [
                 {
-                    user: "Compass",
+                    user: "Compass21",
                     link: "https://youtu.be/pzilG9C2fqs",
                     percent: 100,
                     hz: "360hz"
@@ -2901,7 +2901,7 @@ const d = {
                     hz: "120hz(mobile)"
                 },
                 {
-                    user: "Compass",
+                    user: "Compass21",
                     link: "https://youtu.be/Ck_CtBos--o?t=98",
                     percent: 100,
                     hz: "360hz"
@@ -2949,7 +2949,7 @@ const d = {
         {
             vids: [
                 {
-                    user: "Compass",
+                    user: "Compass21",
                     link: "https://youtu.be/w6hFOT6qGRE?t=189",
                     percent: 100,
                     hz: "360hz"
@@ -3147,7 +3147,7 @@ const d = {
                     hz: "60hz(mobile)"
                 },
                 {
-                    user: "Compass",
+                    user: "Compass21",
                     link: "https://youtu.be/w6hFOT6qGRE?t=115",
                     percent: 100,
                     hz: "360hz"
@@ -3189,7 +3189,7 @@ const d = {
                     hz: "120hz(mobile)"
                 },
                 {
-                    user: "Compass",
+                    user: "Compass21",
                     link: "https://youtu.be/w6hFOT6qGRE",
                     percent: 100,
                     hz: "144hz"
@@ -3219,7 +3219,7 @@ const d = {
                     hz: "360hz"
                 },
                 {
-                    user: "Compass",
+                    user: "Compass21",
                     link: "https://youtu.be/Ck_CtBos--o?t=178",
                     percent: 100,
                     hz: "360hz"
