@@ -1918,7 +1918,7 @@ const d = {
                 uploadDate: "2023.02.13",
                 verifingAtt: "2292",
                 long: "0분 42초",
-                highest: "83832143",
+                highest: "88549314",
                 more: "mkoijn10, Compass21",
             },
             percentToQualify: 66,
