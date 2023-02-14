@@ -518,7 +518,7 @@ const d = {
                 highest: "88589509",
                 more: "none",
             },
-            percentToQualify: 62,
+            percentToQualify: 45,
             verificationVid: "https://www.youtube.com/watch?v=lQ_U9hsM0L0",
             key: 20
         },
