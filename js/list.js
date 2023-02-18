@@ -63,24 +63,6 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-            ],
-            name: "SWAN",
-            author: "IgongDae [RedSwitch]",
-            mapInfo: {
-                simpleExp: "환상동화 (Secret Story of the Swan) - IZ*ONE",
-                uploadDate: "2020.09.26",
-                verifingAtt: "1148",
-                long: "3분 13초",
-                highest: "64199166",
-                more: "none",
-            },
-            percentToQualify: 50,
-            verificationVid: "https://www.youtube.com/watch?v=Obm7L-0FE6s",
-            key: 3
-        },
-        /*=================================================================================*/
-        {
-            vids: [
                 {
                     user: "JRain",
                     link: "https://youtu.be/bkvnpmW37TQ",
@@ -100,7 +82,7 @@ const d = {
             },
 			percentToQualify: 48,
             verificationVid: "https://www.youtube.com/watch?v=ezeKiAuB4zk",
-            key: 4
+            key: 3
         },
         /*=================================================================================*/
         {
@@ -124,6 +106,24 @@ const d = {
             },
             percentToQualify: 49,
             verificationVid: "https://www.youtube.com/watch?v=MxcxTcXMUuA",
+            key: 4
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "SWAN",
+            author: "IgongDae [RedSwitch]",
+            mapInfo: {
+                simpleExp: "환상동화 (Secret Story of the Swan) - IZ*ONE",
+                uploadDate: "2020.09.26",
+                verifingAtt: "1148",
+                long: "3분 13초",
+                highest: "64199166",
+                more: "none",
+            },
+            percentToQualify: 50,
+            verificationVid: "https://www.youtube.com/watch?v=Obm7L-0FE6s",
             key: 5
         },
         /*=================================================================================*/
