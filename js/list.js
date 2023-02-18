@@ -2312,6 +2312,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Sweetdream",
+                    link: "https://www.youtube.com/watch?v=zER6WopWW4Y",
+                    percent: 100,
+                    hz: "144hz"
+                },
             ],
             name: "Moonlight Sunrise",
             author: "IsmaHikari & More [IsmaHikari]",
