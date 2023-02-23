@@ -945,6 +945,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+    {
+                    user: "Korea7723",
+                    link: "https://youtu.be/s2lvyyhQVLs",
+                    percent: 85,
+                    hz: "360hz"
+                },
             ],
             name: "Destiny",
             author: "IgongDae & More [IgongDae]",
