@@ -909,6 +909,12 @@ const d = {
                     percent: 100,
                     hz: "144hz"
                 },
+ {
+                    user: "Korea7723",
+                    link: "https://youtu.be/s2lvyyhQVLs",
+                    percent: 85,
+                    hz: "360hz"
+                },
             ],
             name: "Fiesta",
             author: "IgongDae [BeCruX]",
@@ -943,12 +949,6 @@ const d = {
                     user: "Sweetdream",
                     link: "https://youtu.be/yXIKf91H57c",
                     percent: 100,
-                    hz: "360hz"
-                },
-    {
-                    user: "Korea7723",
-                    link: "https://youtu.be/s2lvyyhQVLs",
-                    percent: 85,
                     hz: "360hz"
                 },
             ],
