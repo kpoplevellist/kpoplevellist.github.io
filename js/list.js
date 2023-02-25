@@ -1358,6 +1358,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/azFc60FSvH4",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "fanfare",
             author: "Daaaako & More [Daaaako]",
