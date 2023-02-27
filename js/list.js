@@ -1251,7 +1251,7 @@ const d = {
             mapInfo: {
                 simpleExp: "Talk that Talk - Twice",
                 uploadDate: "2023.02.16",
-                verifingAtt: "172",
+                verifingAtt: "167",
                 long: "2분 53초",
                 highest: "84736441",
                 more: "none",
