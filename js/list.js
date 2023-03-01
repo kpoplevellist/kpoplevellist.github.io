@@ -903,6 +903,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/h7VfSvE18as",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "CANDY",
             author: "IgongDae",
