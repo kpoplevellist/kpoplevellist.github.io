@@ -3434,6 +3434,12 @@ const d = {
                     percent: 100,
                     hz: "144hz"
                 },
+    {
+                    user: "Korea7723",
+                    link: "https://youtu.be/R_crgsat2Ms",
+                    percent: 100,
+                    hz: "165hz"
+                },
             ],
             name: "Kill This Love",
             author: "issanagay",
