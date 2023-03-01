@@ -3488,6 +3488,12 @@ const d = {
                     percent: 100,
                     hz: "45hz"
                 },
+    {
+                    user: "Korea7723",
+                    link: "https://youtu.be/N1kPaqx-JaQ",
+                    percent: 100,
+                    hz: "165hz"
+                },
             ],
             name: "Feel My Rhythm",
             author: "Johnnyvision",
