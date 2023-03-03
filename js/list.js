@@ -331,7 +331,7 @@ const d = {
                     user: "Heeru",
                     link: "https://youtu.be/eUsO12HhpLw",
                     percent: 100,
-                    hz: "360hz"
+                    hz: "144hz"
                 },
             ],
             name: "Rough",
@@ -817,7 +817,7 @@ const d = {
                     user: "Heeru",
                     link: "https://youtu.be/YK-bZ2VaPTE",
                     percent: 100,
-                    hz: "360hz"
+                    hz: "144hz"
                 },
             ],
             name: "SO BAD",
