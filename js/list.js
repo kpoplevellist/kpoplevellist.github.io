@@ -2746,7 +2746,7 @@ const d = {
                 uploadDate: "2018.09.13",
                 verifingAtt: "비공개",
                 long: "1분 32초",
-                highest: "75774282",
+                highest: "89065055",
                 more: "none",
             },
             percentToQualify: 68,
