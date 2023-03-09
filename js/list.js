@@ -29,14 +29,14 @@ const d = {
             vids: [
             ],
             name: "Travel",
-            author: "MinYong005 & More [MinYong05]",
+            author: "MinYong & More [MinYong]",
             mapInfo: {
                 simpleExp: "여행 - BOL4",
                 uploadDate: "2023.03.09",
                 verifingAtt: "비공개",
                 long: "1분 41초",
                 highest: "89163211",
-                more: "Sweetdream, SangChun, Compass21, MinYong05, IgongDae",
+                more: "Sweetdream, SangChun, Compass21, MinYong, IgongDae",
             },
             percentToQualify: 48,
             verificationVid: "https://www.youtube.com/watch?v=kADEW0euUdk",
@@ -1990,7 +1990,7 @@ const d = {
                 },
             ],
             name: "dancing cartoon",
-            author: "MinYong05",
+            author: "MinYong",
             mapInfo: {
                 simpleExp: "Dancing Cartoon - BOL4",
                 uploadDate: "2022.12.11",
