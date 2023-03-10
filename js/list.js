@@ -3326,6 +3326,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "mkoijn10",
+                    link: "https://youtu.be/5WHO9tMxsSg",
+                    percent: 100,
+                    hz: "60hz(mobile)"
+                },
             ],
             name: "How you like that",
             author: "Rausyan06",
