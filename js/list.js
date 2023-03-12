@@ -3050,6 +3050,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "cun089",
+                    link: "https://youtu.be/_UsUuV431jw",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "Heart Shaker 2",
             author: "Johnnyvision",
