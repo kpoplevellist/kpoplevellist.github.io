@@ -3046,6 +3046,30 @@ const d = {
             vids: [
                 {
                     user: "IgongDae",
+                    link: "https://youtu.be/6AQQ7mMnjcc",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "Fearless",
+            author: "issanagay",
+            mapInfo: {
+                simpleExp: "Fearless - LE SSERAFIM",
+                uploadDate: "2021.05.14",
+                verifingAtt: "비공개",
+                long: "1분 15초",
+                highest: "89199329",
+                more: "none",
+            },
+            percentToQualify: 68,
+            verificationVid: "https://www.youtube.com/watch?v=DD_h_4Ysqic",
+            key: 116
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
                     link: "https://youtu.be/JjlWlYckr5c",
                     percent: 100,
                     hz: "360hz"
@@ -3069,7 +3093,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=e4f7c531CuE",
-            key: 116
+            key: 117
         },
         /*=================================================================================*/
         {
@@ -3099,7 +3123,7 @@ const d = {
             },
             percentToQualify: 71,
             verificationVid: "https://www.youtube.com/watch?v=cXWUAVtkIQ4",
-            key: 117
+            key: 118
         },
         /*=================================================================================*/
         {
@@ -3129,7 +3153,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=xb1tXAVpErM",
-            key: 118
+            key: 119
         },
         /*=================================================================================*/
         {
@@ -3165,7 +3189,7 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=fVZKQdVGnGM",
-            key: 119
+            key: 120
         },
         /*=================================================================================*/
         {
@@ -3189,7 +3213,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=yemffgWQhNM",
-            key: 120
+            key: 121
         },
         /*=================================================================================*/
         {
@@ -3213,7 +3237,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=Kc05CFYD6EY",
-            key: 121
+            key: 122
         },
         /*=================================================================================*/
         {
@@ -3267,7 +3291,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=TveOlTH-KNs",
-            key: 122
+            key: 123
         },
         /*=================================================================================*/
         {
@@ -3291,7 +3315,7 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=u10g64_31EI",
-            key: 123
+            key: 124
         },
         /*=================================================================================*/
         {
@@ -3333,7 +3357,7 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=jkKC7ue0Q50",
-            key: 124
+            key: 125
         },
         /*=================================================================================*/
         {
@@ -3369,7 +3393,7 @@ const d = {
             },
             percentToQualify: 79,
             verificationVid: "https://www.youtube.com/watch?v=Nby0gJZ-Mm0",
-            key: 125
+            key: 126
         },
         /*=================================================================================*/
         {
@@ -3393,7 +3417,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=tjm87lEn5YE",
-            key: 126
+            key: 127
         },
         /*=================================================================================*/
         {
@@ -3429,7 +3453,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
-            key: 127
+            key: 128
         },
         /*=================================================================================*/
         {
@@ -3459,7 +3483,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=5pOClFj_63c",
-            key: 128
+            key: 129
         },
         /*=================================================================================*/
         {
@@ -3495,7 +3519,7 @@ const d = {
             },
             percentToQualify: 78,
             verificationVid: "https://www.youtube.com/watch?v=n4WqkIYn1dc",
-            key: 129
+            key: 130
         },
         /*=================================================================================*/
         {
@@ -3543,7 +3567,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=mpcZcOMe_go",
-            key: 130
+            key: 131
         },
         /*=================================================================================*/
         {
@@ -3603,7 +3627,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=FbWDGFUIWyo",
-            key: 131
+            key: 132
         },
         /*=================================================================================*/
     ],
