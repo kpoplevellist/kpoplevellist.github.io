@@ -1538,6 +1538,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Korea7723",
+                    link: "https://youtu.be/T4Iu7imKyTA",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Love Dive",
             author: "TeamIVE [ItzKaserine]",
