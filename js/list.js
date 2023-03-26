@@ -3584,6 +3584,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/-xUCxYS-bbM",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "expectation",
             author: "Chop [Korea7723]",
