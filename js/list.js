@@ -3590,6 +3590,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "mkoijn10",
+                    link: "https://youtu.be/r-oN-2igz1M",
+                    percent: 100,
+                    hz: "60hz(mobile)"
+                },
             ],
             name: "expectation",
             author: "Chop [Korea7723]",
