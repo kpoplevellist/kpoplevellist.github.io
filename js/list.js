@@ -777,6 +777,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/FC4ZhPsDEFE",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "fermarti",
             author: "Ret0Lart & beruta [Elisa]",
@@ -1418,6 +1424,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/FC4ZhPsDEFE",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "RE wind",
             author: "Ret0Lart & More [Ralo]",
@@ -1559,6 +1571,12 @@ const d = {
                 {
                     user: "Korea7723",
                     link: "https://youtu.be/T4Iu7imKyTA",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/u3U2qyQs064",
                     percent: 100,
                     hz: "360hz"
                 },
@@ -1904,6 +1922,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/0q_-XyeTgI4",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Butter",
             author: "LuX & more [Mephitz]",
@@ -1981,6 +2005,12 @@ const d = {
                     link: "https://youtu.be/4nE_Sy7dtVY",
                     percent: 100,
                     hz: "240hz"
+                },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/5wq9aaTM2K4",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "Ditto",
@@ -2150,6 +2180,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/7wp4ir_2gcE",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "feel my rhythm",
             author: "DoUKnowKimchi",
@@ -2291,6 +2327,12 @@ const d = {
                 {
                     user: "NanCho",
                     link: "https://youtu.be/z0Bk9xHy2Z0",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/N5wWWT9bfsM",
                     percent: 100,
                     hz: "360hz"
                 },
@@ -2617,6 +2659,12 @@ const d = {
                     link: "https://youtu.be/McYzl8SwdBQ",
                     percent: 100,
                     hz: "240hz"
+                },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/EiVsuXYwXi4",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "Royal",
