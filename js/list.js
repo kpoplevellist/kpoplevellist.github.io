@@ -801,6 +801,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/AOw8chDKJaM",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Knock Knock",
             author: "IgongDae",
