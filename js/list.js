@@ -837,6 +837,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/7UFSaOxY1mY",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Smartphone",
             author: "Blebae",
@@ -1209,6 +1215,12 @@ const d = {
                     percent: 100,
                     hz: "120hz"
                 },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/0b99xNMUl_8",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "XOXO",
             author: "IgongDae",
@@ -1356,6 +1368,12 @@ const d = {
                 {
                     user: "NanCho",
                     link: "https://youtu.be/k45LIbUGno4",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/sUF5Ye87DYw",
                     percent: 100,
                     hz: "360hz"
                 },
@@ -1625,6 +1643,12 @@ const d = {
                 {
                     user: "Compass21",
                     link: "https://youtu.be/w6hFOT6qGRE?t=387",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/q9inTcc9uXs",
                     percent: 100,
                     hz: "360hz"
                 },
