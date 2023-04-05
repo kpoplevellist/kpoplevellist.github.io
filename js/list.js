@@ -1017,6 +1017,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/bw9-0nXy2UM",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Twinkle",
             author: "JRain",
@@ -1525,6 +1531,12 @@ const d = {
                     link: "https://youtu.be/ideaD1vK_xc",
                     percent: 100,
                     hz: "60hz(mobile)"
+                },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/yJS-lEVQBOg",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "Black Venom",
@@ -2435,6 +2447,12 @@ const d = {
                 {
                     user: "Compass21",
                     link: "https://youtu.be/w6hFOT6qGRE?t=269",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/BEdYg2V2BTg",
                     percent: 100,
                     hz: "360hz"
                 },
