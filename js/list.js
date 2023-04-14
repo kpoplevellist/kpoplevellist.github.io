@@ -519,6 +519,12 @@ const d = {
                     percent: 99,
                     hz: "240hz"
                 },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/olCqG4buo8E",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Violeta",
             author: "Pium & More [SangChun]",
@@ -597,6 +603,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/zjOwRlEW2gM",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "To You",
             author: "BlueTomcat",
@@ -734,6 +746,12 @@ const d = {
                     link: "https://youtu.be/fvPhwcUkJAE",
                     percent: 100,
                     hz: "120hz"
+                },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/mSn0C18YsCw",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "Open Your Eyes",
