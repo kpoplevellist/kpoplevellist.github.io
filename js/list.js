@@ -3260,6 +3260,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+        {
+                    user: "PiaNoMen",
+                    link: "https://youtu.be/P1fp72pi-uI",
+                    percent: 100,
+                    hz: "60hz(mobile)"
+                },
             ],
             name: "Fearless",
             author: "issanagay",
