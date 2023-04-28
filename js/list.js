@@ -46,24 +46,6 @@ const d = {
         {
             vids: [
             ],
-            name: "TOMBOY",
-            author: "Compass21",
-            mapInfo: {
-                simpleExp: "TOMBOY - (G)I-DLE",
-                uploadDate: "2023.04.021",
-                verifingAtt: "3403",
-                long: "1분 12초",
-                highest: "90209730",
-                more: "none",
-            },
-            percentToQualify: 49,
-            verificationVid: "https://www.youtube.com/watch?v=i3keBirGbfo",
-            key: 2
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
             name: "Travel",
             author: "MinYong & More [MinYong]",
             mapInfo: {
@@ -76,6 +58,30 @@ const d = {
             },
             percentToQualify: 48,
             verificationVid: "https://www.youtube.com/watch?v=kADEW0euUdk",
+            key: 2
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/beu8ou5cX4M",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "TOMBOY",
+            author: "Compass21",
+            mapInfo: {
+                simpleExp: "TOMBOY - (G)I-DLE",
+                uploadDate: "2023.04.021",
+                verifingAtt: "3403",
+                long: "1분 12초",
+                highest: "90209730",
+                more: "none",
+            },
+            percentToQualify: 49,
+            verificationVid: "https://www.youtube.com/watch?v=i3keBirGbfo",
             key: 3
         },
         /*=================================================================================*/
@@ -225,6 +231,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/cU4yZrFDIsw",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Attention",
             author: "IgongDae [BlueTomcat]",
