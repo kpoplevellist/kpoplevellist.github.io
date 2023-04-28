@@ -657,6 +657,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Compass21",
+                    link: "https://youtu.be/5zUugv1WyJ0",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "To You",
             author: "BlueTomcat",
