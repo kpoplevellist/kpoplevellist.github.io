@@ -1640,6 +1640,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/5c5PLm1obt8",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Love Dive",
             author: "TeamIVE [ItzKaserine]",
