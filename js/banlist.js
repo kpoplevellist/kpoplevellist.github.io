@@ -1,3 +1,3 @@
 var ban_users = [
 ];
-Aluminiums
+Aluminium
