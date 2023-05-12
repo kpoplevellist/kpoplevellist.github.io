@@ -52,24 +52,6 @@ const d = {
         {
             vids: [
             ],
-            name: "Russian Roulette",
-            author: "Aluminium",
-            mapInfo: {
-                simpleExp: "Russian Roulette - Red Velvet",
-                uploadDate: "2023.03.26",
-                verifingAtt: "1632",
-                long: "1분 13초",
-                highest: "89593950",
-                more: "none",
-            },
-            percentToQualify: 44,
-            verificationVid: "https://www.youtube.com/watch?v=1uXWg1_9pdI",
-            key: 2
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
             name: "Travel",
             author: "MinYong & More [MinYong]",
             mapInfo: {
@@ -1234,7 +1216,8 @@ const d = {
         {
             vids: [
             ],
-            name: "kistch",
+            name: "
+		",
             author: "Aluminium",
             mapInfo: {
                 simpleExp: "Kistch - IVE",
@@ -1245,7 +1228,7 @@ const d = {
                 more: "none",
             },
             percentToQualify: 65,
-            verificationVid: "https://www.youtube.com/watch?v=A588BwG3yQE",
+            verificationVid: "https://www.youtube.com/watch?v=8zcdIsYoAW4",
             key: 51
         },
         /*=================================================================================*/
@@ -1299,7 +1282,7 @@ const d = {
                 more: "none",
             },
             percentToQualify: 64,
-            verificationVid: "https://www.youtube.com/watch?v=I3rr4CvLOcM",
+            verificationVid: "https://www.youtube.com/watch?v=zYSMH4cJxlk",
             key: 53
         },
         /*=================================================================================*/
