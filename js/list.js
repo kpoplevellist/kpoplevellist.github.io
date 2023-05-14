@@ -177,6 +177,12 @@ const d = {
                     percent: 100,
                     hz: "240hz"
                 },
+                {
+                    user: "Cadooo",
+                    link: "https://youtu.be/TQ6MUkN4Nls",
+                    percent: 72,
+                    hz: "240hz"
+                },
             ],
             name: "Hann",
             author: "Ralo & More [Ralo]",
@@ -1629,12 +1635,6 @@ const d = {
         {
             vids: [
                 {
-                    user: "Korea7723",
-                    link: "https://youtu.be/T4Iu7imKyTA",
-                    percent: 100,
-                    hz: "360hz"
-                },
-                {
                     user: "eggkimbap",
                     link: "https://youtu.be/u3U2qyQs064",
                     percent: 100,
@@ -1648,7 +1648,7 @@ const d = {
                 },
             ],
             name: "Love Dive",
-            author: "TeamIVE [ItzKaserine]",
+            author: "TeamIVE [Korea7723]",
             mapInfo: {
                 simpleExp: "Love Dive - IVE",
                 uploadDate: "2023.03.12",
@@ -1658,7 +1658,7 @@ const d = {
                 more: "none",
             },
             percentToQualify: 63,
-            verificationVid: "https://www.youtube.com/watch?v=nJJPWgcUPsI",
+            verificationVid: "https://www.youtube.com/watch?v=T4Iu7imKyTA",
             key: 66
         },
         /*=================================================================================*/
