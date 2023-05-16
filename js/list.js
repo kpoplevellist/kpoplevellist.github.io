@@ -2384,6 +2384,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/VIIo_AFqerE",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "AntiFragile",
             author: "mkoijn10 & Compass21 [mkoijn10]",
