@@ -891,6 +891,24 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+            ],
+            name: "Generation",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "Generation - TripleS AAA",
+                uploadDate: "2023.02.07",
+                verifingAtt: "536",
+                long: "1분 4초",
+                highest: "88410474",
+                more: "none",
+            },
+            percentToQualify: 68,
+            verificationVid: "https://www.youtube.com/watch?v=DA7B0gB_sW0",
+            key: 37
+        },
+        /*=================================================================================*/
+        {
+            vids: [
                 {
                     user: "JRain",
                     link: "https://youtu.be/UMPSSqR1sss",
@@ -922,7 +940,7 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=-kkATsv_Gyc",
-            key: 37
+            key: 38
         },
         /*=================================================================================*/
         {
@@ -946,7 +964,7 @@ const d = {
             },
             percentToQualify: 58,
             verificationVid: "https://www.youtube.com/watch?v=ftCkBCHgPMI",
-            key: 38
+            key: 39
         },
         /*=================================================================================*/
         {
@@ -964,7 +982,7 @@ const d = {
             },
             percentToQualify: 61,
             verificationVid: "https://www.youtube.com/watch?v=Q7jmbZ60pEM",
-            key: 39
+            key: 40
         },
         /*=================================================================================*/
         {
@@ -988,7 +1006,7 @@ const d = {
             },
             percentToQualify: 71,
             verificationVid: "https://www.youtube.com/watch?v=Z0jIXPsGubc",
-            key: 40
+            key: 41
         },
         /*=================================================================================*/
         {
@@ -1012,7 +1030,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=6n1T7Z5kgWk",
-            key: 41
+            key: 42
         },
         /*=================================================================================*/
         {
@@ -1036,7 +1054,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=36U5OZDy0og",
-            key: 42
+            key: 43
         },
         /*=================================================================================*/
         {
@@ -1072,7 +1090,7 @@ const d = {
             },
             percentToQualify: 71,
             verificationVid: "https://www.youtube.com/watch?v=xqHVSmm8Eoc",
-            key: 43
+            key: 44
         },
         /*=================================================================================*/
         {
@@ -1108,7 +1126,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=Lc4Ef9SG7Kk",
-            key: 44
+            key: 45
         },
         /*=================================================================================*/
         {
@@ -1126,7 +1144,7 @@ const d = {
             },
             percentToQualify: 63,
             verificationVid: "https://www.youtube.com/watch?v=mkPskQNQI_Y",
-            key: 45
+            key: 46
         },
         /*=================================================================================*/
         {
@@ -1150,24 +1168,6 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=kTlhI3DWRBk",
-            key: 46
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "Generation",
-            author: "IgongDae",
-            mapInfo: {
-                simpleExp: "Generation - TripleS AAA",
-                uploadDate: "2023.02.07",
-                verifingAtt: "536",
-                long: "1분 4초",
-                highest: "88410474",
-                more: "none",
-            },
-            percentToQualify: 68,
-            verificationVid: "https://www.youtube.com/watch?v=DA7B0gB_sW0",
             key: 47
         },
         /*=================================================================================*/
