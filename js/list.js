@@ -51,6 +51,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/E_FiG8V6e1c",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Travel",
             author: "MinYong & More [MinYong]",
@@ -93,6 +99,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+		{
+                    user: "eggkimbap",
+                    link: "https://youtu.be/_SHpsJOS6LQ",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Kiss",
             author: "IgongDae",
@@ -111,6 +123,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+		{
+                    user: "eggkimbap",
+                    link: "https://youtu.be/yy-HFZzUhxk",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Attention E",
             author: "Compass21",
@@ -152,6 +170,12 @@ const d = {
                     link: "https://youtu.be/bkvnpmW37TQ",
                     percent: 100,
                     hz: "120hz"
+                },
+		{
+                    user: "eggkimbap",
+                    link: "https://youtu.be/4-exCppjy1Q",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "Talk And Talk",
@@ -309,6 +333,12 @@ const d = {
                     percent: 100,
                     hz: "144hz"
                 },
+		{
+                    user: "eggkimbap",
+                    link: "https://youtu.be/8gywDzEZTKc",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Violeta",
             author: "IgongDae",
@@ -374,6 +404,12 @@ const d = {
                     link: "https://youtu.be/MRJlBrMsJBA",
                     percent: 100,
                     hz: "120hz"
+                },
+		{
+                    user: "eggkimbap",
+                    link: "https://youtu.be/br01F0inuQc",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "Love Shhh",
@@ -1461,6 +1497,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+		{
+                    user: "eggkimbap",
+                    link: "https://youtu.be/IY1oqPydkyw",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Savage",
             author: "Ret0Lart & More [Ret0Lart]",
@@ -1718,6 +1760,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+		{
+                    user: "eggkimbap",
+                    link: "https://youtu.be/1V0PhM7PLjA",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Hype Boy",
             author: "IgongDae",
