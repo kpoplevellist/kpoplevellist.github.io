@@ -1276,10 +1276,10 @@ const d = {
         {
             vids: [
             ],
-            name: "kistch",
+            name: "kitsch",
             author: "Aluminium",
             mapInfo: {
-                simpleExp: "Kistch - IVE",
+                simpleExp: "Kitsch - IVE",
                 uploadDate: "2023.04.28",
                 verifingAtt: "비공개",
                 long: "1분 21초",
