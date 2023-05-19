@@ -357,6 +357,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/pr8rAB8kdlM",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Teddy Bear",
             author: "IgongDae",
@@ -429,6 +435,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/rcM6Zk3JXqw",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Kang Haerin Form Mic",
             author: "IgongDae",
