@@ -2306,6 +2306,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/6vWwsQrfAd0",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "I AM",
             author: "issanagay",
