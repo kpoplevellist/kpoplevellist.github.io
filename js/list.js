@@ -202,6 +202,12 @@ const d = {
                     hz: "240hz"
                 },
                 {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/xdABiIY9EQ0",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
                     user: "Cadooo",
                     link: "https://youtu.be/TQ6MUkN4Nls",
                     percent: 72,
