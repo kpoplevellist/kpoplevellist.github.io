@@ -275,6 +275,30 @@ const d = {
             vids: [
                 {
                     user: "eggkimbap",
+                    link: "https://youtu.be/JEHz8nXqfT4",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "Space Fantasy",
+            author: "BlueTomcat & More [Heeru]",
+            mapInfo: {
+                simpleExp: "Space Fantasy - 이박사",
+                uploadDate: "2023.03.04",
+                verifingAtt: "507",
+                long: "2분 5초",
+                highest: "89016484",
+                more: "mkoijn10, BlueTomcat, IgongDae",
+            },
+            percentToQualify: 61,
+            verificationVid: "https://www.youtube.com/watch?v=UckRI0C4xTg",
+            key: 11
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "eggkimbap",
                     link: "https://youtu.be/cU4yZrFDIsw",
                     percent: 100,
                     hz: "360hz"
@@ -292,7 +316,7 @@ const d = {
             },
             percentToQualify: 47,
             verificationVid: "https://www.youtube.com/watch?v=vyb143bP7FQ",
-            key: 11
+            key: 12
         },
         /*=================================================================================*/
         {
@@ -310,7 +334,7 @@ const d = {
             },
             percentToQualify: 44,
             verificationVid: "https://www.youtube.com/watch?v=RqVqyU60fD0",
-            key: 12
+            key: 13
         },
         /*=================================================================================*/
         {
@@ -358,7 +382,7 @@ const d = {
             },
             percentToQualify: 60,
             verificationVid: "https://www.youtube.com/watch?v=5cUEvttE2oM",
-            key: 13
+            key: 14
         },
         /*=================================================================================*/
         {
@@ -382,24 +406,6 @@ const d = {
             },
             percentToQualify: 63,
             verificationVid: "https://www.youtube.com/watch?v=PbtkvEEooMA",
-            key: 14
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "Space Fantasy",
-            author: "BlueTomcat & More [Heeru]",
-            mapInfo: {
-                simpleExp: "Space Fantasy - 이박사",
-                uploadDate: "2023.03.04",
-                verifingAtt: "507",
-                long: "2분 5초",
-                highest: "89016484",
-                more: "mkoijn10, BlueTomcat, IgongDae",
-            },
-            percentToQualify: 61,
-            verificationVid: "https://www.youtube.com/watch?v=UckRI0C4xTg",
             key: 15
         },
         /*=================================================================================*/
@@ -584,6 +590,12 @@ const d = {
                     link: "https://youtu.be/pFkWD1jhzyk",
                     percent: 100,
                     hz: "120hz"
+                },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/IHJlsX3KGig",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "Stay This Way",
