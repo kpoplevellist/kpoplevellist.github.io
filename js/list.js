@@ -117,6 +117,30 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/vTj7I8Nqo04",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "SWAN",
+            author: "IgongDae [RedSwitch]",
+            mapInfo: {
+                simpleExp: "환상동화 (Secret Story of the Swan) - IZ*ONE",
+                uploadDate: "2020.09.26",
+                verifingAtt: "1148",
+                long: "3분 13초",
+                highest: "64199166",
+                more: "none",
+            },
+            percentToQualify: 50,
+            verificationVid: "https://www.youtube.com/watch?v=Obm7L-0FE6s",
+            key: 5
+        },
+        /*=================================================================================*/
+        {
+            vids: [
 		{
                     user: "eggkimbap",
                     link: "https://youtu.be/_SHpsJOS6LQ",
@@ -136,7 +160,7 @@ const d = {
             },
             percentToQualify: 54,
             verificationVid: "https://www.youtube.com/watch?v=J6JD6OLzNW0",
-            key: 5
+            key: 6
         },
         /*=================================================================================*/
         {
@@ -160,7 +184,7 @@ const d = {
             },
             percentToQualify: 55,
             verificationVid: "https://www.youtube.com/watch?v=solMMBZLbx0",
-            key: 6
+            key: 7
         },
         /*=================================================================================*/
         {
@@ -190,7 +214,7 @@ const d = {
             },
 			percentToQualify: 48,
             verificationVid: "https://www.youtube.com/watch?v=ezeKiAuB4zk",
-            key: 7
+            key: 8
         },
         /*=================================================================================*/
         {
@@ -226,24 +250,6 @@ const d = {
             },
             percentToQualify: 49,
             verificationVid: "https://www.youtube.com/watch?v=MxcxTcXMUuA",
-            key: 8
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "SWAN",
-            author: "IgongDae [RedSwitch]",
-            mapInfo: {
-                simpleExp: "환상동화 (Secret Story of the Swan) - IZ*ONE",
-                uploadDate: "2020.09.26",
-                verifingAtt: "1148",
-                long: "3분 13초",
-                highest: "64199166",
-                more: "none",
-            },
-            percentToQualify: 50,
-            verificationVid: "https://www.youtube.com/watch?v=Obm7L-0FE6s",
             key: 9
         },
         /*=================================================================================*/
@@ -754,6 +760,24 @@ const d = {
         {
             vids: [
             ],
+            name: "CUPID",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "Cupid - FIFTY FIFTY",
+                uploadDate: "2023.05.21",
+                verifingAtt: "494",
+                long: "0분 50초",
+                highest: "90876908",
+                more: "none",
+            },
+            percentToQualify: 68,
+            verificationVid: "https://www.youtube.com/watch?v=0QsVPqnKKp8",
+            key: 28
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
             name: "PANDORA",
             author: "IgongDae",
             mapInfo: {
@@ -766,7 +790,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=AoFMH5Z54w4",
-            key: 28
+            key: 29
         },
         /*=================================================================================*/
         {
@@ -790,7 +814,7 @@ const d = {
             },
             percentToQualify: 65,
             verificationVid: "https://www.youtube.com/watch?v=JYD51qYmEU8",
-            key: 29
+            key: 30
         },
         /*=================================================================================*/
         {
@@ -814,24 +838,6 @@ const d = {
             },
             percentToQualify: 62,
             verificationVid: "https://www.youtube.com/watch?v=J9xM-ZuPbgw",
-            key: 30
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "CUPID",
-            author: "IgongDae",
-            mapInfo: {
-                simpleExp: "Cupid - FIFTY FIFTY",
-                uploadDate: "2023.05.21",
-                verifingAtt: "494",
-                long: "0분 50초",
-                highest: "90876908",
-                more: "none",
-            },
-            percentToQualify: 68,
-            verificationVid: "https://www.youtube.com/watch?v=0QsVPqnKKp8",
             key: 31
         },
         /*=================================================================================*/
@@ -2348,6 +2354,12 @@ const d = {
                     percent: 100,
                     hz: "60hz"
                 },
+                {
+                    user: "Samsung",
+                    link: "https://youtu.be/YfveoVBbkKg",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "I AM",
             author: "issanagay",
@@ -3142,7 +3154,7 @@ const d = {
                 uploadDate: "2023.03.05",
                 verifingAtt: "비공개",
                 long: "1분 41초",
-                highest: "75774282",
+                highest: "89065055",
                 more: "Lumins, Leaf, Sangchun, GDSean, T I G, Quablue, Chop, Heium",
             },
             percentToQualify: 68,
@@ -3457,6 +3469,12 @@ const d = {
                     link: "https://youtu.be/P1fp72pi-uI",
                     percent: 100,
                     hz: "60hz(mobile)"
+                },
+                {
+                    user: "Samsung",
+                    link: "https://youtu.be/Mj4x_nDCnTw",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "Fearless",
