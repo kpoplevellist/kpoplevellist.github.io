@@ -543,6 +543,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/WaQoieddgUU",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "SERENITY",
             author: "irrene & More [irrene]",
