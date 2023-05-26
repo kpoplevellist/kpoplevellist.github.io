@@ -759,6 +759,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/7wcXLiSru90",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "CUPID",
             author: "IgongDae",
@@ -1658,6 +1664,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/6-KZJTgZ5gE",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "I AM",
             author: "Mobile64",
