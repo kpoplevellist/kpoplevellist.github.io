@@ -699,6 +699,12 @@ const d = {
                     percent: 100,
                     hz: "144hz"
                 },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/s7Z6CBvY_lA",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Love Bomb",
             author: "IgongDae",
@@ -747,6 +753,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/vLcz2nZDYEg",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Up And",
             author: "IgongDae & More [IgongDae]",
@@ -789,6 +801,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/Mn8XteC9HwU",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "PANDORA",
             author: "IgongDae",
@@ -812,6 +830,12 @@ const d = {
                     link: "https://youtu.be/Awk4pbjGXKM",
                     percent: 100,
                     hz: "120hz"
+                },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/_rcuSnCNjJw",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "Cookie",
@@ -981,6 +1005,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/cviHXA1Se-g",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "BAMBI",
             author: "IgongDae",
@@ -1017,6 +1047,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/lZh2asAXLFE",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Generation",
             author: "IgongDae",
@@ -1310,6 +1346,12 @@ const d = {
                     link: "https://youtu.be/2-fYSzkpVsI",
                     percent: 100,
                     hz: "240hz"
+                },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/xRqsfBS44l4",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "OMG",
