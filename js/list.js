@@ -2492,6 +2492,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Korea7723",
+                    link: "https://youtu.be/azBT2iXzSv8",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "I AM",
             author: "issanagay",
