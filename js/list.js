@@ -2696,6 +2696,12 @@ const d = {
                     percent: 100,
                     hz: "60hz"
                 },
+                {
+                    user: "Korea7723",
+                    link: "https://youtu.be/kkMxHGF62HQ",
+                    percent: 100,
+                    hz: "165hz"
+                },
             ],
             name: "AntiFragile",
             author: "mkoijn10 & Compass21 [mkoijn10]",
