@@ -2372,6 +2372,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+               {
+                    user: "Korea7723",
+                    link: "https://youtu.be/8ACM08lxSLQ",
+                    percent: 100,
+                    hz: "165hz"
+                },
             ],
             name: "Ditto",
             author: "IgongDae & More [IgongDae]",
@@ -4073,6 +4079,12 @@ const d = {
                 {
                     user: "mkoijn10",
                     link: "https://youtu.be/7gBEZ2tmm3o",
+                    percent: 100,
+                    hz: "60hz(mobile)"
+                },
+               {
+                    user: "Mobile64",
+                    link: "https://youtu.be/qUUTvuz-D9o",
                     percent: 100,
                     hz: "60hz(mobile)"
                 },
