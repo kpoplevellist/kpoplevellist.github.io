@@ -1401,6 +1401,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/XuxtzmvtwFY",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "kitsch",
             author: "Aluminium",
@@ -1455,6 +1461,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/w5MVqFkI-Mo",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "ghostingg",
             author: "Aluminium",
