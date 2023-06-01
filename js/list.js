@@ -93,6 +93,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Samsung",
+                    link: "https://youtu.be/C9yJBqamLaQ",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Travel",
             author: "MinYong & More [MinYong]",
@@ -278,6 +284,12 @@ const d = {
                     link: "https://youtu.be/aghfkUbipak",
                     percent: 100,
                     hz: "165hz"
+                },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/PUr4y4mB7EE",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "Gangnam Style",
@@ -681,6 +693,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/nDjfnh2d1DI",
+                    percent: 100,
+                    hz: "360hz"
+                },
                {
                     user: "유찬",
                     link: "https://youtu.be/nbtHZwYEmkk",
@@ -884,6 +902,12 @@ const d = {
                     link: "https://youtu.be/pE0wx6b_igg",
                     percent: 100,
                     hz: "240hz"
+                },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/HUYGVRXQ3p0",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "Good Night test ver",
@@ -1341,6 +1365,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/oUdRyjl9Bgk",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Melody",
             author: "Aluminium & IgongDae [Aluminium]",
@@ -2894,6 +2924,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/Yxp3JVeLGIc",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "illusion",
             author: "Ret0Lart & AnotherLetter [Elina]",
@@ -3725,6 +3761,12 @@ const d = {
                 {
                     user: "Samsung",
                     link: "https://youtu.be/Mj4x_nDCnTw",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/d0HLWGeDKBI",
                     percent: 100,
                     hz: "360hz"
                 },
