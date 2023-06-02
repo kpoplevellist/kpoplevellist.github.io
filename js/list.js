@@ -357,6 +357,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/M5QN6SsemUw",
+                    percent: 100,
+                    hz: "144hz"
+                },
             ],
             name: "119",
             author: "Kjackpot & More [Kjackpot]",
@@ -1497,6 +1503,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Samsung",
+                    link: "https://youtu.be/ieRomt78j0M?t=266",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "ghostingg",
             author: "Aluminium",
@@ -1647,6 +1659,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/7vsxkcxSRBE",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "TTT",
             author: "IsmaHikari [IgongDae]",
@@ -2090,6 +2108,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Samsung",
+                    link: "https://youtu.be/WZq-8-gn9d0",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "I AM",
             author: "Mobile64",
@@ -2108,6 +2132,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Samsung",
+                    link: "https://youtu.be/UteMLTks1aI",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "KITSCH",
             author: "Mobile64",
@@ -2768,6 +2798,12 @@ const d = {
                     percent: 100,
                     hz: "60hz(mobile)"
                 },
+                {
+                    user: "Samsung",
+                    link: "https://youtu.be/ieRomt78j0M?t=214",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Good At Love",
             author: "Sidci",
@@ -2803,6 +2839,12 @@ const d = {
                     link: "https://youtu.be/kkMxHGF62HQ",
                     percent: 100,
                     hz: "165hz"
+                },
+                {
+                    user: "Samsung",
+                    link: "https://youtu.be/2ydEyMAAauk",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "AntiFragile",
@@ -3257,6 +3299,12 @@ const d = {
                 {
                     user: "eggkimbap",
                     link: "https://youtu.be/EiVsuXYwXi4",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "Samsung",
+                    link: "https://youtu.be/ieRomt78j0M?t=157",
                     percent: 100,
                     hz: "360hz"
                 },
@@ -3830,6 +3878,12 @@ const d = {
                     percent: 100,
                     hz: "120hz(mobile)"
                 },
+                {
+                    user: "Samsung",
+                    link: "https://youtu.be/ieRomt78j0M?t=100",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Butter",
             author: "32Nova",
@@ -3859,6 +3913,12 @@ const d = {
                     link: "https://www.youtube.com/watch?v=nUXsgEWugSk&t=70s",
                     percent: 100,
                     hz: "288hz"
+                },
+                {
+                    user: "Samsung",
+                    link: "https://youtu.be/ieRomt78j0M?t=48",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "kda the baddest",
@@ -4213,6 +4273,12 @@ const d = {
                     link: "https://youtu.be/qUUTvuz-D9o",
                     percent: 100,
                     hz: "60hz(mobile)"
+                },
+                {
+                    user: "Samsung",
+                    link: "https://youtu.be/ieRomt78j0M",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "Icon",
