@@ -543,6 +543,12 @@ const d = {
                     percent: 100,
                     hz: "144hz"
                 },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/Ab73m4Lnu0w",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Rough",
             author: "Kmini & More [zPlasmaLust]",
@@ -561,6 +567,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/Ab73m4Lnu0w?t=472",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "DICE",
             author: "IgongDae",
@@ -987,6 +999,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/Ab73m4Lnu0w?t=785",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "In The Air",
             author: "JRain & More [JRain]",
@@ -1083,6 +1101,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/Ab73m4Lnu0w?t=935",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Shout",
             author: "Chop & More [DeathCure]",
@@ -1874,6 +1898,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/Ab73m4Lnu0w?t=552",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Alone in Winter",
             author: "Ralo & Vantablack [Ralo]",
@@ -1904,6 +1934,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/Ab73m4Lnu0w?t=1179",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Christmas Present",
             author: "Sweetdream & More [Sweetdream]",
@@ -1922,6 +1958,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/Ab73m4Lnu0w?t=1114",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Ditto",
             author: "Mobile64",
@@ -2018,6 +2060,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/Ab73m4Lnu0w?t=141",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "BTS  DNA",
             author: "lolbito",
@@ -2036,6 +2084,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/Ab73m4Lnu0w?t=704",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Yogurting",
             author: "IgongDae",
@@ -2084,6 +2138,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/Ab73m4Lnu0w?t=382",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "CASE 143",
             author: "IsmaHikari & IgongDae [IgongDae]",
@@ -2135,6 +2195,12 @@ const d = {
                 {
                     user: "Samsung",
                     link: "https://youtu.be/UteMLTks1aI",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/Ab73m4Lnu0w?t=312",
                     percent: 100,
                     hz: "360hz"
                 },
