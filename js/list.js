@@ -71,7 +71,7 @@ const d = {
             vids: [
             ],
             name: "russian roulette",
-            author: "Aluminium [eggkimbap]",
+            author: "Coffee [eggkimbap]",
             mapInfo: {
                 simpleExp: "Russian Roulette - Red Velvet",
                 uploadDate: "2023.03.26",
@@ -1403,14 +1403,14 @@ const d = {
                 },
             ],
             name: "Melody",
-            author: "Aluminium & IgongDae [Aluminium]",
+            author: "Coffee & IgongDae [Coffee]",
             mapInfo: {
                 simpleExp: "Melody - ASH ISLAND",
                 uploadDate: "2023.03.25",
                 verifingAtt: "비공개",
                 long: "1분 18초",
                 highest: "89546970",
-                more: "Aluminium, IgongDae",
+                more: "Coffee, IgongDae",
             },
             percentToQualify: 61,
             verificationVid: "https://www.youtube.com/watch?v=QNsuDOxIpuw",
@@ -1469,7 +1469,7 @@ const d = {
                 },
             ],
             name: "kitsch",
-            author: "Aluminium",
+            author: "Coffee",
             mapInfo: {
                 simpleExp: "Kitsch - IVE",
                 uploadDate: "2023.04.28",
@@ -1535,7 +1535,7 @@ const d = {
                 },
             ],
             name: "ghostingg",
-            author: "Aluminium",
+            author: "Coffee",
             mapInfo: {
                 simpleExp: "Ghosting - Woo, meenoi (Prod. by CODE KUNST)",
                 uploadDate: "2023.04.14",
@@ -1583,7 +1583,7 @@ const d = {
                 },
             ],
             name: "Can I Love",
-            author: "Aluminium",
+            author: "Coffee",
             mapInfo: {
                 simpleExp: "Can I Love? - Cosmic Boy (Feat. 유라)",
                 uploadDate: "2023.02.03",
