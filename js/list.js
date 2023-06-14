@@ -2012,6 +2012,12 @@ const d = {
                     percent: 100,
                     hz: "240hz"
                 },
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/bBkLdgC5-YE",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "Love Dive",
             author: "TeamIVE [Korea7723]",
