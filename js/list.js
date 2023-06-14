@@ -1167,6 +1167,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/X16DDDBgtP8",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "SO BAD",
             author: "IgongDae & More [IgongDae]",
@@ -1191,6 +1197,12 @@ const d = {
                     percent: 100,
                     hz: "120hz"
                 },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/TvMZ5BvJ5ks",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "THE BADDEST",
             author: "Heeru & More [Heeru]",
@@ -1209,6 +1221,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/rVjrYW41m58",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "i",
             author: "Ret0Lart & beruta [Ret0Lart]",
@@ -2798,6 +2816,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/75FVn8T-2-c",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "feel my rhythm",
             author: "DoUKnowKimchi",
@@ -3884,6 +3908,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/6-65Yw1LFCM",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Fearless",
             author: "issanagay",
@@ -4561,6 +4591,12 @@ const d = {
                     link: "https://youtu.be/wHiQSzLtmsU",
                     percent: 100,
                     hz: "144hz"
+                },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/75FVn8T-2-c?t=60",
+                    percent: 100,
+                    hz: "60hz (mobile)"
                 },
             ],
             name: "Feel My Rhythm",
