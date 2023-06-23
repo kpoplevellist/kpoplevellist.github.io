@@ -2300,6 +2300,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/wNeSFM6PV9g",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "KITSCH",
             author: "Mobile64",
@@ -2773,6 +2779,12 @@ const d = {
                     link: "https://youtu.be/azBT2iXzSv8",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/mt5xk7IaMAc",
+                    percent: 100,
+                    hz: "144hz"
                 },
             ],
             name: "I AM",
