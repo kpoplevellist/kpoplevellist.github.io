@@ -2654,6 +2654,12 @@ const d = {
                     percent: 100,
                     hz: "165hz"
                 },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/TKjkb0QBBKk",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Ditto",
             author: "IgongDae & More [IgongDae]",
@@ -2804,6 +2810,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/LGRw8_lyx9Q",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Panorama",
             author: "issanagay",
@@ -2965,6 +2977,12 @@ const d = {
                     link: "https://youtu.be/ieRomt78j0M?t=214",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/FB26eTe2_QI",
+                    percent: 100,
+                    hz: "60hz (mobile)"
                 },
             ],
             name: "Good At Love",
@@ -3302,6 +3320,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/U5fHFWFwmzY",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Teddy Bear",
             author: "Wohlwend",
@@ -3379,6 +3403,12 @@ const d = {
                     link: "https://youtu.be/N5wWWT9bfsM",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/_wH5w3jiD6g",
+                    percent: 100,
+                    hz: "60hz (mobile)"
                 },
             ],
             name: "Eleven",
@@ -3733,6 +3763,12 @@ const d = {
                     link: "https://youtu.be/cTDvyBes7Lk",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/FB26eTe2_QI?t=51",
+                    percent: 100,
+                    hz: "60hz (mobile)"
                 },
             ],
             name: "Talk That Talk",
