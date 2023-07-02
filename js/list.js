@@ -2052,7 +2052,7 @@ const d = {
             name: "mess",
             author: "IgongDae",
             mapInfo: {
-                simpleExp: "이브, 프시케 그리고 푸른 수염의 아내 - LE SSERAFIM",
+                simpleExp: "이브 프시케 그리고 푸른 수염의 아내 - LE SSERAFIM",
                 uploadDate: "2023.07.03",
                 verifingAtt: "507",
                 long: "1분 9초",
