@@ -2048,42 +2048,6 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-            ],
-            name: "mess",
-            author: "IgongDae",
-            mapInfo: {
-                simpleExp: "이브 프시케 그리고 푸른 수염의 아내 - LE SSERAFIM",
-                uploadDate: "2023.07.03",
-                verifingAtt: "507",
-                long: "1분 9초",
-                highest: "91083869",
-                more: "none",
-            },
-            percentToQualify: 67,
-            verificationVid: "https://www.youtube.com/watch?v=NiClh6yHdus",
-            key: 73
-        },
-        /*=================================================================================*/|
-        {
-            vids: [
-            ],
-            name: "OMG",
-            author: "Mobile64",
-            mapInfo: {
-                simpleExp: "OMG - NewJeans",
-                uploadDate: "2023.06.29",
-                verifingAtt: "582",
-                long: "1분 19초",
-                highest: "91983404",
-                more: "none",
-            },
-            percentToQualify: 68,
-            verificationVid: "https://www.youtube.com/watch?v=T77mFOWpM-E",
-            key: 74
-        },
-        /*=================================================================================*/
-        {
-            vids: [
                 {
                     user: "eggkimbap",
                     link: "https://youtu.be/Ab73m4Lnu0w?t=1114",
