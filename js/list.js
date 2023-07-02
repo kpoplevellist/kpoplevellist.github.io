@@ -1311,7 +1311,6 @@ const d = {
                     percent: 100,
                     hz: "60hz"
                 },
-
             ],
             name: "Merry Go Round",
             author: "IgongDae",
