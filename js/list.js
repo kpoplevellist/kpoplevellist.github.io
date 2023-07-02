@@ -2052,7 +2052,7 @@ const d = {
             name: "mess",
             author: "IgongDae",
             mapInfo: {
-                simpleExp: "Eve Psyche And Bluebeards Wife - LE SSERAFIM",
+                simpleExp: "Eve Psyche And Bluebeard\'s Wife - LE SSERAFIM",
                 uploadDate: "2023.07.03",
                 verifingAtt: "507",
                 long: "1분 9초",
