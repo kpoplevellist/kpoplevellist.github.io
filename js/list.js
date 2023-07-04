@@ -2288,6 +2288,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/fSEDYlpBfdU",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "hula hoop",
             author: "qarlij",
