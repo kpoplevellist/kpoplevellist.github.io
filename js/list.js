@@ -2066,6 +2066,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Compass21",
+                    link: "https://youtu.be/N9YSWpxNeko",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "OMG",
             author: "Mobile64",
@@ -2087,6 +2093,12 @@ const d = {
                 {
                     user: "eggkimbap",
                     link: "https://youtu.be/Ab73m4Lnu0w?t=1114",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "Compass21",
+                    link: "https://youtu.be/N9YSWpxNeko?t=399",
                     percent: 100,
                     hz: "360hz"
                 },
@@ -2348,6 +2360,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Compass21",
+                    link: "https://youtu.be/N9YSWpxNeko?t=99",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "I AM",
             author: "Mobile64",
@@ -2383,6 +2401,12 @@ const d = {
                     link: "https://youtu.be/wNeSFM6PV9g",
                     percent: 100,
                     hz: "60hz"
+                },
+                {
+                    user: "Compass21",
+                    link: "https://youtu.be/N9YSWpxNeko?t=475",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "KITSCH",
@@ -2540,6 +2564,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Compass21",
+                    link: "https://youtu.be/N9YSWpxNeko?t=205",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "After LIKE",
             author: "Mobile64",
@@ -2756,6 +2786,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Compass21",
+                    link: "https://youtu.be/N9YSWpxNeko?t=614",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Ispicywithmyspicylay",
             author: "Mobile64",
@@ -3026,6 +3062,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Compass21",
+                    link: "https://youtu.be/N9YSWpxNeko?t=558",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Boat",
             author: "Mobile64",
@@ -3152,6 +3194,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Compass21",
+                    link: "https://youtu.be/N9YSWpxNeko?t=304",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Event Horizon",
             author: "Mobile64",
