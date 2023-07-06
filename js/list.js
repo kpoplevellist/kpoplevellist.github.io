@@ -2942,6 +2942,12 @@ const d = {
                     percent: 100,
                     hz: "144hz"
                 },
+                {
+                    user: "PiaNoMen",
+                    link: "https://youtu.be/rKaGTfsX0kA",
+                    percent: 100,
+                    hz: "144hz"
+                },
             ],
             name: "I AM",
             author: "issanagay",
@@ -4274,6 +4280,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "PiaNoMen",
+                    link: "https://youtu.be/uMrbxRHmmmU",
+                    percent: 100,
+                    hz: "144hz"
+                },
             ],
             name: "Unforgiven",
             author: "issanagay",
