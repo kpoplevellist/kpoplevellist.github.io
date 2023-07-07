@@ -2048,6 +2048,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/Dx0B-AWEKDc",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "mess",
             author: "IgongDae",
@@ -2204,6 +2210,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/Q97RIFbDBTE",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "120BPM",
             author: "IgongDae & Coke [IgongDae]",
@@ -2659,6 +2671,12 @@ const d = {
                     link: "https://youtu.be/0q_-XyeTgI4",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "Langk",
+                    link: "https://youtu.be/AJu6GnUTYkE",
+                    percent: 100,
+                    hz: "60hz"
                 },
             ],
             name: "Butter",
