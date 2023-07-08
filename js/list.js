@@ -2234,6 +2234,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/3PImPxLiyF4",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "AFTER LIKE",
             author: "CUN089 & Lagogi [CUN089]",
@@ -2676,7 +2682,7 @@ const d = {
                     user: "Langk",
                     link: "https://youtu.be/AJu6GnUTYkE",
                     percent: 100,
-                    hz: "60hz"
+                    hz: "60hz (mobile)"
                 },
             ],
             name: "Butter",
@@ -2990,6 +2996,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+                {
+                    user: "Langk",
+                    link: "https://youtu.be/nJFG-9Z2VsA",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Panorama",
             author: "issanagay",
@@ -3086,6 +3098,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/_-XuhlXOvr8",
+                    percent: 100,
+                    hz: "144hz"
+                },
             ],
             name: "AntiFragile",
             author: "HKattFlush & IgongDae [IgongDae]",
