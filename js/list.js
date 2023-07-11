@@ -4094,6 +4094,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+                {
+                    user: "Langk",
+                    link: "https://youtu.be/q0atnHYzzRQ",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Talk That Talk",
             author: "Sidci, HKattFlush [Sidci]",
