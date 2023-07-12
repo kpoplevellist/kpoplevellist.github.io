@@ -2384,6 +2384,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+                {
+                    user: "Jirachi",
+                    link: "https://youtu.be/ChN98HJSa4M",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "hula hoop",
             author: "qarlij",
@@ -2983,6 +2989,12 @@ const d = {
                     link: "https://youtu.be/pCvS9sAHe00",
                     percent: 100,
                     hz: "144hz"
+                },
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/PjbgaKVp5HU",
+                    percent: 100,
+                    hz: "60hz"
                 },
             ],
             name: "Above The Sky",
@@ -4399,6 +4411,12 @@ const d = {
                     link: "https://youtu.be/uMrbxRHmmmU",
                     percent: 100,
                     hz: "144hz"
+                },
+                {
+                    user: "Jirachi",
+                    link: "https://youtu.be/szv3cg6oD08",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Unforgiven",
