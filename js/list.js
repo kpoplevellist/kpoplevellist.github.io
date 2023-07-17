@@ -55,7 +55,7 @@ const d = {
             name: "After Like",
             author: "IgongDae",
             mapInfo: {
-                simpleExp: "After Like - IVE",
+                simpleExp: " Like - IVE",
                 uploadDate: "2022.09.19",
                 verifingAtt: "12340",
                 long: "1분 34초",
@@ -447,6 +447,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/txDzRpL_-Io",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "After LIKE",
             author: "issanagay",
@@ -603,6 +609,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/kSU46os46qU",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Spicy",
             author: "IgongDae",
@@ -2258,6 +2270,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Jirachi",
+                    link: "https://youtu.be/UdUGI77Fyxo",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "120BPM",
             author: "IgongDae & Coke [IgongDae]",
@@ -2449,6 +2467,12 @@ const d = {
                     link: "https://youtu.be/N9YSWpxNeko?t=99",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/_PtacF6UguY?t=87",
+                    percent: 100,
+                    hz: "60hz"
                 },
             ],
             name: "I AM",
@@ -2653,6 +2677,12 @@ const d = {
                     link: "https://youtu.be/N9YSWpxNeko?t=205",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/_PtacF6UguY",
+                    percent: 100,
+                    hz: "60hz"
                 },
             ],
             name: "After LIKE",
@@ -3337,6 +3367,12 @@ const d = {
                     link: "https://youtu.be/N9YSWpxNeko?t=304",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "Jirachi",
+                    link: "https://youtu.be/ZKxWNcpegh8",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Event Horizon",
