@@ -3248,7 +3248,7 @@ const d = {
             mapInfo: {
                 simpleExp: "TOMBOY - (G)I-DLE",
                 uploadDate: "2023.07.20",
-                verifingAtt: "50",
+                verifingAtt: "비공개",
                 long: "2분 55초",
                 highest: "92614372",
                 more: "InterChange, IgongDae",
