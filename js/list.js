@@ -105,6 +105,24 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+            ],
+            name: "Kimbap Over",
+            author: "VantablockGD [eggkimbap]",
+            mapInfo: {
+                simpleExp: "Bo Peep Bo Peep - T-ara",
+                uploadDate: "2023.07.07",
+                verifingAtt: "289",
+                long: "0분 46초",
+                highest: "92527319",
+                more: "none",
+            },
+            percentToQualify: 48,
+            verificationVid: "https://www.youtube.com/watch?v=pZDDZkgJ-Wk",
+            key: 5
+        },
+        /*=================================================================================*/	
+        {
+            vids: [
                 {
                     user: "eggkimbap",
                     link: "https://youtu.be/E_FiG8V6e1c",
@@ -1580,6 +1598,12 @@ const d = {
                     link: "https://youtu.be/ihq3yLryeGA",
                     percent: 100,
                     hz: "240hz"
+                },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/ef6priaaqrQ",
+                    percent: 100,
+                    hz: "60hz (mobile)"
                 },
             ],
             name: "OMG",
@@ -3074,6 +3098,12 @@ const d = {
                     percent: 100,
                     hz: "144hz"
                 },
+                {
+                    user: "Langk",
+                    link: "https://youtu.be/YjFhdHTT-LU",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "I AM",
             author: "issanagay",
@@ -3202,6 +3232,30 @@ const d = {
             percentToQualify: 65,
             verificationVid: "https://www.youtube.com/watch?v=wO7ZKvUhsmk",
             key: 110
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/jyMqyA4llko",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "Tomboy",
+            author: "InterChange & IgongDae [InterChange]",
+            mapInfo: {
+                simpleExp: "TOMBOY - (G)I-DLE",
+                uploadDate: "2023.07.20",
+                verifingAtt: "50",
+                long: "2분 55초",
+                highest: "92614372",
+                more: "InterChange, IgongDae",
+            },
+            percentToQualify: 68,
+            verificationVid: "https://www.youtube.com/watch?v=h54uDQBbSyA",
+            key: 111
         },
         /*=================================================================================*/
         {
