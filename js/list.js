@@ -2697,6 +2697,30 @@ const d = {
         {
             vids: [
                 {
+                    user: "issanagay",
+                    link: "https://youtu.be/f0DeFzQiLcc",
+                    percent: 100,
+                    hz: "60hz"
+                },
+            ],
+            name: "W A V E",
+            author: "Mobile64",
+            mapInfo: {
+                simpleExp: "WAVE - IVE",
+                uploadDate: "2023.07.20",
+                verifingAtt: "260",
+                long: "1분 13초",
+                highest: "92620186",
+                more: "none",
+            },
+            percentToQualify: 64,
+            verificationVid: "https://www.youtube.com/watch?v=-IRguxXuhVk",
+            key: 94
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
                     user: "Compass21",
                     link: "https://youtu.be/N9YSWpxNeko?t=205",
                     percent: 100,
@@ -3266,6 +3290,12 @@ const d = {
                     percent: 100,
                     hz: "144hz"
                 },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/326BkHlR4Zc",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "AntiFragile",
             author: "HKattFlush & IgongDae [IgongDae]",
@@ -3313,6 +3343,12 @@ const d = {
                     link: "https://youtu.be/Qei5Lw_RNto",
                     percent: 100,
                     hz: "144hz"
+                },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/VATiAKrSxxA",
+                    percent: 100,
+                    hz: "60hz (mobile)"
                 },
             ],
             name: "MAGO",
@@ -4340,6 +4376,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/IWZE7SCaspc",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Set Me Free",
             author: "issanagay",
