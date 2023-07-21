@@ -839,8 +839,8 @@ const d = {
                 },
                 {
                     user: "Korea7723",
-                    link: "https://youtu.be/af7iuY2gMWg",
-                    percent: 59,
+                    link: "https://youtu.be/qFJwcxgqcbg",
+                    percent: 90,
                     hz: "360hz"
                 },
             ],
@@ -4525,6 +4525,12 @@ const d = {
                     link: "https://youtu.be/szv3cg6oD08",
                     percent: 100,
                     hz: "240hz"
+                },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/9vwQ03YREt8",
+                    percent: 100,
+                    hz: "60hz (mobile)"
                 },
             ],
             name: "Unforgiven",
