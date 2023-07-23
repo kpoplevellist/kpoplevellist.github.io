@@ -3266,6 +3266,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/TkW4_cd4KN0",
+                    percent: 100,
+                    hz: "144hz"
+                },
             ],
             name: "Tomboy",
             author: "InterChange & IgongDae [InterChange]",
@@ -3295,6 +3301,12 @@ const d = {
                     link: "https://youtu.be/326BkHlR4Zc",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/NnRkqJmlYMA?t=48",
+                    percent: 100,
+                    hz: "60hz"
                 },
             ],
             name: "AntiFragile",
@@ -3433,6 +3445,12 @@ const d = {
                     link: "https://youtu.be/2ydEyMAAauk",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/NnRkqJmlYMA",
+                    percent: 100,
+                    hz: "60hz"
                 },
             ],
             name: "AntiFragile",
@@ -3686,6 +3704,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/2u1t1eCFec4",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "What is Love",
             author: "Hotdog71 & Sweetdream [Sweetdream]",
@@ -3770,6 +3794,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/2sBcz0Hl090",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Colors",
             author: "Lumins & More [Lumins]",
@@ -4430,6 +4460,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/ELfTvdFXZ9w",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "I WANT",
             author: "issanagay",
@@ -5167,6 +5203,12 @@ const d = {
                     link: "https://youtu.be/R_crgsat2Ms",
                     percent: 100,
                     hz: "165hz"
+                },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/ZAu7DTG4kQg",
+                    percent: 100,
+                    hz: "60hz (mobile)"
                 },
             ],
             name: "Kill This Love",
