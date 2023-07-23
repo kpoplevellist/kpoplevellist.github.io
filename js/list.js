@@ -3096,7 +3096,7 @@ const d = {
                     user: "Mobile64",
                     link: "https://youtu.be/6vWwsQrfAd0",
                     percent: 100,
-                    hz: "60hz"
+                    hz: "60hz (mobile)"
                 },
                 {
                     user: "Samsung",
@@ -3432,7 +3432,7 @@ const d = {
                     user: "Mobile64",
                     link: "https://youtu.be/VIIo_AFqerE",
                     percent: 100,
-                    hz: "60hz"
+                    hz: "60hz (mobile)"
                 },
                 {
                     user: "Korea7723",
