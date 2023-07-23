@@ -2150,6 +2150,24 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+            ],
+            name: "Oort Cloud",
+            author: "Saril08",
+            mapInfo: {
+                simpleExp: "오르트구름 - 윤하",
+                uploadDate: "2023.07.22",
+                verifingAtt: "비공개",
+                long: "1분 16초",
+                highest: "92685899",
+                more: "none",
+            },
+            percentToQualify: 69,
+            verificationVid: "https://www.youtube.com/watch?v=fOJm6T5Uww4",
+            key: 75
+        },
+        /*=================================================================================*/
+        {
+            vids: [
                 {
                     user: "Compass21",
                     link: "https://youtu.be/N9YSWpxNeko",
@@ -3208,6 +3226,24 @@ const d = {
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=e_4fdEz5nik",
             key: 108
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Love Dive",
+            author: "issanagay",
+            mapInfo: {
+                simpleExp: "Love Dive - IVE",
+                uploadDate: "2023.07.22",
+                verifingAtt: "비공개",
+                long: "2분 22초",
+                highest: "92651368",
+                more: "none",
+            },
+            percentToQualify: 66,
+            verificationVid: "https://www.youtube.com/watch?v=LnLXwEiy9IQ",
+            key: 106
         },
         /*=================================================================================*/
         {
