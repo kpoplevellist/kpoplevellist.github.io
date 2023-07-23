@@ -2834,6 +2834,12 @@ const d = {
                     percent: 100,
                     hz: "60hz"
                 },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/obwNcAgl8I0",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Deja Vu",
             author: "Adelx [Juandelburro 69]",
@@ -3949,6 +3955,12 @@ const d = {
                     link: "https://www.youtube.com/watch?v=q_47DqTe3kI",
                     percent: 100,
                     hz: "240hz"
+                },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/obwNcAgl8I0",
+                    percent: 100,
+                    hz: "60hz (mobile)"
                 },
             ],
             name: "Deja Vu",
