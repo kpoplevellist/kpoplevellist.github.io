@@ -2379,14 +2379,14 @@ const d = {
         {
             vids: [
             ],
-            name: "Rooftop Final",
-            author: "ItzKaserine & More [UserProfile]",
+            name: "Rooftop",
+            author: "TeamIVE & More [UserProfile]",
             mapInfo: {
                 simpleExp: "Rooftop - N.Flying",
                 uploadDate: "2023.07.24",
                 verifingAtt: "567",
                 long: "1분 35초",
-                highest: "92654566",
+                highest: "92730222",
                 more: "ItzKaserine, TeamIVE",
             },
             percentToQualify: 60,
