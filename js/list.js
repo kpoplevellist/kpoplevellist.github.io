@@ -1443,6 +1443,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/shdBisgDAhI",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "Fiesta",
             author: "IgongDae [BeCruX]",
