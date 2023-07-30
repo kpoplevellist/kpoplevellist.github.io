@@ -2388,7 +2388,7 @@ const d = {
             name: "Rooftop",
             author: "TeamIVE & More [UserProfile]",
             mapInfo: {
-                simpleExp: "Rooftop - N.Flying",
+                simpleExp: "Rooftop - N Flying",
                 uploadDate: "2023.07.24",
                 verifingAtt: "567",
                 long: "1분 35초",
