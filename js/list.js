@@ -3686,6 +3686,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/1Sr0fgIpnko",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "illusion",
             author: "Ret0Lart & AnotherLetter [Elina]",
