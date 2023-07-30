@@ -1442,7 +1442,7 @@ const d = {
                     link: "https://youtu.be/m27AaLOP7Rc",
                     percent: 100,
                     hz: "360hz"
-                },\
+                },
             ],
             name: "Fiesta",
             author: "IgongDae [BeCruX]",
