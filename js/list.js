@@ -825,11 +825,17 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
-               {
-                    user: "유찬",
-                    link: "https://youtu.be/nbtHZwYEmkk",
-                    percent: 69,
-                    hz: "120hz (mobile)"
+                {
+                    user: "Korea7723",
+                    link: "https://youtu.be/qFJwcxgqcbg",
+                    percent: 90,
+                    hz: "360hz"
+                },
+                {
+                    user: "Langk",
+                    link: "https://youtu.be/wobFiEBjx4g",
+                    percent: 88,
+                    hz: "60hz (mobile)"
                 },
                 {
                     user: "Jirachi",
@@ -837,11 +843,11 @@ const d = {
                     percent: 83,
                     hz: "240hz"
                 },
-                {
-                    user: "Korea7723",
-                    link: "https://youtu.be/qFJwcxgqcbg",
-                    percent: 90,
-                    hz: "360hz"
+               {
+                    user: "유찬",
+                    link: "https://youtu.be/nbtHZwYEmkk",
+                    percent: 69,
+                    hz: "120hz (mobile)"
                 },
             ],
             name: "After LIKE",
@@ -3254,6 +3260,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/uMA2CfO50Ds",
+                    percent: 100,
+                    hz: "144hz"
+                },
             ],
             name: "Love Dive",
             author: "issanagay",
@@ -5375,6 +5387,12 @@ const d = {
                 {
                     user: "Mobile64",
                     link: "https://youtu.be/75FVn8T-2-c?t=60",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
+                {
+                    user: "Langk",
+                    link: "https://youtu.be/m6Zzt13GmT8",
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
