@@ -531,6 +531,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/7Y4c4Ufn35Y",
+                    percent: 100,
+                    hz: "60hz"
+                }
             ],
             name: "Love Shhh",
             author: "IgongDae",
