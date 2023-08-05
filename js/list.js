@@ -201,12 +201,6 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-		{
-                    user: "eggkimbap",
-                    link: "https://youtu.be/_SHpsJOS6LQ",
-                    percent: 100,
-                    hz: "360hz"
-                },
             ],
             name: "Kiss",
             author: "IgongDae",
