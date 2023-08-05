@@ -850,6 +850,12 @@ const d = {
                     hz: "360hz"
                 },
                 {
+                    user: "issanagay",
+                    link: "https://youtu.be/n5RQNr0r4Qw",
+                    percent: 100,
+                    hz: "60hz"
+                }
+                {
                     user: "Korea7723",
                     link: "https://youtu.be/qFJwcxgqcbg",
                     percent: 90,
@@ -4717,6 +4723,12 @@ const d = {
                     link: "https://youtu.be/szv3cg6oD08",
                     percent: 100,
                     hz: "240hz"
+                },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/9vwQ03YREt8",
+                    percent: 100,
+                    hz: "60hz (mobile)"
                 },
                 {
                     user: "Mobile64",
