@@ -848,7 +848,7 @@ const d = {
                     link: "https://youtu.be/n5RQNr0r4Qw",
                     percent: 100,
                     hz: "60hz"
-                }
+                },
                 {
                     user: "Korea7723",
                     link: "https://youtu.be/qFJwcxgqcbg",
