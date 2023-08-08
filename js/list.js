@@ -4778,12 +4778,6 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
-                {
-                    user: "Mobile64",
-                    link: "https://youtu.be/9vwQ03YREt8",
-                    percent: 100,
-                    hz: "60hz (mobile)"
-                },
             ],
             name: "Unforgiven",
             author: "issanagay",
