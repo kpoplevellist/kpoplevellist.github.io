@@ -5253,7 +5253,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
-            key: 172
+            key: 174
         },
         /*=================================================================================*/
         {
@@ -5295,7 +5295,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=5pOClFj_63c",
-            key: 174
+            key: 175
         },
         /*=================================================================================*/
         {
@@ -5331,7 +5331,7 @@ const d = {
             },
             percentToQualify: 78,
             verificationVid: "https://www.youtube.com/watch?v=n4WqkIYn1dc",
-            key: 175
+            key: 176
         },
         /*=================================================================================*/
         {
@@ -5361,7 +5361,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=Z-hBQFtey7Y",
-            key: 176
+            key: 177
         },
         /*=================================================================================*/
         {
@@ -5415,7 +5415,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=mpcZcOMe_go",
-            key: 177
+            key: 178
         },
         /*=================================================================================*/
         {
@@ -5433,7 +5433,7 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=MQVUps81GpE",
-            key: 178
+            key: 179
         },
         /*=================================================================================*/
         {
@@ -5511,7 +5511,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=FbWDGFUIWyo",
-            key: 179
+            key: 180
         },
         /*=================================================================================*/
     ],
