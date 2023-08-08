@@ -5420,6 +5420,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/fp5kVhdUQPM",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Switch to me",
             author: "Mishito",
