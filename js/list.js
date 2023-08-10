@@ -1890,7 +1890,7 @@ const d = {
                 {
                     user: "뿔충이_GD",
                     link: "https://youtu.be/cXNHI1lbZss",
-                    percent: 100,
+                    percent: 81,
                     hz: "60hz (Mobile)"
                 },
             ],
