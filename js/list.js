@@ -1797,6 +1797,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/6aHXy-K915Y",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "Love Me Like This",
             author: "Mobile64",
@@ -2822,6 +2828,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/6aHXy-K915Y?t=135",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "Love Dive",
             author: "Mobile64",
@@ -3200,6 +3212,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/6aHXy-K915Y?t=62",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "Super Shy",
             author: "IgongDae",
@@ -4220,6 +4238,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/6aHXy-K915Y?t=227",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "Royal",
             author: "Leaf98",
@@ -4393,6 +4417,12 @@ const d = {
                     link: "https://youtu.be/70nNgiV5iug",
                     percent: 100,
                     hz: "60hz(mobile)"
+                },
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/6aHXy-K915Y?t=283",
+                    percent: 100,
+                    hz: "60hz"
                 },
             ],
             name: "Smiley",
