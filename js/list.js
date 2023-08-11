@@ -55,7 +55,7 @@ const d = {
             name: "After Like",
             author: "IgongDae",
             mapInfo: {
-                simpleExp: " Like - IVE",
+                simpleExp: "After Like - IVE",
                 uploadDate: "2022.09.19",
                 verifingAtt: "12340",
                 long: "1분 34초",
