@@ -1865,7 +1865,7 @@ const d = {
             vids: [
             ],
             name: "just like TT",
-            author: "Yahir GSL",
+            author: "YahirGSL",
             mapInfo: {
                 simpleExp: "TT - Twice",
                 uploadDate: "2023.04.03",
