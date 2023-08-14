@@ -5486,6 +5486,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+                {
+                    user: "CleanGD2828",
+                    link: "https://m.youtube.com/watch?v=5SMnLSe8tG0",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Kill This Love",
             author: "issanagay",
