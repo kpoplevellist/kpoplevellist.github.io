@@ -5474,7 +5474,7 @@ const d = {
             mapInfo: {
                 simpleExp: "Panorama - IZ*ONE",
                 uploadDate: "2023.08.20",
-                verifingAtt: "68",
+                verifingAtt: "비공개",
                 long: "1분 35초",
                 highest: "93610208",
                 more: "none",
