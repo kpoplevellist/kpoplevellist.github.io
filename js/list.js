@@ -5402,7 +5402,7 @@ const d = {
                 more: "none",
             },
             percentToQualify: 72,
-            verificationVid: "https://www.youtube.com/watch?app=desktop&v=q8au480gmBE",
+            verificationVid: "https://youtu.be/q8au480gmBE?si=i5OH7hxYbpByLCKF",
             key: 181
         },
         /*=================================================================================*/
