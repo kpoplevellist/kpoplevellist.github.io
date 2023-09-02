@@ -1677,6 +1677,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+                {
+                    user: "issanagay",
+                    link: "https://www.youtube.com/watch?v=FGnt174ciJE&t=85s",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "OMG",
             author: "IgongDae",
@@ -1934,6 +1940,12 @@ const d = {
                     link: "https://youtu.be/gDe7S7P82pw",
                     percent: 100,
                     hz: "240hz"
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/FGnt174ciJE?si=bZHA7UgQEYjO0Xwi",
+                    percent: 100,
+                    hz: "60hz"
+                },
                 },
                 {
                     user: "뿔충이_GD",
