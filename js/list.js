@@ -1946,7 +1946,6 @@ const d = {
                     percent: 100,
                     hz: "60hz"
                 },
-                },
                 {
                     user: "뿔충이_GD",
                     link: "https://youtu.be/cXNHI1lbZss",
