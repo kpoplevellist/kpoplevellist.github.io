@@ -1940,6 +1940,7 @@ const d = {
                     link: "https://youtu.be/gDe7S7P82pw",
                     percent: 100,
                     hz: "240hz"
+                },
                 {
                     user: "issanagay",
                     link: "https://youtu.be/FGnt174ciJE?si=bZHA7UgQEYjO0Xwi",
