@@ -1125,6 +1125,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/h2w7O7CTghY?si=krXEJhhd9ycckNhR",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "New Jeans",
             author: "IgongDae",
@@ -4861,6 +4867,12 @@ const d = {
                     link: "https://youtu.be/ELfTvdFXZ9w",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/pXlye6kxTU0?si=ZlWmMBB_RTLyMrgg",
+                    percent: 100,
+                    hz: "144hz"
                 },
             ],
             name: "I WANT",
