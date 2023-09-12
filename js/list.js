@@ -123,6 +123,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/xS5G2EnK5WI?feature=shared",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Gangnamhouse",
             author: "StellarumGD [ItzDoVi]",
@@ -5722,7 +5728,7 @@ const d = {
                 uploadDate: "2023.09.11",
                 verifingAtt: "비공개",
                 long: "1분 5초",
-                highest: "94369244",
+                highest: "94390947",
                 more: "none",
             },
             percentToQualify: 72,
