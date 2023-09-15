@@ -64,7 +64,7 @@ userData.sort(function(a,b) {
 
 function getPoint(rank, percent, cutline, hz) {
   var hzpoint = 1.0;
-  if (rank > 210) {
+  if (rank > 250) {
     var score = roundNumber(((percent - (cutline-1))/(100 - (cutline-1))), 3);
     if (percent != 100) {
       return roundNumber(score - (score/3), 3);
@@ -72,7 +72,7 @@ function getPoint(rank, percent, cutline, hz) {
       return score;
     }
   } else {
-      var score = roundNumber(((3/(((rank-1) / 211) + 1.302775)) - 1.302775)*100*((percent - (cutline-1))/(100 - (cutline-1))), 3);
+      var score = roundNumber(((3/(((rank-1) / 251) + 1.302775)) - 1.302775)*100*((percent - (cutline-1))/(100 - (cutline-1))), 3);
       if (percent != 100) {
         return roundNumber(score - (score/3), 3);
       } else {
