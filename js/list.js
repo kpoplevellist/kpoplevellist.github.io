@@ -3297,60 +3297,6 @@ const d = {
         {
             vids: [
                 {
-                    user: "Sweetdream",
-                    link: "https://youtu.be/FFR5zX_L5Ng",
-                    percent: 100,
-                    hz: "240hz"
-                },
-                {
-                    user: "Jirachi",
-                    link: "https://youtu.be/i6X_uWsbo7c",
-                    percent: 100,
-                    hz: "240hz"
-                },
-                {
-                    user: "Aluminium",
-                    link: "https://youtu.be/4nE_Sy7dtVY",
-                    percent: 100,
-                    hz: "240hz"
-                },
-                {
-                    user: "eggkimbap",
-                    link: "https://youtu.be/5wq9aaTM2K4",
-                    percent: 100,
-                    hz: "360hz"
-                },
-               {
-                    user: "Korea7723",
-                    link: "https://youtu.be/8ACM08lxSLQ",
-                    percent: 100,
-                    hz: "165hz"
-                },
-                {
-                    user: "Mobile64",
-                    link: "https://youtu.be/TKjkb0QBBKk",
-                    percent: 100,
-                    hz: "60hz (mobile)"
-                },
-            ],
-            name: "Ditto",
-            author: "IgongDae & More [IgongDae]",
-            mapInfo: {
-                simpleExp: "Ditto - NewJeans",
-                uploadDate: "2023.01.22",
-                verifingAtt: "비공개",
-                long: "1분 14초",
-                highest: "87950301",
-                more: "IFlush, IgongDae, IIDoManGII, Sidci",
-            },
-            percentToQualify: 66,
-            verificationVid: "https://www.youtube.com/watch?v=x8JcBgfrN4o",
-            key: 118
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
                     user: "Compass21",
                     link: "https://youtu.be/N9YSWpxNeko?t=614",
                     percent: 100,
@@ -3375,7 +3321,7 @@ const d = {
             },
             percentToQualify: 63,
             verificationVid: "https://www.youtube.com/watch?v=zeQm8qO2nDI",
-            key: 119
+            key: 118
         },
         /*=================================================================================*/
         {
@@ -3399,7 +3345,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=TDF1I756SEM",
-            key: 120
+            key: 119
         },
         /*=================================================================================*/
         {
@@ -3441,7 +3387,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=aWtvq22bb8I",
-            key: 121
+            key: 120
         },
         /*=================================================================================*/
         {
@@ -3471,7 +3417,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=OfVpc1rxoW0",
-            key: 122
+            key: 121
         },
         /*=================================================================================*/
         {
@@ -3507,7 +3453,7 @@ const d = {
             },
             percentToQualify: 63,
             verificationVid: "https://www.youtube.com/watch?v=dSKiX7qGWLE",
-            key: 123
+            key: 122
         },
         /*=================================================================================*/
         {
@@ -3561,7 +3507,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=-3S30NhmYN4",
-            key: 124
+            key: 123
         },
         /*=================================================================================*/
         {
@@ -3585,7 +3531,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=e_4fdEz5nik",
-            key: 125
+            key: 124
         },
         /*=================================================================================*/
         {
@@ -3609,7 +3555,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=LnLXwEiy9IQ",
-            key: 126
+            key: 125
         },
         /*=================================================================================*/
         {
@@ -3633,7 +3579,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=Plq8HdpgQAc",
-            key: 127
+            key: 126
         },
         /*=================================================================================*/
         {
@@ -3663,7 +3609,7 @@ const d = {
             },
             percentToQualify: 65,
             verificationVid: "https://www.youtube.com/watch?v=wO7ZKvUhsmk",
-            key: 128
+            key: 127
         },
         /*=================================================================================*/
         {
@@ -3693,7 +3639,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=h54uDQBbSyA",
-            key: 129
+            key: 128
         },
         /*=================================================================================*/
         {
@@ -3711,7 +3657,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=K6dFoansj7k",
-            key: 130
+            key: 129
         },
         /*=================================================================================*/
         {
@@ -3747,7 +3693,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=izse3qH85vU",
-            key: 131
+            key: 130
         },
         /*=================================================================================*/
         {
@@ -3777,7 +3723,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=glhM7QkTPwE",
-            key: 132
+            key: 131
         },
         /*=================================================================================*/
         {
@@ -3807,7 +3753,7 @@ const d = {
             },
             percentToQualify: 61,
             verificationVid: "https://www.youtube.com/watch?v=uKMfK6M8NJc",
-            key: 133
+            key: 132
         },
         /*=================================================================================*/
         {
@@ -3849,7 +3795,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=QWqNs9OnslM",
-            key: 134
+            key: 133
         },
         /*=================================================================================*/
         {
@@ -3897,7 +3843,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=7cdimlbjl6g",
-            key: 135
+            key: 134
         },
         /*=================================================================================*/
         {
@@ -3915,6 +3861,60 @@ const d = {
             },
             percentToQualify: 62,
             verificationVid: "https://www.youtube.com/watch?v=8Dg1qv4GWMQ",
+            key: 135
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/FFR5zX_L5Ng",
+                    percent: 100,
+                    hz: "240hz"
+                },
+                {
+                    user: "Jirachi",
+                    link: "https://youtu.be/i6X_uWsbo7c",
+                    percent: 100,
+                    hz: "240hz"
+                },
+                {
+                    user: "Aluminium",
+                    link: "https://youtu.be/4nE_Sy7dtVY",
+                    percent: 100,
+                    hz: "240hz"
+                },
+                {
+                    user: "eggkimbap",
+                    link: "https://youtu.be/5wq9aaTM2K4",
+                    percent: 100,
+                    hz: "360hz"
+                },
+               {
+                    user: "Korea7723",
+                    link: "https://youtu.be/8ACM08lxSLQ",
+                    percent: 100,
+                    hz: "165hz"
+                },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/TKjkb0QBBKk",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
+            ],
+            name: "Ditto",
+            author: "IgongDae & More [IgongDae]",
+            mapInfo: {
+                simpleExp: "Ditto - NewJeans",
+                uploadDate: "2023.01.22",
+                verifingAtt: "비공개",
+                long: "1분 14초",
+                highest: "87950301",
+                more: "IFlush, IgongDae, IIDoManGII, Sidci",
+            },
+            percentToQualify: 66,
+            verificationVid: "https://www.youtube.com/watch?v=x8JcBgfrN4o",
             key: 136
         },
         /*=================================================================================*/
