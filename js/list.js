@@ -3914,7 +3914,7 @@ const d = {
                 more: "IFlush, IgongDae, IIDoManGII, Sidci",
             },
             percentToQualify: 66,
-            verificationVid: "https://www.youtube.com/watch?v=x8JcBgfrN4o",
+            verificationVid: "https://www.youtube.com/watch?v=bnStCkg1Mn8",
             key: 136
         },
         /*=================================================================================*/
