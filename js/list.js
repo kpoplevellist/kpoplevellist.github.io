@@ -2330,6 +2330,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Sweetdream",
+                    link: "https://www.youtube.com/watch?v=_1FL1WT-zL0",
+                    percent: 100,
+                    hz: "240hz (mobile)"
+                },
             ],
             name: "mess",
             author: "IgongDae",
@@ -4772,6 +4778,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+                {
+                    user: "CleanGD2828",
+                    link: "https://m.youtube.com/watch?v=N--iqpGmPt0",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Talk That Talk",
             author: "Sidci, IFlush [Sidci]",
@@ -5714,6 +5726,18 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+               {
+                    user: "Mobile64",
+                    link: "https://youtu.be/dNz8tiWaqjU?si=tld1U9RdutTyTQMz",
+                    percent: 100,
+                    hz: "60hz(mobile)"
+                },
+               {
+                    user: "CleanGD2828",
+                    link: "https://m.youtube.com/watch?v=s1TCVPQdQ_A",
+                    percent: 100,
+                    hz: "60hz(mobile)"
+                },
             ],
             name: "Welcome",
             author: "issanagay",
@@ -5930,6 +5954,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "CleanGD2828",
+                    link: "https://youtu.be/ECBujqFFJXQ",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Chaos",
             author: "IDFighter",
@@ -6154,9 +6184,9 @@ const d = {
                 },
                 {
                     user: "CleanGD2828",
-                    link: "https://youtu.be/vSIDAGGLTZQ",
+                    link: "https://m.youtube.com/watch?v=ZKfaPN1ChwI",
                     percent: 100,
-                    hz: "240hz"
+                    hz: "60hz (mobile)"
                 },
             ],
             name: "Feel My Rhythm",
