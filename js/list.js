@@ -3444,7 +3444,7 @@ const d = {
                     user: "PiaNoMen",
                     link: "https://youtu.be/ZRd5NnCU0QU",
                     percent: 100,
-                    hz: "144hz"
+                    hz: "144hz (mobile)"
                 },
             ],
             name: "Panorama",
@@ -3492,7 +3492,7 @@ const d = {
                     user: "PiaNoMen",
                     link: "https://youtu.be/rKaGTfsX0kA",
                     percent: 100,
-                    hz: "144hz"
+                    hz: "144hz (mobile)"
                 },
                 {
                     user: "Langk",
@@ -5100,7 +5100,7 @@ const d = {
                     user: "PiaNoMen",
                     link: "https://youtu.be/uMrbxRHmmmU",
                     percent: 100,
-                    hz: "144hz"
+                    hz: "144hz (mobile)"
                 },
                 {
                     user: "Jirachi",
