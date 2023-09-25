@@ -2358,7 +2358,7 @@ const d = {
                     user: "Sweetdream",
                     link: "https://www.youtube.com/watch?v=_1FL1WT-zL0",
                     percent: 100,
-                    hz: "240hz (mobile)"
+                    hz: "240hz"
                 },
             ],
             name: "mess",
