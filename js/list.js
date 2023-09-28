@@ -5078,6 +5078,12 @@ const d = {
                     percent: 100,
                     hz: "144hz (mobile)"
                 },
+                {
+                    user: "Korea7723",
+                    link: "https://youtu.be/7Fq47twMajI?si=c4aUIGS96nYLRFnx",
+                    percent: 98,
+                    hz: "360hz"
+                },
             ],
             name: "I WANT",
             author: "issanagay",
