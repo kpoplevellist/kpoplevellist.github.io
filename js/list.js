@@ -3734,9 +3734,15 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "PiaNoMen",
+                    link: "https://youtu.be/jXEfdWKa9PE?si=NbLa9VOIg3tpnv7J",
+                    percent: 100,
+                    hz: "144hz (mobile)"
+                },
             ],
             name: "ANTIFRAGILE",
-            author: "issnangay & IDFighter [issnangay]",
+            author: "issanagay & IDFighter [issanagay]",
             mapInfo: {
                 simpleExp: "ANTIFRAGILE - LE SSERAFIM",
                 uploadDate: "2020.09.25",
@@ -3769,12 +3775,6 @@ const d = {
                     link: "https://youtu.be/NnRkqJmlYMA?t=48",
                     percent: 100,
                     hz: "60hz"
-                },
-                {
-                    user: "PiaNoMen",
-                    link: "https://youtu.be/jXEfdWKa9PE?si=NbLa9VOIg3tpnv7J",
-                    percent: 100,
-                    hz: "144hz (mobile)"
                 },
             ],
             name: "AntiFragile",
