@@ -969,6 +969,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "sweetdream",
+                    link: "https://www.youtube.com/watch?v=tshd_IhxXt8",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "CUPID",
             author: "IgongDae",
@@ -1206,6 +1212,12 @@ const d = {
                 {
                     user: "eggkimbap",
                     link: "https://youtu.be/mSn0C18YsCw",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "sweetdream",
+                    link: "https://www.youtube.com/watch?v=19pqvr3alrA",
                     percent: 100,
                     hz: "360hz"
                 },
@@ -3164,6 +3176,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "sweetdream",
+                    link: "https://www.youtube.com/watch?v=_K0hW-hU78Q",
+                    percent: 100,
+                    hz: "144hz bypass"
+                },
             ],
             name: "No Return",
             author: "issanagay",
@@ -3692,6 +3710,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/nAsaez6CSxI?si=pjqLxiN4UYNlSlp3",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Pure Blood",
             author: "IIDoManGII",
@@ -3745,6 +3769,12 @@ const d = {
                     link: "https://youtu.be/NnRkqJmlYMA?t=48",
                     percent: 100,
                     hz: "60hz"
+                },
+                {
+                    user: "PiaNoMen",
+                    link: "https://youtu.be/jXEfdWKa9PE?si=NbLa9VOIg3tpnv7J",
+                    percent: 100,
+                    hz: "144hz (mobile)"
                 },
             ],
             name: "AntiFragile",
@@ -6356,6 +6386,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "CleanGD2828",
+                    link: "https://m.youtube.com/watch?v=-g6aemOrasU&source_ve_path=Mjg2NjY&feature=emb_logo",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "KILL THIS LOVE",
             author: "NekkoPowwy",
