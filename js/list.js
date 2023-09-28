@@ -3180,7 +3180,7 @@ const d = {
                     user: "sweetdream",
                     link: "https://www.youtube.com/watch?v=_K0hW-hU78Q",
                     percent: 100,
-                    hz: "144hz bypass"
+                    hz: "144hz"
                 },
             ],
             name: "No Return",
