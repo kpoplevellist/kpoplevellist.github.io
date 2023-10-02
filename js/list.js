@@ -4594,8 +4594,8 @@ const d = {
                 },
                 {
                     user: "Korea7723",
-                    link: "https://youtu.be/7Fq47twMajI?si=c4aUIGS96nYLRFnx",
-                    percent: 98,
+                    link: "https://youtu.be/gs9uz662Wxs?si=Ut1VyMjnw3nKT28n",
+                    percent: 100,
                     hz: "360hz"
                 },
             ],
