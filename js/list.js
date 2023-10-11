@@ -4994,6 +4994,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+               {
+                    user: "Mobile64",
+                    link: "https://youtu.be/GxGIwB-691c?si=owRVnfatbbTtzOSc",
+                    percent: 100,
+                    hz: "60hz(mobile)"
+                },
             ],
             name: "EvePsceAndBluberWife",
             author: "CleanGD2828",
@@ -5439,10 +5445,16 @@ const d = {
                     hz: "360hz"
                 },
                 {
-                    user: "cun089",
+                    user: "CUN089",
                     link: "https://youtu.be/_UsUuV431jw",
                     percent: 100,
                     hz: "60hz"
+                },
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/mBZXguypheE?si=NxQ4T806pZsb5KO3",
+                    percent: 100,
+                    hz: "60hz (mobile)"
                 },
             ],
             name: "Heart Shaker 2",
@@ -5791,6 +5803,12 @@ const d = {
                     link: "https://youtu.be/w6hFOT6qGRE?t=189",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "CleanGD2828",
+                    link: "https://m.youtube.com/watch?v=sp2tu9QsPbM",
+                    percent: 100,
+                    hz: "60hz (mobile)"
                 },
             ],
             name: "Baptized In Fire",
