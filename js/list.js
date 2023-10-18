@@ -5000,6 +5000,12 @@ const d = {
                     percent: 100,
                     hz: "60hz(mobile)"
                 },
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/7-cFskw0LAs?si=sUyVdfK1KzyynmXL",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                }
             ],
             name: "EvePsceAndBluberWife",
             author: "CleanGD2828",
