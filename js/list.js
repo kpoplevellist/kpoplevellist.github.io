@@ -4802,6 +4802,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "CleanGD2828",
+                    link: "https://m.youtube.com/watch?v=Qpc4BsWLCQs",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "One",
             author: "Sweetdream",
@@ -5653,6 +5659,12 @@ const d = {
                     link: "https://youtu.be/DsEAIwPN6gM",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "CleanGD2828",
+                    link: "https://m.youtube.com/watch?v=QmTWnAh2xiU",
+                    percent: 100,
+                    hz: "60hz (mobile)"
                 },
             ],
             name: "Red Sun",
