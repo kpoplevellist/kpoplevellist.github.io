@@ -5918,6 +5918,12 @@ const d = {
                     percent: 100,
                     hz: "60hz(mobile)"
                 },
+                {
+                    user: "CleanGD2828",
+                    link: "https://youtu.be/9whIiMDSTnM",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "How you like that",
             author: "Rausyan06",
