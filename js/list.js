@@ -627,6 +627,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Alkaline202",
+                    link: "https://youtu.be/RuEkQeVCtZI?si=3Xfpnq5KtnLysHYM",
+                    percent: 100,
+                    hz: "120hz"
+                },
             ],
             name: "Rough",
             author: "Kmini & More [zPlasmaLust]",
@@ -4603,6 +4609,12 @@ const d = {
                     link: "https://youtu.be/9mviPaW2TME",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "CleanGD2828",
+                    link: "https://m.youtube.com/watch?v=lnY2BMezs0Y",
+                    percent: 100,
+                    hz: "120hz (mobile)"
                 },
             ],
             name: "Eleven",
