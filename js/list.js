@@ -5736,7 +5736,7 @@ const d = {
             name: "Do Not Touch",
             author: "Isma4Yoo, IFlush [Isma4Yoo]",
             mapInfo: {
-                simpleExp: "Do Not Touch - Isma4Yoo",
+                simpleExp: "Do Not Touch - MISAMO",
                 uploadDate: "2023.07.25",
                 verifingAtt: "비공개",
                 long: "1분 7초",
