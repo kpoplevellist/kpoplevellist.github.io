@@ -4158,7 +4158,7 @@ const d = {
             name: "No Celestial",
             author: "issanagay",
             mapInfo: {
-                simpleExp: "No Celestial - IVE",
+                simpleExp: "No Celestial - LE SSERAFIM",
                 uploadDate: "2023.10.26",
                 verifingAtt: "비공개",
                 long: "1분 4초",
