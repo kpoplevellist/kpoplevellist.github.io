@@ -2025,6 +2025,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/-Ir0otz8B_g?si=PEJlULRqKMIFt-2T",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Off the record",
             author: "Mobile64",
@@ -2924,6 +2930,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/-Ir0otz8B_g?si=kgdTD_r0j9ZDQeSk&t=87",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Baddie",
             author: "IgongDae",
@@ -5792,6 +5804,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "CleanGD2828",
+                    link: "https://youtu.be/8j4CaZUDXac",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
             ],
             name: "Do Not Touch",
             author: "Isma4Yoo, IFlush [Isma4Yoo]",
@@ -6146,6 +6164,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "CleanGD2828",
+                    link: "https://m.youtube.com/watch?v=szBIMJCqG_c",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
             ],
             name: "Hare Hare L",
             author: "Johnnyvision",
