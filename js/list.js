@@ -2846,6 +2846,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "PiaNoMen",
+                    link: "https://youtu.be/mQi2JGLz39M?si=QF5u2AQiS2ntnMvU",
+                    percent: 100,
+                    hz: "144hz (mobile)"
+                },
             ],
             name: "Off The Record",
             author: "issanagay",
