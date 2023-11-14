@@ -161,7 +161,7 @@ list.sort(function(a, b) {
         if (a.legacyKey == null) {
             arank = list.length + a.unlist;
         }
-        arank = 250 + (legacy_count - a.legacyKey);
+        arank = 275 + (legacy_count - a.legacyKey);
     } else {
         arank = (a.key) + 1;
     }
@@ -170,7 +170,7 @@ list.sort(function(a, b) {
         if (b.legacyKey == null) {
             brank = list.length + b.unlist;
         }
-        brank = 250 + (legacy_count - b.legacyKey);
+        brank = 275 + (legacy_count - b.legacyKey);
     } else {
         brank = (b.key) + 1;
     }
@@ -217,7 +217,7 @@ function load(num) {
         final_author = final_author.replace(' [', ', Verified by ').replace(']', "");
         var vid_link = entry.verificationVid.replace('https://www.youtube.com/watch?v=', '');
 
-        $("#title").html(`<center><strong>${num < 251 ? "#"+num+". " : ""}${entry.name}</strong></center>`);
+        $("#title").html(`<center><strong>${num < 276 ? "#"+num+". " : ""}${entry.name}</strong></center>`);
         $("#author").html(`<center>by ${final_author}${entry.hacked == null ? "" : entry.hacked == true ? "<br><small><strong>[Hacked]</small></strong>" : "<br><small><strong>[Possibly Hacked]</small></strong>"}</center>`);
         $("#vid").html(`<center><hr><iframe class="vid" src="https://www.youtube.com/embed/${vid_link}?enablejsapi=1&version=3&playerapiid=ytplayer" frameborder="0" allowfullscreen></iframe><hr></center>`);
         if ($("#display").width() < 760) {
@@ -288,7 +288,7 @@ $("<div>").html(`<div class="list">검색 : <input id="search" type="text"></div
 
 for (i = 0; i < list.length; i++) {
     var entry = list[i];
-    $("<div>").addClass("entry").html(`<div class="list" id="list${i+1}" onMouseOver="this.style.backgroundColor='rgba(163, 163, 163, 0.6)'" onMouseOut="this.style.backgroundColor=''">${i+1 > 250 ? "" : "#"+(i+1)+" "}${entry.name}<br><em class="list_author">${entry.author}</em></div>`).data('order', i + 1).appendTo($("#demonlist"));
+    $("<div>").addClass("entry").html(`<div class="list" id="list${i+1}" onMouseOver="this.style.backgroundColor='rgba(163, 163, 163, 0.6)'" onMouseOut="this.style.backgroundColor=''">${i+1 > 275 ? "" : "#"+(i+1)+" "}${entry.name}<br><em class="list_author">${entry.author}</em></div>`).data('order', i + 1).appendTo($("#demonlist"));
 }
 
 var res = function() {
@@ -471,7 +471,7 @@ $("#search").on("propertychange change keyup paste input", function() {
         var more = entry.mapInfo.more.toString().toLowerCase();
         if ((name.includes(text) == true || author.includes(text) == true || more.includes(text)) == true || currentVal.toString() == "") {
             y = y + 1;
-            $("<div>").addClass(i + 1 != select ? "entry" : "entry selected").html(`<div class="list" id="list${i+1}" onMouseOver="this.style.backgroundColor='rgba(163, 163, 163, 0.6)'" onMouseOut="this.style.backgroundColor=''">${i+1 > 250 ? "" : "#"+(i+1)+" "} ${entry.name}<br><em class="list_author">${entry.author}</em></div>`).data('order', i + 1).appendTo($("#demonlist"));
+            $("<div>").addClass(i + 1 != select ? "entry" : "entry selected").html(`<div class="list" id="list${i+1}" onMouseOver="this.style.backgroundColor='rgba(163, 163, 163, 0.6)'" onMouseOut="this.style.backgroundColor=''">${i+1 > 275 ? "" : "#"+(i+1)+" "} ${entry.name}<br><em class="list_author">${entry.author}</em></div>`).data('order', i + 1).appendTo($("#demonlist"));
         }
     }
 });
