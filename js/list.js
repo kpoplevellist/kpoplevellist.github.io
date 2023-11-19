@@ -393,7 +393,7 @@ const d = {
             mapInfo: {
                 simpleExp: "I AM - IVE",
                 uploadDate: "2022.11.18",
-                verifingAtt: "비공개",
+                verifingAtt: "1436",
                 long: "0분 41초",
                 highest: "96574548",
                 more: "none",
