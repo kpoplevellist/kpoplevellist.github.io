@@ -4310,6 +4310,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Gao73",
+                    link: "https://youtu.be/8geLVvaWWB0?si=yIPtVnlA0KDsJ0nM",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
             ],
             name: "Either way",
             author: "Mobile64",
@@ -7208,6 +7214,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Gao73",
+                    link: "https://youtu.be/wuZE44XAanA?si=92WiP3Opv-bMssow",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
             ],
             name: "Dun Dun Dance",
             author: "CleanGD2828",
@@ -7226,6 +7238,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Gao73",
+                    link: "https://youtu.be/LGGtrlRAEfA?si=kXwgnR29IZTzpr3s",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
             ],
             name: "Like That",
             author: "CleanGD2828",
@@ -7244,6 +7262,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Gao73",
+                    link: "https://youtu.be/vxeL8nfpAck?si=OEROTtry1o51gYpJ",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
             ],
             name: "Ring My Bell",
             author: "CleanGD2828",
@@ -7262,6 +7286,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Gao73",
+                    link: "https://youtu.be/V_5lGuq5ils?si=8nUeFUopY24w15oo",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
             ],
             name: "Love Me Like This",
             author: "CleanGD2828",
