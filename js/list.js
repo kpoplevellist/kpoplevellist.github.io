@@ -3776,6 +3776,12 @@ const d = {
                     percent: 84,
                     hz: "120hz (mobile)"
                 },
+               {
+                    user: "Korea7723",
+                    link: "https://youtu.be/-on59A5HPlc?si=NKvyG3CqZQkFuJqv",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Panorama",
             author: "issanagay",
