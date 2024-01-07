@@ -2390,6 +2390,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/lgZNducOQ-s?si=rtytNarMp00BUMHa",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "I Cant Stop Me",
             author: "Isma4Yoo & More [Isma4Yoo]",
