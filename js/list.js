@@ -6071,7 +6071,7 @@ const d = {
                 {
                     user: "Korea7723",
                     link: "https://youtu.be/eF5ba_IIjRI?si=9pWh0gscgQLMKiuR",
-                    percent: 90,
+                    percent: 100,
                     hz: "165hz"
                 },
             ],
