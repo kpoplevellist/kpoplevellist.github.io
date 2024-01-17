@@ -2205,6 +2205,12 @@ const d = {
                     percent: 100,
                     hz: "240hz"
                 },
+                {
+                    user: "Lino726",
+                    link: "https://youtu.be/T8qICEsiJSM?si=Xw08Zt3oTrmDwKQB",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "GODS",
             author: "IgongDae",
@@ -2282,6 +2288,12 @@ const d = {
                     link: "https://youtu.be/shdBisgDAhI",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "changmun",
+                    link: "https://youtu.be/yFUuN186HQo?si=QEa038TcK880xT1H",
+                    percent: 100,
+                    hz: "288hz"
                 },
             ],
             name: "Fiesta",
