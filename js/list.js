@@ -2384,6 +2384,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+                {
+                    user: "changmun",
+                    link: "https://youtu.be/X2QN6Kj-UaY?si=Ls83GnCC-e9HSu-Y",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "RE wind",
             author: "Ret0Lart & More [Ralo]",
