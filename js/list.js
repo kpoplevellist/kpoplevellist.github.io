@@ -4185,7 +4185,7 @@ const d = {
                 simpleExp: "Either Way - IVE",
                 uploadDate: "2024.01.20",
                 verifingAtt: "비공개",
-                long: "1분 2초",
+                long: "2분 45초",
                 highest: "99413280",
                 more: "none",
             },
