@@ -6759,7 +6759,7 @@ const d = {
                 more: "none",
             },
             percentToQualify: 72,
-            verificationVid: "https://www.youtube.com/watch?v=7ueu7T0a-2g",
+            verificationVid: "https://www.youtube.com/watch?=A5b0ypTdrx0",
             key: 231
         },
         /*=================================================================================*/
