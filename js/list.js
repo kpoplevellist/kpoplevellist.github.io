@@ -705,6 +705,12 @@ const d = {
                     percent: 100,
                     hz: "120hz"
                 },
+                {
+                    user: "changmun",
+                    link: "https://youtu.be/PAb_B_WcKw0?si=YNotj_5EJumflME6",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Rough",
             author: "Kmini & More [zPlasmaLust]",
@@ -6049,6 +6055,12 @@ const d = {
                     link: "https://youtu.be/gu5QopT3uP4?si=qHeCA9PzpFqIjefO",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "Lino726",
+                    link: "https://youtu.be/DrIsu1JTX6g",
+                    percent: 100,
+                    hz: "60hz"
                 },
             ],
             name: "Heart Shaker 2",
