@@ -1533,6 +1533,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "changmun",
+                    link: "https://youtu.be/h0awlwezFS0?si=7fPeHH1EboWvLyhm",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "SO BAD",
             author: "IgongDae & More [IgongDae]",
