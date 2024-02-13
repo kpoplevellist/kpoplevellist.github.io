@@ -1683,6 +1683,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/BEMsjziuN1M?si=E-4NS6DmG_t5sIK_",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Fiesta",
             author: "IgongDae [BeCruX]",
@@ -7209,6 +7215,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "minjae0327",
+                    link: "https://youtu.be/OghHv-HEHV8",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Fiesta",
             author: "CleanGD2828",
