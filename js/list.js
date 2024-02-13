@@ -682,7 +682,7 @@ const d = {
                     hz: "75hz"
                 },
                 {
-                    user: "HANJINGD",
+                    user: "HanJin",
                     link: "https://youtu.be/zXfu3Ehfaw8",
                     percent: 100,
                     hz: "165hz"
@@ -910,10 +910,10 @@ const d = {
                     hz: "120hz"
                 },
                 {
-                    user: "HANJINGD",
+                    user: "HanJin",
                     link: "https://youtu.be/pFkWD1jhzyk",
                     percent: 100,
-                    hz: "120hz"
+                    hz: "165hz"
                 },
                 {
                     user: "eggkimbap",
@@ -5499,7 +5499,7 @@ const d = {
                     hz: "144hz"
                 },
                 {
-                    user: "HANJINGD",
+                    user: "HanJin",
                     link: "https://youtu.be/70nNgiV5iug",
                     percent: 100,
                     hz: "60hz(mobile)"
@@ -6748,7 +6748,7 @@ const d = {
                     hz: "60hz(mobile)"
                 },
                 {
-                    user: "HANJINGD",
+                    user: "HanJin",
                     link: "https://youtu.be/CvXySTM7fPQ",
                     percent: 100,
                     hz: "60hz(mobile)"
