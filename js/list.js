@@ -3590,6 +3590,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/myafXLRaK3E?si=OUP35Vk2y5h76nUL",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Discord",
             author: "almuu & More [almuu]",
