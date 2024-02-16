@@ -2169,6 +2169,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/INl36-KZjYU?si=lUrQEJZd3E1PJ9nw",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "KIDDING",
             author: "Mobile64",
@@ -2408,6 +2414,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/sbLdnDPAe3I?si=1B79bQV_CLCzv0L5",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "RE wind",
             author: "Ret0Lart & More [Ralo]",
@@ -2617,6 +2629,12 @@ const d = {
                     link: "https://youtu.be/ct0kATKiZRQ",
                     percent: 100,
                     hz: "60hz"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/-bdEn7Djnnk?si=s3n9UP1XyMHLyfTY",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "LOCKDOWN",
@@ -2930,7 +2948,7 @@ const d = {
                 more: "Mishito, Revy, Shioz, KrazyGFX, SakuraBlood, Sidci, DeepResonanceX, Xere, Isma4Yoo, IFlush, Gerzone, Neve, Byron",
             },
             percentToQualify: 67,
-            verificationVid: "https://www.youtube.com/watch?v=qLGRKPrb5Iw",
+            verificationVid: "https://www.youtube.com/watch?v=I8ehq7bHeyU",
             key: 104
         },
         /*=================================================================================*/
@@ -3319,6 +3337,12 @@ const d = {
                     link: "https://youtu.be/4xf_EoUXfmY",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "GreenBot",
+                    link: "https://youtu.be/FQP1I-43fpE?si=FIgjnnBF2fX_PkhY",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "hello mr myyerterday",
