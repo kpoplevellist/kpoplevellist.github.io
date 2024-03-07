@@ -1000,12 +1000,6 @@ const d = {
                     hz: "60hz (mobile)"
                 },
                 {
-                    user: "Korea7723",
-                    link: "https://youtu.be/qFJwcxgqcbg",
-                    percent: 90,
-                    hz: "360hz"
-                },
-                {
                     user: "Langk",
                     link: "https://youtu.be/wobFiEBjx4g",
                     percent: 88,
