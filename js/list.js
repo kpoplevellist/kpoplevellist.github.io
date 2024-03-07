@@ -1023,6 +1023,12 @@ const d = {
                     percent: 69,
                     hz: "120hz (mobile)"
                 },
+                {
+                    user: "Korea7723",
+                    link: "https://youtu.be/NkdjppbpYzg?si=gB36abEMEFJaOod2",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "After LIKE",
             author: "TeamIVE [ItzKaserine]",
@@ -4336,14 +4342,14 @@ const d = {
                 },
             ],
             name: "ANTIFRAGILE",
-            author: "issanagay & IDFighter [issanagay]",
+            author: "issanagay & TeZVX [issanagay]",
             mapInfo: {
                 simpleExp: "ANTIFRAGILE - LE SSERAFIM",
                 uploadDate: "2023.09.25",
                 verifingAtt: "비공개",
                 long: "3분 4초",
                 highest: "94797654",
-                more: "issnangay, IDFighter",
+                more: "issnangay, TeZVX",
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lqIitFZmX_0",
@@ -5176,7 +5182,7 @@ const d = {
                 },
             ],
             name: "EleveN",
-            author: "IDFighter",
+            author: "TeZVX",
             mapInfo: {
                 simpleExp: "Eleven - IVE",
                 uploadDate: "2023.11.26",
@@ -6717,9 +6723,15 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "TeZVX",
+                    link: "https://youtu.be/RZr8cFvRB3M?si=mLMX2Z6Nf_vIyVv5",
+                    percent: 100,
+                    hz: "150hz"
+                },
             ],
             name: "EASY",
-            author: "issanagay & IDFighter [issanagay]",
+            author: "issanagay & TeZVX [issanagay]",
             mapInfo: {
                 simpleExp: "EASY - LE SSERAFIM",
                 uploadDate: "2024.02.29",
@@ -7313,7 +7325,7 @@ const d = {
                 },
             ],
             name: "Chaos",
-            author: "IDFighter",
+            author: "TeZVX",
             mapInfo: {
                 simpleExp: "God\'s Menu - Stray Kids",
                 uploadDate: "2023.08.23",
