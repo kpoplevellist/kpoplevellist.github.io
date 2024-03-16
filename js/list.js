@@ -2708,6 +2708,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/LMwoopHg8z8?si=uiKEkxVnFRYf4c-E?t=49",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
             ],
             name: "Blue Blood",
             author: "issanagay",
@@ -3518,6 +3524,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/LMwoopHg8z8?si=uiKEkxVnFRYf4c-E",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
             ],
             name: "LOVE DIVE II",
             author: "issanagay",
@@ -6758,6 +6770,12 @@ const d = {
                     link: "https://youtu.be/RZr8cFvRB3M?si=mLMX2Z6Nf_vIyVv5",
                     percent: 100,
                     hz: "150hz"
+                },
+                {
+                    user: "CleanGD2828",
+                    link: "https://youtu.be/XEBiRkFaVko",
+                    percent: 100,
+                    hz: "60hz (mobile)"
                 },
             ],
             name: "EASY",
