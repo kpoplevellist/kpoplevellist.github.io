@@ -4515,24 +4515,6 @@ const d = {
         {
             vids: [
             ],
-            name: "Royal",
-            author: "TeZVX & issanagay [TeZVX]",
-            mapInfo: {
-                simpleExp: "Royal - IVE",
-                uploadDate: "2024.04.06",
-                verifingAtt: "비공개",
-                long: "1분 10초",
-                highest: "103518359",
-                more: "none",
-            },
-            percentToQualify: 67,
-            verificationVid: "https://www.youtube.com/watch?v=uwOGZqsfLLM",
-            key: 165
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
             name: "kiss",
             author: "gbBladee",
             mapInfo: {
@@ -4545,25 +4527,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=y5oEu0Lr25M",
-            key: 166
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "Fate",
-            author: "OldJeans",
-            mapInfo: {
-                simpleExp: "나는 아픈 건 딱 질색이니까 - (G)I-DLE",
-                uploadDate: "2023.03.21",
-                verifingAtt: "75",
-                long: "0분 53초",
-                highest: "103518359",
-                more: "none",
-            },
-            percentToQualify: 67,
-            verificationVid: "https://www.youtube.com/watch?v=uwOGZqsfLLM",
-            key: 167
+            key: 165
         },
         /*=================================================================================*/
         {
@@ -4581,7 +4545,7 @@ const d = {
             },
             percentToQualify: 63,
             verificationVid: "https://www.youtube.com/watch?v=7sRnbwY905k",
-            key: 168
+            key: 166
         },
         /*=================================================================================*/
         {
@@ -4617,7 +4581,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=izse3qH85vU",
-            key: 169
+            key: 167
         },
         /*=================================================================================*/
         {
@@ -4635,7 +4599,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=0bYmU3w6LW4",
-            key: 170
+            key: 168
         },
         /*=================================================================================*/
         {
@@ -4653,7 +4617,7 @@ const d = {
             },
             percentToQualify: 61,
             verificationVid: "https://www.youtube.com/watch?v=228Iz96YvCY",
-            key: 171
+            key: 169
         },
         /*=================================================================================*/
         {
@@ -4683,7 +4647,25 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=glhM7QkTPwE",
-            key: 172
+            key: 170
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Royal",
+            author: "TeZVX & issanagay [TeZVX]",
+            mapInfo: {
+                simpleExp: "Royal - IVE",
+                uploadDate: "2024.04.06",
+                verifingAtt: "비공개",
+                long: "1분 10초",
+                highest: "103518359",
+                more: "none",
+            },
+            percentToQualify: 67,
+            verificationVid: "https://www.youtube.com/watch?v=uwOGZqsfLLM",
+            key: 171
         },
         /*=================================================================================*/
         {
@@ -4713,7 +4695,7 @@ const d = {
             },
             percentToQualify: 61,
             verificationVid: "https://www.youtube.com/watch?v=uKMfK6M8NJc",
-            key: 173
+            key: 172
         },
         /*=================================================================================*/
         {
@@ -4737,7 +4719,7 @@ const d = {
             },
             percentToQualify: 65,
             verificationVid: "https://www.youtube.com/watch?v=l-dgrgEShu4",
-            key: 174
+            key: 173
         },
         /*=================================================================================*/
         {
@@ -4785,7 +4767,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=7cdimlbjl6g",
-            key: 175
+            key: 174
         },
         /*=================================================================================*/
         {
@@ -4809,7 +4791,7 @@ const d = {
             },
             percentToQualify: 62,
             verificationVid: "https://www.youtube.com/watch?v=8Dg1qv4GWMQ",
-            key: 176
+            key: 175
         },
         /*=================================================================================*/
         {
@@ -4881,7 +4863,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=bnStCkg1Mn8",
-            key: 177
+            key: 176
         },
         /*=================================================================================*/
         {
@@ -4899,7 +4881,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=HD--Hwpg_Uc",
-            key: 178
+            key: 177
         },
         /*=================================================================================*/
         {
@@ -4917,7 +4899,7 @@ const d = {
             },
             percentToQualify: 65,
             verificationVid: "https://www.youtube.com/watch?v=_QJSmzvOfPk",
-            key: 179
+            key: 178
         },
         /*=================================================================================*/
         {
@@ -4941,6 +4923,24 @@ const d = {
             },
             percentToQualify: 65,
             verificationVid: "https://www.youtube.com/watch?v=j-1vJeJE-Rs",
+            key: 179
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Fate",
+            author: "OldJeans",
+            mapInfo: {
+                simpleExp: "나는 아픈 건 딱 질색이니까 - (G)I-DLE",
+                uploadDate: "2023.03.21",
+                verifingAtt: "75",
+                long: "0분 53초",
+                highest: "103518359",
+                more: "none",
+            },
+            percentToQualify: 67,
+            verificationVid: "https://www.youtube.com/watch?v=uwOGZqsfLLM",
             key: 180
         },
         /*=================================================================================*/
