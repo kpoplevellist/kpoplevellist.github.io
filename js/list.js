@@ -2150,7 +2150,7 @@ const d = {
             author: "IgongDae",
             mapInfo: {
                 simpleExp: "Magnetic - ILLIT",
-                uploadDate: "2022.04.09",
+                uploadDate: "2024.04.09",
                 verifingAtt: "434",
                 long: "1분 8초",
                 highest: "103708170",
@@ -3139,7 +3139,7 @@ const d = {
             author: "OldJeans",
             mapInfo: {
                 simpleExp: "DUBI DUBI - ARTBEAT v",
-                uploadDate: "2023.03.21",
+                uploadDate: "2024.03.21",
                 verifingAtt: "572",
                 long: "1분 40초",
                 highest: "102681050",
@@ -3355,7 +3355,7 @@ const d = {
             author: "NewJeans [OldJeans]",
             mapInfo: {
                 simpleExp: "What are we - 백호(Feat. 박지원)",
-                uploadDate: "2023.04.01",
+                uploadDate: "2024.04.01",
                 verifingAtt: "84",
                 long: "1분 10초",
                 highest: "103314669",
@@ -4933,7 +4933,7 @@ const d = {
             author: "OldJeans",
             mapInfo: {
                 simpleExp: "나는 아픈 건 딱 질색이니까 - (G)I-DLE",
-                uploadDate: "2023.03.21",
+                uploadDate: "2024.04.05",
                 verifingAtt: "75",
                 long: "0분 53초",
                 highest: "103518359",
