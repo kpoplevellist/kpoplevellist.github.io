@@ -4521,12 +4521,12 @@ const d = {
                 simpleExp: "Royal - IVE",
                 uploadDate: "2024.04.06",
                 verifingAtt: "비공개",
-                long: "1분 21초",
-                highest: "99057540",
+                long: "1분 10초",
+                highest: "103518359",
                 more: "none",
             },
             percentToQualify: 67,
-            verificationVid: "https://www.youtube.com/watch?v=y5oEu0Lr25M",
+            verificationVid: "https://www.youtube.com/watch?v=uwOGZqsfLLM",
             key: 165
         },
         /*=================================================================================*/
