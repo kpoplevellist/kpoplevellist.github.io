@@ -4936,11 +4936,11 @@ const d = {
                 uploadDate: "2024.04.05",
                 verifingAtt: "75",
                 long: "0분 53초",
-                highest: "103518359",
+                highest: "103366126",
                 more: "none",
             },
             percentToQualify: 67,
-            verificationVid: "https://www.youtube.com/watch?v=uwOGZqsfLLM",
+            verificationVid: "https://www.youtube.com/watch?v=UomPb0T4QTo",
             key: 180
         },
         /*=================================================================================*/
