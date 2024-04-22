@@ -4532,6 +4532,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "PiaNoMen",
+                    link: "https://www.youtube.com/watch?v=w4eD7VTFce8",
+                    percent: 100,
+                    hz: "144hz (mobile)"
+                },
             ],
             name: "Either Way",
             author: "issanagay",
@@ -7568,6 +7574,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "VeeP3rm",
+                    link: "https://youtu.be/iqscfKYA1-4?si=uIrZMcOpEH3-qls7",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Ditto",
             author: "CleanGD2828",
