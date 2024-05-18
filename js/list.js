@@ -3284,6 +3284,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/3mZ-Qfybn7g?si=Bs7R0yF1yxMUBWI1",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Pure Blood",
             author: "IgongDae",
@@ -5431,6 +5437,12 @@ const d = {
                     link: "https://youtu.be/FB26eTe2_QI",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/heV9ynsTOlE?si=pKS-yvXKhkfA77-n",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Good At Love",
