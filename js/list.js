@@ -3308,6 +3308,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+		{
+                    user: "HanJin",
+                    link: "https://www.youtube.com/watch?v=3mZ-Qfybn7g",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "BTS  DNA",
             author: "lolbito",
@@ -5462,6 +5468,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/heV9ynsTOlE?si=pKS-yvXKhkfA77-n",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "feel my rhythm",
             author: "DoUKnowKimchi",
@@ -5485,6 +5497,12 @@ const d = {
                     link: "https://youtu.be/2sBcz0Hl090",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://www.youtube.com/watch?v=heV9ynsTOlE",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Colors",
@@ -5510,6 +5528,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+		{
+                    user: "HanJin",
+                    link: "https://www.youtube.com/watch?v=heV9ynsTOlE",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "EleveN",
             author: "TeZVX",
@@ -5533,6 +5557,12 @@ const d = {
                     link: "https://youtu.be/IWZE7SCaspc",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+		{
+                    user: "HanJin",
+                    link: "https://www.youtube.com/watch?v=heV9ynsTOlE",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Set Me Free",
