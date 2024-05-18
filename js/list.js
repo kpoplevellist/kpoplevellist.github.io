@@ -1161,6 +1161,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/Yv08GURoV-4?si=1_8GvszXYHxNLw2U",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Teddy Bear",
             author: "BlueSoulBit",
@@ -2121,6 +2127,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/CJNnwVPVy7E?si=fzFc2l1NWOFOBHxH",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Can I Love",
             author: "Coffee",
@@ -2144,6 +2156,12 @@ const d = {
                     link: "https://youtu.be/6aHXy-K915Y",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/P3t4NEFimf8?si=GCbi_3q4LPXunHWa",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Love Me Like This",
@@ -3728,6 +3746,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/P3t4NEFimf8?si=GCbi_3q4LPXunHWa",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Thirsty",
             author: "Ga7gao372",
@@ -6223,6 +6247,12 @@ const d = {
                     link: "https://youtu.be/cF6HdRKKJ9A",
                     percent: 100,
                     hz: "240hz"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/TNdoGWH0VhA?si=I4IP5qKLLznSR8kQ",
+                    percent: 100,
+                    hz: "120hz (mobile)"
                 },
             ],
             name: "Coin",
