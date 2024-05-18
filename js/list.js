@@ -3314,12 +3314,6 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
-		{
-                    user: "HanJin",
-                    link: "https://www.youtube.com/watch?v=3mZ-Qfybn7g",
-                    percent: 100,
-                    hz: "240hz"
-                },
             ],
             name: "BTS  DNA",
             author: "lolbito",
@@ -5569,12 +5563,6 @@ const d = {
                     link: "https://youtu.be/IWZE7SCaspc",
                     percent: 100,
                     hz: "60hz (mobile)"
-                },
-		{
-                    user: "HanJin",
-                    link: "https://www.youtube.com/watch?v=heV9ynsTOlE",
-                    percent: 100,
-                    hz: "240hz"
                 },
             ],
             name: "Set Me Free",
