@@ -7112,6 +7112,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+                {
+                    user: "minjae0327",
+                    link: "https://youtu.be/kTC_WtQPM8k",
+                    percent: 100,
+                    hz: "500hz"
+                },
             ],
             name: "EASY",
             author: "issanagay & TeZVX [issanagay]",
@@ -7340,6 +7346,12 @@ const d = {
                     percent: 100,
                     hz: "60hz"
                 },
+                {
+                    user: "NewJeans",
+                    link: "https://www.youtube.com/watch?v=4RcDRM8MdKk",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "Event Horizon",
             author: "CleanGD2828",
@@ -7520,6 +7532,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "NewJeans",
+                    link: "https://www.youtube.com/watch?v=KvI1USYofQY",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "Roller Coaster",
             author: "CleanGD2828",
@@ -7573,6 +7591,12 @@ const d = {
                     link: "https://youtu.be/L3cSgl9TKos?si=h328Jh6LaWoFTpBZ",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "minjae0327",
+                    link: "https://youtu.be/eg5-k8GmgSk",
+                    percent: 100,
+                    hz: "500hz"
                 },
             ],
             name: "Alcohol Free",
@@ -7747,6 +7771,12 @@ const d = {
                     link: "https://youtu.be/iqscfKYA1-4?si=uIrZMcOpEH3-qls7",
                     percent: 100,
                     hz: "240hz"
+                },
+                {
+                    user: "NewJeans",
+                    link: "https://www.youtube.com/watch?v=ihXreJjg8rI",
+                    percent: 100,
+                    hz: "60hz"
                 },
             ],
             name: "Ditto",
