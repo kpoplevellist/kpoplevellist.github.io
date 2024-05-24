@@ -2199,6 +2199,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Jirachi",
+                    link: "https://youtu.be/jVMEeWsgOxk?si=YxRqJqw-kBCEJvTV",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Magnetic",
             author: "IgongDae",
@@ -3050,6 +3056,12 @@ const d = {
                     percent: 100,
                     hz: "240hz"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/3oT_e00Qhjs?si=oAdnSX9EfbKMvYR4",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "mess",
             author: "IgongDae",
@@ -3206,6 +3218,12 @@ const d = {
                     percent: 100,
                     hz: "240hz"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/LkJbEhSDE1E?si=_ekXvE_FFkcGcdIb",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "120BPM",
             author: "IgongDae & Coke [IgongDae]",
@@ -3356,6 +3374,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/pHpXKp_zyQQ?si=S-EsqApVKo557qRC",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Yogurting",
             author: "IgongDae",
@@ -3419,6 +3443,12 @@ const d = {
                 {
                     user: "Jirachi",
                     link: "https://youtu.be/ChN98HJSa4M",
+                    percent: 100,
+                    hz: "240hz"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/XOaIrU4zbJE?si=f-u23Ig8GH2ysuep",
                     percent: 100,
                     hz: "240hz"
                 },
@@ -3727,6 +3757,12 @@ const d = {
                     link: "https://youtu.be/bP7X9pD24aU",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/NPG4Cvs7c3I?si=0qdZc7gV_yWtaWrd",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "blue moon",
@@ -4699,6 +4735,12 @@ const d = {
                     link: "https://www.youtube.com/watch?v=OVD0zPGHsmY",
                     percent: 100,
                     hz: "144hz (mobile)"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/_y4veekz10g?si=PLqucwuF_S_E30Mj",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "HEYA",
