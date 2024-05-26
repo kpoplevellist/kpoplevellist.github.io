@@ -3808,7 +3808,7 @@ const d = {
             vids: [
                 {
                     user: "HanJin",
-                    link: "https://youtu.be/P3t4NEFimf8?si=GCbi_3q4LPXunHWa",
+                    link: "https://youtu.be/6P1GyYs8sCE?si=_92QqlShJelojTZ3",
                     percent: 100,
                     hz: "240hz"
                 },
@@ -4711,6 +4711,12 @@ const d = {
                     link: "https://www.youtube.com/watch?v=w4eD7VTFce8",
                     percent: 100,
                     hz: "144hz (mobile)"
+                },
+               {
+                    user: "Korea7723",
+                    link: "https://youtu.be/TLlN49rZvno?si=SUlnTkIN3m5kHcxA",
+                    percent:100 ,
+                    hz: "240hz"
                 },
             ],
             name: "Either Way",
@@ -7562,6 +7568,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "NewJeans",
+                    link: "https://youtu.be/0a8Lzo6lEO4",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "Weekend",
             author: "CleanGD2828",
