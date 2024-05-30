@@ -3320,6 +3320,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/_KOxgKfUlvI",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Rooftop",
             author: "TeamIVE & More [UserProfile]",
@@ -7820,6 +7826,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "NewJeans",
+                    link: "https://youtu.be/PQqkf8BpqqY",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "Permission to Circle",
             author: "CleanGD2828",
