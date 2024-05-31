@@ -3518,6 +3518,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/KVvqi_9QsTQ?si=bGHNFwIKZ8kIfcQx",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Cookie",
             author: "Sidci & Vharret [Sidci]",
@@ -4148,6 +4154,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/-qqgmr37PyA?si=6PSgZvrbUP8Op2kT",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "SINCE",
             author: "IgongDae",
@@ -4771,6 +4783,12 @@ const d = {
                     link: "https://youtu.be/_y4veekz10g?si=PLqucwuF_S_E30Mj",
                     percent: 100,
                     hz: "240hz"
+                },
+               {
+                    user: "Korea7723",
+                    link: "https://youtu.be/qIix94rZwJw?si=6tw8PM1sMb1OFORJ",
+                    percent: 100,
+                    hz: "165hz"
                 },
             ],
             name: "HEYA",
@@ -7772,6 +7790,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "NewJeans",
+                    link: "https://youtu.be/hHHr5jYFG9w",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "Panorama Circles",
             author: "CleanGD2828",
