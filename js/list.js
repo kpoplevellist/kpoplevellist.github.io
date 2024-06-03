@@ -1779,6 +1779,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/F3Izj4ucYRk?si=Jswpw6pnACQn2Zf4",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "CANDY",
             author: "IgongDae",
@@ -2019,6 +2025,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/LxsX_Zp8PzQ?si=cUSPgHJydhlXjLiU",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "OMG",
             author: "IgongDae",
@@ -2252,6 +2264,12 @@ const d = {
                     link: "https://www.youtube.com/watch?v=ZkNCNfaq43U",
                     percent: 100,
                     hz: "144hz"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/hRXXUNhn75U?si=MCqnHPxIKFSs4uKz",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Roller Coaster",
@@ -3079,6 +3097,12 @@ const d = {
                     link: "https://youtu.be/3oT_e00Qhjs?si=oAdnSX9EfbKMvYR4",
                     percent: 100,
                     hz: "240hz"
+                },
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/0gebRWkJJ74?si=E1IiomlTGGL6UF7e",
+                    percent: 100,
+                    hz: "60hz (mobile)"
                 },
             ],
             name: "mess",
@@ -4928,6 +4952,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/NKAz8e-YBVQ?si=--IU4_LUTt3IiTbR",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Royal",
             author: "TeZVX & issanagay [TeZVX]",
@@ -7754,6 +7784,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "NewJeans",
+                    link: "https://youtu.be/v3gELX7S5Tw",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "SNEAKERS",
             author: "CleanGD2828",
@@ -7772,6 +7808,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "NewJeans",
+                    link: "https://youtu.be/P5Y6ijTRam0",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "fast forward",
             author: "CleanGD2828",
