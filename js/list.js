@@ -4712,7 +4712,7 @@ const d = {
                 more: "TeZVX, Rdrgz, issanagay",
             },
             percentToQualify: 65,
-            verificationVid: "https://www.youtube.com/watch?v=i7KCzclUWjA",
+            verificationVid: "https://www.youtube.com/watch?v=TK847Q7FyCA",
             key: 170
         },
         /*=================================================================================*/
