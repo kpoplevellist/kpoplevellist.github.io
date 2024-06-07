@@ -2960,6 +2960,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/Bks6Y1XAQUc?si=uaxhm_f-53EdAOrY",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "STEREOTYPE",
             author: "Aluminium & More [Aluminium]",
@@ -3229,6 +3235,12 @@ const d = {
                     link: "https://youtu.be/q9inTcc9uXs",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/PZPfxvsmuUw?si=zRkj-e27rjcQcbFO",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "WA DA DA",
@@ -7508,6 +7520,18 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "CleanGD2828",
+                    link: "https://youtu.be/tmGFcQ1AW_w?si=_k6W0qxvNEac6VJQ",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
+                {
+                    user: "issanagay",
+                    link: "https://youtu.be/pN776gGgjAM?si=ntaTJ66hx22SjncE",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Heya",
             author: "TeZVX",
@@ -8519,6 +8543,12 @@ const d = {
                 {
                     user: "Gao73",
                     link: "https://youtu.be/1bCutzqeApU?si=PCc46GB4y3R_5MI9",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
+                {
+                    user: "Galsat",
+                    link: "https://youtu.be/QQYOVwzzUBQ?si=4mlkJgIXN3Obrw36",
                     percent: 100,
                     hz: "120hz (mobile)"
                 },
