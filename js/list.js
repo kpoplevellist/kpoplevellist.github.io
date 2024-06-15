@@ -1929,6 +1929,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/x4t_tTfSwNk",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Baddie",
             author: "issanagay",
@@ -2402,6 +2408,12 @@ const d = {
                     link: "https://youtu.be/X-Mn95EM4K0?si=-RO3EJpxgvs9sTU5",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/x4t_tTfSwNk?t=160",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "LIKEY",
@@ -2899,6 +2911,12 @@ const d = {
                     link: "https://youtu.be/LMwoopHg8z8?si=uiKEkxVnFRYf4c-E?t=49",
                     percent: 100,
                     hz: "120hz (mobile)"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/x4t_tTfSwNk?t=230",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Blue Blood",
@@ -3482,6 +3500,12 @@ const d = {
                     percent: 100,
                     hz: "144hz (mobile)"
                 },
+               {
+                    user: "HanJin",
+                    link: "https://youtu.be/x4t_tTfSwNk?t=306",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Off The Record",
             author: "issanagay",
@@ -3638,6 +3662,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+               {
+                    user: "HanJin",
+                    link: "https://youtu.be/x4t_tTfSwNk?t=501",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "ELEVEN",
             author: "issanagay",
@@ -3656,6 +3686,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+               {
+                    user: "HanJin",
+                    link: "https://youtu.be/x4t_tTfSwNk?t=607",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "SWAN",
             author: "issanagay",
@@ -3697,6 +3733,12 @@ const d = {
                     link: "https://youtu.be/_PtacF6UguY?t=87",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+               {
+                    user: "HanJin",
+                    link: "https://youtu.be/GvvEy27L_PA",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "I AM",
@@ -3872,6 +3914,12 @@ const d = {
                     percent: 100,
                     hz: "120hz (mobile)"
                 },
+               {
+                    user: "HanJin",
+                    link: "https://youtu.be/x4t_tTfSwNk?t=691",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "LOVE DIVE II",
             author: "issanagay",
@@ -4004,6 +4052,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+               {
+                    user: "HanJin",
+                    link: "https://youtu.be/qM92_sXqjdU",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "After LIKE",
             author: "Mobile64",
@@ -4051,6 +4105,12 @@ const d = {
                     link: "https://www.youtube.com/watch?v=_K0hW-hU78Q",
                     percent: 100,
                     hz: "144hz"
+                },
+               {
+                    user: "HanJin",
+                    link: "https://youtu.be/x4t_tTfSwNk?t=738",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "No Return",
@@ -4292,6 +4352,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+               {
+                    user: "HanJin",
+                    link: "https://youtu.be/6DhcbRPl7z8",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Ispicywithmyspicylay",
             author: "Mobile64",
@@ -4310,6 +4376,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+               {
+                    user: "HanJin",
+                    link: "https://youtu.be/qFrc5HFAStA",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Cupid",
             author: "CleanGD2828 [Mobile64]",
@@ -4454,6 +4526,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+               {
+                    user: "HanJin",
+                    link: "https://youtu.be/x4t_tTfSwNk?t=845",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Panorama",
             author: "issanagay",
@@ -4513,6 +4591,12 @@ const d = {
                     link: "https://www.youtube.com/watch?v=-Cq-aUZ1TuE",
                     percent: 100,
                     hz: "120hz (mobile)"
+                },
+               {
+                    user: "HanJin",
+                    link: "https://youtu.be/x4t_tTfSwNk?t=1074",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "I AM",
@@ -7016,6 +7100,12 @@ const d = {
                     percent: 100,
                     hz: "165hz"
                 },
+               {
+                    user: "HanJin",
+                    link: "https://youtu.be/rpK5KbQm8uI",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "I AM circles",
             author: "CleanGD2828",
@@ -7531,6 +7621,18 @@ const d = {
                     link: "https://youtu.be/pN776gGgjAM?si=ntaTJ66hx22SjncE",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+               {
+                    user: "minjae0327",
+                    link: "https://youtu.be/vjNAaS7mgGs",
+                    percent: 100,
+                    hz: "500hz"
+                },
+               {
+                    user: "HanJin",
+                    link: "https://youtu.be/9Gx23fgqfDo",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Heya",
@@ -8513,6 +8615,12 @@ const d = {
                 {
                     user: "Gao73",
                     link: "https://youtu.be/PZcUph0n-x0?si=U5LyUSx6bp7ZUP5d",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
+                {
+                    user: "Galsat",
+                    link: "https://youtu.be/PEuLj9jHxmA?si=ZlB3wEnH447gLb4i",
                     percent: 100,
                     hz: "120hz (mobile)"
                 },
