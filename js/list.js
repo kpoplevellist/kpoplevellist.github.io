@@ -4808,6 +4808,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "PiaNoMen",
+                    link: "https://youtu.be/tmrsLxPigGQ?si=h4pwSCFkBXzBSBWs",
+                    percent: 100,
+                    hz: "165hz"
+                },
             ],
             name: "Accendio",
             author: "issanagay",
