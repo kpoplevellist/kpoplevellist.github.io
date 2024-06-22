@@ -4172,6 +4172,12 @@ const d = {
                     percent: 100,
                     hz: "240hz"
                 },
+                {
+                    user: "Galsat",
+                    link: "https://youtu.be/T2EOwbDSCss?si=A3T4SDdLpfWIIRf_",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
             ],
             name: "Discord",
             author: "almuu & More [almuu]",
