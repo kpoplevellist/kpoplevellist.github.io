@@ -2882,6 +2882,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/wZ2QzU2ZzeI",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Christmas Present",
             author: "Sweetdream & More [Sweetdream]",
@@ -3110,6 +3116,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/yEGLdMhZKDM",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Ditto",
             author: "Mobile64",
@@ -3229,6 +3241,12 @@ const d = {
                     link: "https://youtu.be/xbKipw8injA?si=DIb4v1jv5TFby4xB&t=152",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/-pXjt2Q9wjU",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Super Shy",
@@ -3464,6 +3482,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/rwY-AqRcPsw",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
             ],
             name: "magnetic",
             author: "Strike",
@@ -4958,6 +4982,12 @@ const d = {
                     percent: 100,
                     hz: "480hz"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/YIUYi2T-TZc",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "7BH",
             author: "CleanGD2828",
@@ -5143,6 +5173,12 @@ const d = {
                     link: "https://youtu.be/xbKipw8injA?si=tHuM_Va6COBUFx9e&t=305",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/uTBRS3Ysbo8",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Boat",
@@ -7436,6 +7472,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/rYeBCmYcs_I",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
             ],
             name: "MANIAC",
             author: "issanagay",
@@ -7573,6 +7615,12 @@ const d = {
                     link: "https://youtu.be/hUV-03weJbc?si=4qFVHdOpmCkrkT8Z",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/ojkjTDn4jCk",
+                    percent: 100,
+                    hz: "120hz (mobile)"
                 },
             ],
             name: "Queencard",
