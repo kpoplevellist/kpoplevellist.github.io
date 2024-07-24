@@ -1959,6 +1959,12 @@ const d = {
                     percent: 100,
                     hz: "240hz"
                 },
+                {
+                    user: "PiaNoMen",
+                    link: "https://drive.google.com/file/d/12reQb6SnXWjdCQgrop-r3Dyr-tdbUv7A/view?usp=drivesdk",
+                    percent: 100,
+                    hz: "144hz (mobile)"
+                },
             ],
             name: "Baddie",
             author: "issanagay",
@@ -6302,6 +6308,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "CleanGD2828",
+                    link: "https://youtu.be/0ATANDs3wZ0?si=j5SyN6NoDuQ-TE54",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Blueming",
             author: "Langk",
