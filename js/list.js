@@ -7850,6 +7850,18 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "CleanGD2828",
+                    link: "https://youtu.be/6X03JI4S4Jc?si=pSlKdegMTgV4aMdF",
+                    percent: 100,
+                    hz: "60hz"
+                },
+                {
+                    user: "VeeP3rm",
+                    link: "https://youtu.be/SioX4vBVKAY",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "do my best",
             author: "aiden1204",
