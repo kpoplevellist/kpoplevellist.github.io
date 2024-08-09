@@ -5528,6 +5528,12 @@ const d = {
                     percent: 100,
                     hz: "120hz (mobile)"
                 },
+                {
+                    user: "CleanGD2828",
+                    link: "https://youtu.be/ztwfoCdFQJY",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Either way",
             author: "Mobile64",
