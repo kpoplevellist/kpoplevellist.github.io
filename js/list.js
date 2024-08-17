@@ -3002,6 +3002,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Galsat",
+                    link: "https://www.youtube.com/watch?v=CA26Vova3wA",
+                    percent: 100,
+                    hz: "CBF"
+                },
             ],
             name: "tbh",
             author: "IgongDae",
