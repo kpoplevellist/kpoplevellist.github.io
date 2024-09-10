@@ -5871,6 +5871,36 @@ const d = {
         {
             vids: [
                 {
+                    user: "PiaNoMen",
+                    link: "https://drive.google.com/file/d/1Lpgca982HO8IiQW0bE92sRUmG6OzJYnZ/view?usp=drivesdk",
+                    percent: 100,
+                    hz: "144hz (mobile)"
+                },
+                {
+                    user: "CleanGD2828",
+                    link: "https://youtu.be/uzs1ymX7SFM",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
+            ],
+            name: "Blue Heart",
+            author: "issanagay",
+            mapInfo: {
+                simpleExp: "Blue Heart - IVE",
+                uploadDate: "2024.09.16",
+                verifingAtt: "비공개",
+                long: "0분 58초",
+                highest: "109860945",
+                more: "none",
+            },
+            percentToQualify: 69,
+            verificationVid: "https://www.youtube.com/watch?v=8XXX5-Prsc0",
+            key: 208
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
                     user: "IgongDae",
                     link: "https://youtu.be/N-8RUoyIijU",
                     percent: 100,
@@ -5913,7 +5943,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=QWqNs9OnslM",
-            key: 208
+            key: 209
         },
         /*=================================================================================*/
         {
@@ -5955,7 +5985,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=s_5IXaaSVd4",
-            key: 209
+            key: 210
         },
         /*=================================================================================*/
         {
@@ -5985,11 +6015,17 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=4QXx2EUHr0M",
-            key: 210
+            key: 211
         },
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "CleanGD2828",
+                    link: "https://youtu.be/EzdZs7I7V4U?si=0XducX0aX2UoA2vv",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "SUMMER FESTA",
             author: "issanagay",
@@ -6003,7 +6039,7 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=8XXX5-Prsc0",
-            key: 211
+            key: 212
         },
         /*=================================================================================*/
         {
@@ -6033,7 +6069,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=IMDcnAQYLyA",
-            key: 212
+            key: 213
         },
         /*=================================================================================*/
         {
@@ -6057,7 +6093,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=jqPsMXPQ-d4",
-            key: 213
+            key: 214
         },
         /*=================================================================================*/
         {
@@ -6087,7 +6123,7 @@ const d = {
             },
             percentToQualify: 65,
             verificationVid: "https://www.youtube.com/watch?v=IWtCXFbsDPQ",
-            key: 214
+            key: 215
         },
         /*=================================================================================*/
         {
@@ -6105,30 +6141,6 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=x2HCtIWANV0",
-            key: 215
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "CleanGD2828",
-                    link: "https://youtu.be/iFmwFdn-NsM",
-                    percent: 100,
-                    hz: "60hz (mobile)"
-                },
-            ],
-            name: "All Night",
-            author: "issanagay",
-            mapInfo: {
-                simpleExp: "All Night - IVE, Saweetie",
-                uploadDate: "2024.01.23",
-                verifingAtt: "비공개",
-                long: "1분 0초",
-                highest: "99593841",
-                more: "none",
-            },
-            percentToQualify: 72,
-            verificationVid: "https://www.youtube.com/watch?v=WBkHrSAStf0",
             key: 216
         },
         /*=================================================================================*/
@@ -6687,6 +6699,30 @@ const d = {
         {
             vids: [
                 {
+                    user: "CleanGD2828",
+                    link: "https://youtu.be/iFmwFdn-NsM",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
+            ],
+            name: "All Night",
+            author: "issanagay",
+            mapInfo: {
+                simpleExp: "All Night - IVE, Saweetie",
+                uploadDate: "2024.01.23",
+                verifingAtt: "비공개",
+                long: "1분 0초",
+                highest: "99593841",
+                more: "none",
+            },
+            percentToQualify: 72,
+            verificationVid: "https://www.youtube.com/watch?v=WBkHrSAStf0",
+            key: 233
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
                     user: "Mobile64",
                     link: "https://youtu.be/u3Cs9IL1VsI?si=GZ3znbe2d1nr-xIu",
                     percent: 100,
@@ -6705,7 +6741,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=YOWRFmEJUn8",
-            key: 233
+            key: 234
         },
         /*=================================================================================*/
         {
@@ -6771,7 +6807,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=dQL_RUAh174",
-            key: 234
+            key: 235
         },
         /*=================================================================================*/
         {
@@ -6807,7 +6843,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=rrHhSKcgUEM",
-            key: 235
+            key: 236
         },
         /*=================================================================================*/
         {
@@ -6873,7 +6909,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=JuVgDTN_hP4",
-            key: 236
+            key: 237
         },
         /*=================================================================================*/
         {
@@ -6903,7 +6939,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=E2MklcDk9kg",
-            key: 237
+            key: 238
         },
         /*=================================================================================*/
         {
@@ -6933,7 +6969,7 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=RW-cHcyIfJM",
-            key: 238
+            key: 239
         },
         /*=================================================================================*/
         {
@@ -6969,7 +7005,7 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=mYLPoQgxlpU",
-            key: 239
+            key: 240
         },
         /*=================================================================================*/
         {
@@ -7023,7 +7059,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=DD_h_4Ysqic",
-            key: 240
+            key: 241
         },
         /*=================================================================================*/
         {
@@ -7065,7 +7101,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=Q_0q1i6t4xE",
-            key: 241
+            key: 242
         },
         /*=================================================================================*/
         {
@@ -7113,7 +7149,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=e4f7c531CuE",
-            key: 242
+            key: 243
         },
         /*=================================================================================*/
         {
@@ -7149,7 +7185,7 @@ const d = {
             },
             percentToQualify: 71,
             verificationVid: "https://www.youtube.com/watch?v=cXWUAVtkIQ4",
-            key: 243
+            key: 244
         },
         /*=================================================================================*/
         {
@@ -7185,7 +7221,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=xb1tXAVpErM",
-            key: 244
+            key: 245
         },
         /*=================================================================================*/
         {
@@ -7203,7 +7239,7 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=W8NnlW7c7i8",
-            key: 245
+            key: 246
         },
         /*=================================================================================*/
         {
@@ -7221,7 +7257,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=j3PVMdIISwU",
-            key: 246
+            key: 247
         },
         /*=================================================================================*/
         {
@@ -7257,7 +7293,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=5VL1davpuQk",
-            key: 247
+            key: 248
         },
         /*=================================================================================*/
         {
@@ -7293,7 +7329,7 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=fVZKQdVGnGM",
-            key: 248
+            key: 249
         },
         /*=================================================================================*/
         {
@@ -7317,7 +7353,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=yemffgWQhNM",
-            key: 249
+            key: 250
         },
         /*=================================================================================*/
         {
@@ -7347,7 +7383,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=Kc05CFYD6EY",
-            key: 250
+            key: 251
         },
         /*=================================================================================*/
         {
@@ -7365,7 +7401,7 @@ const d = {
             },
             percentToQualify: 71,
             verificationVid: "https://www.youtube.com/watch?v=NauXEbURJaM",
-            key: 251
+            key: 252
         },
         /*=================================================================================*/
         {
@@ -7389,7 +7425,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=u-eJn9VSZNc",
-            key: 252
+            key: 253
         },
         /*=================================================================================*/
         {
@@ -7443,7 +7479,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=TveOlTH-KNs",
-            key: 253
+            key: 254
         },
         /*=================================================================================*/
         {
@@ -7479,7 +7515,7 @@ const d = {
             },
             percentToQualify: 78,
             verificationVid: "https://www.youtube.com/watch?v=n4WqkIYn1dc",
-            key: 254
+            key: 255
         },
         /*=================================================================================*/
         {
@@ -7515,7 +7551,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=BvI0BD8uGN8",
-            key: 255
+            key: 256
         },
         /*=================================================================================*/
         {
@@ -7557,7 +7593,7 @@ const d = {
             },
             percentToQualify: 69,
             verificationVid: "https://www.youtube.com/watch?v=jkKC7ue0Q50",
-            key: 256
+            key: 257
         },
         /*=================================================================================*/
         {
@@ -7575,7 +7611,7 @@ const d = {
             },
             percentToQualify: 65,
             verificationVid: "https://www.youtube.com/watch?v=dP7gp0b8rKg",
-            key: 257
+            key: 258
         },
         /*=================================================================================*/
         {
@@ -7593,7 +7629,7 @@ const d = {
             },
             percentToQualify: 67,
             verificationVid: "https://www.youtube.com/watch?v=t3HvkZbuKqE",
-            key: 258
+            key: 259
         },
         /*=================================================================================*/
         {
@@ -7623,7 +7659,7 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=u10g64_31EI",
-            key: 259
+            key: 260
         },
         /*=================================================================================*/
         {
@@ -7659,7 +7695,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=An72x0lA7Uw",
-            key: 260
+            key: 261
         },
         /*=================================================================================*/
         {
@@ -7695,7 +7731,7 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=EIefjagGEN4",
-            key: 261
+            key: 262
         },
         /*=================================================================================*/
         {
@@ -7713,7 +7749,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=0BZYnJpSzIo",
-            key: 262
+            key: 263
         },
         /*=================================================================================*/
         {
@@ -7755,7 +7791,7 @@ const d = {
             },
             percentToQualify: 79,
             verificationVid: "https://www.youtube.com/watch?v=Nby0gJZ-Mm0",
-            key: 263
+            key: 264
         },
         /*=================================================================================*/
         {
@@ -7773,7 +7809,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=E_ks9vfYnRo",
-            key: 264
+            key: 265
         },
         /*=================================================================================*/
         {
@@ -7797,7 +7833,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=tjm87lEn5YE",
-            key: 265
+            key: 266
         },
         /*=================================================================================*/
         {
@@ -7821,7 +7857,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=5jUH6P56jHI",
-            key: 266
+            key: 267
         },
         /*=================================================================================*/
         {
@@ -7851,7 +7887,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=EMeSldNPJrk",
-            key: 267
+            key: 268
         },
         /*=================================================================================*/
         {
@@ -7869,7 +7905,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=TcgFuR4rLJc",
-            key: 268
+            key: 269
         },
         /*=================================================================================*/
         {
@@ -7893,7 +7929,7 @@ const d = {
             },
             percentToQualify: 78,
             verificationVid: "https://www.youtube.com/watch?v=P3dYPtbg4aQ",
-            key: 269
+            key: 270
         },
         /*=================================================================================*/
         {
@@ -7935,7 +7971,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=Ttd2YyH0clQ",
-            key: 270
+            key: 271
         },
         /*=================================================================================*/
         {
@@ -7953,7 +7989,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=NfzomiimTsM",
-            key: 271
+            key: 272
         },
         /*=================================================================================*/
         {
@@ -7971,7 +8007,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=q8au480gmBE",
-            key: 272
+            key: 273
         },
         /*=================================================================================*/
         {
@@ -7995,7 +8031,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=iEcPMzb3E9I",
-            key: 273
+            key: 274
         },
         /*=================================================================================*/
         {
@@ -8037,7 +8073,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=lk3G7wrXos4",
-            key: 274
+            key: 275
         },
         /*=================================================================================*/
         {
@@ -8067,7 +8103,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=A5b0ypTdrx0",
-            key: 275
+            key: 276
         },
         /*=================================================================================*/
         {
@@ -8085,7 +8121,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=WcQPWrYiVOc",
-            key: 276
+            key: 277
         },
         /*=================================================================================*/
         {
@@ -8103,7 +8139,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=jY_IudbHOoM",
-            key: 277
+            key: 278
         },
         /*=================================================================================*/
         {
@@ -8127,7 +8163,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=GCiAmRVWMXs",
-            key: 278
+            key: 279
         },
         /*=================================================================================*/
         {
@@ -8145,7 +8181,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=E48g3J0CXtQ",
-            key: 279
+            key: 280
         },
         /*=================================================================================*/
         {
@@ -8175,7 +8211,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=Xz1QaDF0Wp8",
-            key: 280
+            key: 281
         },
         /*=================================================================================*/
         {
@@ -8199,7 +8235,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=yTaKXzw3Pbc",
-            key: 281
+            key: 282
         },
         /*=================================================================================*/
         {
@@ -8217,7 +8253,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=RiNsluHFT3c",
-            key: 282
+            key: 283
         },
         /*=================================================================================*/
         {
@@ -8235,7 +8271,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=j2HKAIjdZ4c",
-            key: 283
+            key: 284
         },
         /*=================================================================================*/
         {
@@ -8259,7 +8295,7 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=oINPZ22jgxs",
-            key: 284
+            key: 285
         },
         /*=================================================================================*/
         {
@@ -8283,7 +8319,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=f_Lq0A1IZb0",
-            key: 285
+            key: 286
         },
         /*=================================================================================*/
         {
@@ -8319,7 +8355,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=tSUSuw1-ZNE",
-            key: 286
+            key: 287
         },
         /*=================================================================================*/
         {
@@ -8343,7 +8379,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=HJ4G53lK3Iw",
-            key: 287
+            key: 288
         },
         /*=================================================================================*/
         {
@@ -8367,7 +8403,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=Z7iHpOzbiCo",
-            key: 288
+            key: 289
         },
         /*=================================================================================*/
         {
@@ -8391,7 +8427,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=B9R-HVpIYxk",
-            key: 289
+            key: 290
         },
         /*=================================================================================*/
         {
@@ -8427,7 +8463,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=Z-hBQFtey7Y",
-            key: 290
+            key: 291
         },
         /*=================================================================================*/
         {
@@ -8451,7 +8487,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=MkzxSl2ZgIU",
-            key: 291
+            key: 292
         },
         /*=================================================================================*/
         {
@@ -8475,7 +8511,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=XdRNJ2hbT5U",
-            key: 292
+            key: 293
         },
         /*=================================================================================*/
         {
@@ -8499,7 +8535,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=hbUbemG6lTg",
-            key: 293
+            key: 294
         },
         /*=================================================================================*/
         {
@@ -8529,7 +8565,7 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=g66ggW1n8gY",
-            key: 294
+            key: 295
         },
         /*=================================================================================*/
         {
@@ -8553,7 +8589,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=4WFxuNF2W6U",
-            key: 295
+            key: 296
         },
         /*=================================================================================*/
         {
@@ -8571,7 +8607,7 @@ const d = {
             },
             percentToQualify: 78,
             verificationVid: "https://www.youtube.com/watch?v=bTpHvLG53as",
-            key: 296
+            key: 297
         },
         /*=================================================================================*/
         {
@@ -8589,7 +8625,7 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=TcJ8gZkW89s",
-            key: 297
+            key: 298
         },
         /*=================================================================================*/
         {
@@ -8649,7 +8685,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=V1lGMPKdC3s",
-            key: 298
+            key: 299
         },
         /*=================================================================================*/
         {
@@ -8667,7 +8703,7 @@ const d = {
             },
             percentToQualify: 78,
             verificationVid: "https://www.youtube.com/watch?v=ElJndIEQEC4",
-            key: 299
+            key: 300
         },
         /*=================================================================================*/
         {
@@ -8697,7 +8733,7 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=MQVUps81GpE",
-            key: 300
+            key: 301
         },
         /*=================================================================================*/
         {
@@ -8781,7 +8817,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=FbWDGFUIWyo",
-            key: 301
+            key: 302
         },
         /*=================================================================================*/
         {
@@ -8805,7 +8841,7 @@ const d = {
             },
             percentToQualify: 77,
             verificationVid: "https://www.youtube.com/watch?v=eBZx8PQMlmU",
-            key: 302
+            key: 303
         },
         /*=================================================================================*/
         {
@@ -8829,7 +8865,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=eennLguHx1k",
-            key: 303
+            key: 304
         },
         /*=================================================================================*/
         {
@@ -8853,7 +8889,7 @@ const d = {
             },
             percentToQualify: 61,
             verificationVid: "https://www.youtube.com/watch?v=nde38MzyXho",
-            key: 304
+            key: 305
         },
         /*=================================================================================*/
         {
@@ -8877,7 +8913,7 @@ const d = {
             },
             percentToQualify: 79,
             verificationVid: "https://www.youtube.com/watch?v=tTG1Fk5Y4Jc",
-            key: 305
+            key: 306
         },
         /*=================================================================================*/
         {
@@ -8895,7 +8931,7 @@ const d = {
             },
             percentToQualify: 79,
             verificationVid: "https://www.youtube.com/watch?v=WbvHplXWcyQ",
-            key: 306
+            key: 307
         },
         /*=================================================================================*/
         {
@@ -8913,7 +8949,7 @@ const d = {
             },
             percentToQualify: 78,
             verificationVid: "https://www.youtube.com/watch?v=LT2hAqd93pY",
-            key: 307
+            key: 308
         },
         /*=================================================================================*/
         {
@@ -8943,7 +8979,7 @@ const d = {
             },
             percentToQualify: 79,
             verificationVid: "https://www.youtube.com/watch?v=lipPeHk2Nr8",
-            key: 308
+            key: 309
         },
         /*=================================================================================*/
         {
@@ -8979,7 +9015,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=JTsjAFM_uMM",
-            key: 309
+            key: 310
         },
         /*=================================================================================*/
         {
@@ -9003,7 +9039,7 @@ const d = {
             },
             percentToQualify: 78,
             verificationVid: "https://www.youtube.com/watch?v=44P2JwUVXaQ",
-            key: 310
+            key: 311
         },
         /*=================================================================================*/
         {
@@ -9027,7 +9063,7 @@ const d = {
             },
             percentToQualify: 79,
             verificationVid: "https://www.youtube.com/watch?v=vOv8zCDjTnQ",
-            key: 311
+            key: 312
         },
         /*=================================================================================*/
         {
@@ -9051,7 +9087,7 @@ const d = {
             },
             percentToQualify: 79,
             verificationVid: "https://www.youtube.com/watch?v=slVvPT9kjZM",
-            key: 312
+            key: 313
         },
         /*=================================================================================*/
         {
@@ -9075,7 +9111,7 @@ const d = {
             },
             percentToQualify: 80,
             verificationVid: "https://www.youtube.com/watch?v=kEh3Df5RewQ",
-            key: 313
+            key: 314
         },
         /*=================================================================================*/
     ],
