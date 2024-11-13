@@ -7310,6 +7310,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+		{
+                    user: "PiaNoMen",
+                    link: "https://youtu.be/8ZcvrPpY93A?si=DoEd23vSsz78KZMC",
+                    percent: 100,
+                    hz: "144hz (mobile)"
+                },
             ],
             name: "Supernova Love",
             author: "issanagay",
