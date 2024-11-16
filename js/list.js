@@ -5570,6 +5570,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/hggoknY_Yn8",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Time of Our Life",
             author: "CleanGD2828",
@@ -6745,6 +6751,12 @@ const d = {
                     link: "https://youtu.be/iFmwFdn-NsM",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "PiaNoMen",
+                    link: "https://youtu.be/L7OIzHirZl8",
+                    percent: 100,
+                    hz: "144hz (mobile)"
                 },
             ],
             name: "All Night",
@@ -7969,6 +7981,12 @@ const d = {
                     link: "https://www.youtube.com/watch?v=0meR_Bwltgw",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/qQ5W7Pip52A?si=XD9luwXFuzmP_x2b",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Apt",
