@@ -3081,7 +3081,7 @@ const d = {
                 simpleExp: "Super Lady - (G)I-DLE",
                 uploadDate: "2024.02.22",
                 verifingAtt: "1172",
-                long: "1분 10초",
+                long: "1분 8초",
                 highest: "104466345",
                 more: "none",
             },
