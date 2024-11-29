@@ -5246,6 +5246,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+                {
+                    user: "CleanGD2828",
+                    link: "https://youtu.be/Z9ZiUos6VSE?si=OPaGprSgAlJtgH64",
+                    percent: 100,
+                    hz: "90hz (mobile)"
+                },
             ],
             name: "Royal",
             author: "TeZVX & issanagay [TeZVX]",
