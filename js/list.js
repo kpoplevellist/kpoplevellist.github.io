@@ -4784,6 +4784,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+                {
+                    user: "PiaNoMen",
+                    link: "https://youtu.be/Cz_S3jyzG40?si=HZHmNpilwJPYYCtV",
+                    percent: 100,
+                    hz: "144hz (mobile)"
+                },
             ],
             name: "OMG",
             author: "issanagay",
