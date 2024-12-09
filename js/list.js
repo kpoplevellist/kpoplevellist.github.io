@@ -130,6 +130,24 @@ const d = {
         {
             vids: [
             ],
+            name: "Cherish",
+            author: "IgongDae",
+            mapInfo: {
+                simpleExp: "Cherish - ILLIT",
+                uploadDate: "2024.11.10",
+                verifingAtt: "1764",
+                long: "0분 54초",
+                highest: "111990108",
+                more: "none",
+            },
+            percentToQualify: 48,
+            verificationVid: "https://www.youtube.com/watch?v=I6cAEdHAVSU",
+            key: 6
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
             name: "Kimbap Over",
             author: "VantablockGD [eggkimbap]",
             mapInfo: {
@@ -142,7 +160,7 @@ const d = {
             },
             percentToQualify: 48,
             verificationVid: "https://www.youtube.com/watch?v=pZDDZkgJ-Wk",
-            key: 6
+            key: 7
         },
         /*=================================================================================*/
         {
@@ -166,7 +184,7 @@ const d = {
             },
             percentToQualify: 50,
             verificationVid: "https://www.youtube.com/watch?v=pG4vrQ9ulqw",
-            key: 7
+            key: 8
         },
         /*=================================================================================*/
         {
@@ -184,7 +202,7 @@ const d = {
             },
             percentToQualify: 47,
             verificationVid: "https://www.youtube.com/watch?v=hMRycoiiSMI",
-            key: 8
+            key: 9
         },
         /*=================================================================================*/
         {
@@ -214,7 +232,7 @@ const d = {
             },
             percentToQualify: 48,
             verificationVid: "https://www.youtube.com/watch?v=kADEW0euUdk",
-            key: 9
+            key: 10
         },
         /*=================================================================================*/
         {
@@ -238,24 +256,6 @@ const d = {
             },
             percentToQualify: 49,
             verificationVid: "https://www.youtube.com/watch?v=i3keBirGbfo",
-            key: 10
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "Cherish",
-            author: "IgongDae",
-            mapInfo: {
-                simpleExp: "Cherish - ILLIT",
-                uploadDate: "2024.11.10",
-                verifingAtt: "1764",
-                long: "0분 54초",
-                highest: "111990108",
-                more: "none",
-            },
-            percentToQualify: 48,
-            verificationVid: "https://www.youtube.com/watch?v=I6cAEdHAVSU",
             key: 11
         },
         /*=================================================================================*/
