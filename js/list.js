@@ -8078,6 +8078,12 @@ const d = {
                     percent: 100,
                     hz: "240hz"
                 },
+                {
+                    user: "Lino726",
+                    link: "https://youtu.be/kqlSj0Cxwb0",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "Apt",
             author: "Johnnyvision",
