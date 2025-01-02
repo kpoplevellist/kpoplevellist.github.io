@@ -5042,6 +5042,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Gao73",
+                    link: "https://youtu.be/yAwv5UoHSHs?si=wi5jXEtehkoq9MnV",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
             ],
             name: "Voyage",
             author: "Lino726",
@@ -5293,6 +5299,12 @@ const d = {
                     link: "https://youtu.be/Z9ZiUos6VSE?si=OPaGprSgAlJtgH64",
                     percent: 100,
                     hz: "90hz (mobile)"
+                },
+                {
+                    user: "changmun",
+                    link: "https://www.youtube.com/watch?v=eVycZM5srDc",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "Royal",
