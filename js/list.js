@@ -3038,6 +3038,12 @@ const d = {
                     percent: 100,
                     hz: "CBF"
                 },
+                {
+                    user: "Lino726",
+                    link: "https://youtu.be/KRo_6HBd6jM",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "tbh",
             author: "IgongDae",
@@ -8102,6 +8108,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "CleanGD2828",
+                    link: "https://youtu.be/Nemw9urQecw?si=TKCZVYoMgYVuGNoa",
+                    percent: 100,
+                    hz: "90hz (mobile)"
+                },
             ],
             name: "Supernova",
             author: "TeZVX",
@@ -8156,6 +8168,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "CleanGD2828",
+                    link: "https://youtu.be/UrJ5OqYaMLQ?si=v_RQQ_0h8G_EdNOZ",
+                    percent: 100,
+                    hz: "90hz (mobile)"
+                },
             ],
             name: "What is LOVE",
             author: "xodeadly",
