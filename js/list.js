@@ -4586,6 +4586,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "CleanGD2828",
+                    link: "https://youtu.be/FY1WVKBSmPE?si=q8sDrLdmARC_1kGq",
+                    percent: 100,
+                    hz: "90hz (mobile)"
+                },
             ],
             name: "Shanghai Romance",
             author: "IgongDae",
