@@ -5156,6 +5156,12 @@ const d = {
                     percent:100 ,
                     hz: "240hz"
                 },
+               {
+                    user: "Itz0pimy",
+                    link: "https://youtu.be/eeQSlA0KmAI?si=eylfM2_Wfu85RbcS",
+                    percent:100 ,
+                    hz: "60hz"
+                },
             ],
             name: "Either Way",
             author: "issanagay",
