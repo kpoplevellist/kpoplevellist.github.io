@@ -189,6 +189,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Sweetdream",
+                    link: "https://www.youtube.com/watch?v=VNL5fnBYOYc",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Supernova",
             author: "IgongDae",
@@ -5638,17 +5644,17 @@ const d = {
             vids: [
             ],
             name: "Fate",
-            author: "OldJeans",
+            author: "NewJeans",
             mapInfo: {
                 simpleExp: "나는 아픈 건 딱 질색이니까 - (G)I-DLE",
-                uploadDate: "2024.04.05",
-                verifingAtt: "75",
+                uploadDate: "2025.01.15",
+                verifingAtt: "43",
                 long: "0분 53초",
-                highest: "103366126",
+                highest: "114122295",
                 more: "none",
             },
             percentToQualify: 67,
-            verificationVid: "https://www.youtube.com/watch?v=UomPb0T4QTo",
+            verificationVid: "https://www.youtube.com/watch?v=Tcweq2MLB5k",
             key: 200
         },
         /*=================================================================================*/
