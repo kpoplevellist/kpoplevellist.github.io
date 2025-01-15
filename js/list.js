@@ -4598,6 +4598,12 @@ const d = {
                     percent: 100,
                     hz: "90hz (mobile)"
                 },
+                {
+                    user: "Sweetdream",
+                    link: "https://www.youtube.com/watch?v=-6ybEeR-vWI",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Shanghai Romance",
             author: "IgongDae",
