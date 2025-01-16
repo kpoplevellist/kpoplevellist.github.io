@@ -5084,6 +5084,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "Lino726",
+                    link: "https://youtu.be/kPl17GjrVkM",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "MALATANGHULU",
             author: "CleanGD2828",
@@ -8426,12 +8432,6 @@ const d = {
                     percent: 100,
                     hz: "60hz"
                 },
-                {
-                    user: "NewJeans",
-                    link: "https://www.youtube.com/watch?v=4RcDRM8MdKk",
-                    percent: 100,
-                    hz: "60hz"
-                },
             ],
             name: "Event Horizon",
             author: "CleanGD2828",
@@ -8558,12 +8558,6 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-                {
-                    user: "NewJeans",
-                    link: "https://youtu.be/0a8Lzo6lEO4",
-                    percent: 100,
-                    hz: "60hz"
-                },
             ],
             name: "Weekend",
             author: "CleanGD2828",
@@ -8618,12 +8612,6 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-                {
-                    user: "NewJeans",
-                    link: "https://www.youtube.com/watch?v=KvI1USYofQY",
-                    percent: 100,
-                    hz: "60hz"
-                },
             ],
             name: "Roller Coaster",
             author: "CleanGD2828",
@@ -8702,12 +8690,6 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-                {
-                    user: "NewJeans",
-                    link: "https://youtu.be/v3gELX7S5Tw",
-                    percent: 100,
-                    hz: "60hz"
-                },
             ],
             name: "SNEAKERS",
             author: "CleanGD2828",
@@ -8726,12 +8708,6 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-                {
-                    user: "NewJeans",
-                    link: "https://youtu.be/P5Y6ijTRam0",
-                    percent: 100,
-                    hz: "60hz"
-                },
             ],
             name: "fast forward",
             author: "CleanGD2828",
@@ -8750,12 +8726,6 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-                {
-                    user: "NewJeans",
-                    link: "https://youtu.be/hHHr5jYFG9w",
-                    percent: 100,
-                    hz: "60hz"
-                },
             ],
             name: "Panorama Circles",
             author: "CleanGD2828",
@@ -8810,12 +8780,6 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-                {
-                    user: "NewJeans",
-                    link: "https://youtu.be/PQqkf8BpqqY",
-                    percent: 100,
-                    hz: "60hz"
-                },
             ],
             name: "Permission to Circle",
             author: "CleanGD2828",
@@ -8858,12 +8822,6 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-                {
-                    user: "NewJeans",
-                    link: "https://www.youtube.com/watch?v=iIxoPgv9wnM",
-                    percent: 100,
-                    hz: "60hz"
-                },
             ],
             name: "Feel Special",
             author: "CleanGD2828",
@@ -8887,12 +8845,6 @@ const d = {
                     link: "https://youtu.be/iqscfKYA1-4?si=uIrZMcOpEH3-qls7",
                     percent: 100,
                     hz: "240hz"
-                },
-                {
-                    user: "NewJeans",
-                    link: "https://www.youtube.com/watch?v=ihXreJjg8rI",
-                    percent: 100,
-                    hz: "60hz"
                 },
             ],
             name: "Ditto",
