@@ -2732,6 +2732,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+                {
+                    user: "Joaxoxx04",
+                    link: "https://youtu.be/8noEf91FlvE",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "I Cant Stop Me",
             author: "Isma4Yoo & More [Isma4Yoo]",
@@ -3356,6 +3362,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+               {
+                    user: "Itz0pimy",
+                    link: "https://youtu.be/SCaHuu72vrk?si=VrnbTpbaC7dR_DVq",
+                    percent:100 ,
+                    hz: "60hz"
+                },
             ],
             name: "S M F",
             author: "Isma4Yoo & more [Sidci]",
@@ -4232,6 +4244,12 @@ const d = {
                     percent: 100,
                     hz: "240hz"
                 },
+                {
+                    user: "Joaxoxx04",
+                    link: "https://youtu.be/AaB2t5jbhh4",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "No Return",
             author: "issanagay",
@@ -4820,6 +4838,12 @@ const d = {
                     percent: 100,
                     hz: "144hz"
                 },
+                {
+                    user: "PiaNoMen",
+                    link: "https://youtu.be/DQjsZ0rRLRU?si=Oxc-xpkSygnqCSM2",
+                    percent: 100,
+                    hz: "144hz (mobile)"
+                },
             ],
             name: "Love Dive",
             author: "issanagay",
@@ -4849,6 +4873,12 @@ const d = {
                     link: "https://youtu.be/Cz_S3jyzG40?si=HZHmNpilwJPYYCtV",
                     percent: 100,
                     hz: "144hz (mobile)"
+                },
+                {
+                    user: "Joaxoxx04",
+                    link: "https://youtu.be/8noEf91FlvE",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "OMG",
@@ -5407,6 +5437,12 @@ const d = {
                     link: "https://youtu.be/VATiAKrSxxA",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "Joaxoxx04",
+                    link: "https://youtu.be/ldAy_3hUdys",
+                    percent: 100,
+                    hz: "360hz"
                 },
             ],
             name: "MAGO",
@@ -8538,6 +8574,12 @@ const d = {
                     user: "CleanGD2828",
                     link: "https://youtu.be/_ZSS8741L5w",
                     percent: 100,
+                    hz: "60hz"
+                },
+               {
+                    user: "Itz0pimy",
+                    link: "https://youtu.be/ewEWIWWSCSY?si=jHgc3oK6lrATsOXK",
+                    percent:100 ,
                     hz: "60hz"
                 },
             ],
