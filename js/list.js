@@ -5146,7 +5146,7 @@ const d = {
                 },
                 {
                     user: "changmun",
-                    link: "https://youtu.be/L7JB8ROgwmU?si=c2UomB7TB941EGq9",
+                    link: "https://www.youtube.com/watch?v=L7JB8ROgwmU",
                     percent: 100,
                     hz: "360hz"
                 },
