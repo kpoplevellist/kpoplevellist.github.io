@@ -5144,6 +5144,12 @@ const d = {
                     percent: 100,
                     hz: "120hz (mobile)"
                 },
+                {
+                    user: "changmun",
+                    link: "https://youtu.be/L7JB8ROgwmU?si=c2UomB7TB941EGq9",
+                    percent: 100,
+                    hz: "360hz"
+                },
             ],
             name: "Voyage",
             author: "Lino726",
