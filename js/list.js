@@ -5618,6 +5618,12 @@ const d = {
                     percent: 100,
                     hz: "120hz (mobile)"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/f53Ub9ZzFP8",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Ditto",
             author: "IgongDae & More [IgongDae]",
@@ -5863,6 +5869,12 @@ const d = {
                     link: "https://youtu.be/qkmDL1w7sLc",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/rt5n4eEJpio?si=VG9zc-TqjE61emah",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Period",
