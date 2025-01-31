@@ -3074,6 +3074,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/vFCNR35y5F4",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Teddy Bear",
             author: "nyakay",
@@ -4622,6 +4628,12 @@ const d = {
                     percent: 100,
                     hz: "240hz"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/paecx8GlVtU",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Shanghai Romance",
             author: "IgongDae",
@@ -4651,6 +4663,12 @@ const d = {
                     link: "https://youtu.be/PjbgaKVp5HU",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/4NrKG5QW9aM",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Above The Sky",
@@ -4904,6 +4922,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/pNtG1rh1GAs",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Teddy Bear",
             author: "Wohlwend",
@@ -5120,6 +5144,12 @@ const d = {
                     percent: 100,
                     hz: "60hz"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/oT-JvFMk21Y",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "MALATANGHULU",
             author: "CleanGD2828",
@@ -5143,6 +5173,12 @@ const d = {
                     link: "https://youtu.be/NsJ-CbhZavg",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/-QOrUaVWzvQ",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "supadopa",
@@ -5171,6 +5207,12 @@ const d = {
                 {
                     user: "changmun",
                     link: "https://www.youtube.com/watch?v=L7JB8ROgwmU",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "lim777",
+                    link: "https://youtu.be/IgmMi1X9AHc?si=I__pNMhDrWSgC1XN",
                     percent: 100,
                     hz: "360hz"
                 },
@@ -5731,6 +5773,12 @@ const d = {
                     link: "https://www.youtube.com/watch?v=5neCztxQAUk",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/alfQPBr-wWY",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Moonlight",
@@ -6686,6 +6734,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/qOOguho-OuU",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Blueming",
             author: "Langk",
@@ -7213,6 +7267,12 @@ const d = {
                     link: "https://youtu.be/RNf-NcWY6Mo",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/qOOguho-OuU",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "RUN2U",
