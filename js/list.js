@@ -5636,6 +5636,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Lino726",
+                    link: "https://youtu.be/00Wl6HUIxTo",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "The fifth season",
             author: "Changmun & More [Changmun]",
@@ -8431,6 +8437,12 @@ const d = {
                     link: "https://youtu.be/kqlSj0Cxwb0",
                     percent: 100,
                     hz: "60hz"
+                },
+                {
+                    user: "minjae0327",
+                    link: "https://youtu.be/H3u7UT-2qkM",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Apt",
