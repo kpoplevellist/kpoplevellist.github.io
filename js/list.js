@@ -3134,6 +3134,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/zpyUAKPzm9Q",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "OMG",
             author: "Mobile64",
@@ -3698,6 +3704,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/rMmXSxrmHYE",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "New Jeans",
             author: "JULKIO191",
@@ -5078,6 +5090,12 @@ const d = {
                     percent: 100,
                     hz: "165hz"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/yAT62mlbCIU",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Accendio",
             author: "issanagay",
@@ -5102,6 +5120,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/68mBhRXXvYY",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Ringo",
             author: "Rdrgz & More [Rdrgz]",
@@ -5125,6 +5149,12 @@ const d = {
                     link: "https://youtu.be/nAsaez6CSxI?si=pjqLxiN4UYNlSlp3",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/yAT62mlbCIU",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Pure Blood",
@@ -5168,6 +5198,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/evjfI5nKKjc",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Born To Be",
             author: "TeZVX, Isma4Yoo [TeZVX]",
@@ -5299,6 +5335,12 @@ const d = {
                     link: "https://youtu.be/IgmMi1X9AHc?si=I__pNMhDrWSgC1XN",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/MANErPgps8A",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "Voyage",
@@ -5725,6 +5767,12 @@ const d = {
                     link: "https://youtu.be/00Wl6HUIxTo",
                     percent: 100,
                     hz: "60hz"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/5-RCvP2mQlI",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "The fifth season",
