@@ -5048,12 +5048,6 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
-                {
-                    user: "HanJin",
-                    link: "https://www.youtube.com/watch?v=ZKZc-c0mZg4",
-                    percent: 100,
-                    hz: "240hz"
-                },
             ],
             name: "Rebel Heart",
             author: "IgongDae",
