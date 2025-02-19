@@ -5049,6 +5049,12 @@ const d = {
                     hz: "360hz"
                 },
                 {
+                    user: "HanJin",
+                    link: "https://youtu.be/ZKZc-c0mZg4",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
+                {
                     user: "Sweetdream",
                     link: "https://www.youtube.com/watch?v=m6os4V4qDKw",
                     percent: 100,
