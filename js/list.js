@@ -5048,6 +5048,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "Sweetdream",
+                    link: "https://www.youtube.com/watch?v=m6os4V4qDKw",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Rebel Heart",
             author: "IgongDae",
@@ -5240,6 +5246,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/6nTWUmDqjSw",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "kiss",
             author: "gbBladee",
@@ -5318,6 +5330,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/XplPGI7Ba2w",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "go back",
             author: "Y0on",
@@ -5755,6 +5773,12 @@ const d = {
                     link: "https://youtu.be/NnRkqJmlYMA",
                     percent: 100,
                     hz: "60hz (mobile)"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/1-NDw4TxuF4",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "AntiFragile",
@@ -6416,6 +6440,12 @@ const d = {
                     percent: 100,
                     hz: "360hz"
                 },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/A-sckgAKEUw",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Blue Heart",
             author: "issanagay",
@@ -6937,6 +6967,12 @@ const d = {
                     link: "https://www.youtube.com/watch?v=-wXUr0Vhvqs",
                     percent: 100,
                     hz: "360hz"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/aA2bSlxjbYs",
+                    percent: 100,
+                    hz: "240hz"
                 },
             ],
             name: "REBEL HEART",
@@ -7622,6 +7658,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/qJjMac9ragg",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "Teddy Bear",
             author: "Y0on",
