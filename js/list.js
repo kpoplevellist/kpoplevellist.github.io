@@ -6668,6 +6668,12 @@ const d = {
                     percent: 100,
                     hz: "240hz"
                 },
+                {
+                    user: "PiaNoMen",
+                    link: "https://youtu.be/S5lGD3Bxa2Y",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
             ],
             name: "Set Me Free",
             author: "issanagay",
