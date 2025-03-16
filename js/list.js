@@ -2493,7 +2493,7 @@ const d = {
             mapInfo: {
                 simpleExp: "Looking for you - 경서",
                 uploadDate: "2025.03.05",
-                verifingAtt: "비공개",
+                verifingAtt: "1046",
                 long: "3분 55초",
                 highest: "115758224",
                 more: "none",
