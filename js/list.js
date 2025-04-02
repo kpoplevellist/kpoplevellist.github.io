@@ -6500,7 +6500,7 @@ const d = {
                 more: "none",
             },
             percentToQualify: 69,
-            verificationVid: "https://www.youtube.com/watch?v=8XXX5-Prsc0",
+            verificationVid: "https://youtu.be/81HYbCzlht4?si=rFcoiB7LrmFBo6ce",
             key: 222
         },
         /*=================================================================================*/
@@ -7054,7 +7054,7 @@ const d = {
                 uploadDate: "2018.09.13",
                 verifingAtt: "비공개",
                 long: "1분 32초",
-                highest: "89065055",
+                highest: "75774282",
                 more: "none",
             },
             percentToQualify: 68,
@@ -7196,7 +7196,7 @@ const d = {
                 more: "none",
             },
             percentToQualify: 66,
-            verificationVid: "https://www.youtube.com/watch?v=FsSwsFLy0CI",
+            verificationVid: "https://youtu.be/nqyAjmBr_C8?si=l2g8GMBOb1kI58BQ",
             key: 241
         },
         /*=================================================================================*/
