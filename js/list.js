@@ -6758,104 +6758,26 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
-            ],
-            name: "H3Y4",
-            author: "CleanGD2828",
-            mapInfo: {
-                simpleExp: "HEYA - IVE",
-                uploadDate: "2024.06.05",
-                verifingAtt: "비공개",
-                long: "1분 41초",
-                highest: "106148108",
-                more: "none",
-            },
-            percentToQualify: 69,
-            verificationVid: "https://www.youtube.com/watch?v=x2HCtIWANV0",
-            key: 230
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "Mobile64",
-                    link: "https://youtu.be/ELfTvdFXZ9w",
-                    percent: 100,
-                    hz: "60hz (mobile)"
-                },
-                {
-                    user: "Sweetdream",
-                    link: "https://youtu.be/pXlye6kxTU0?si=ZlWmMBB_RTLyMrgg",
-                    percent: 100,
-                    hz: "144hz"
-                },
-                {
-                    user: "PiaNoMen",
-                    link: "https://youtu.be/irMTs6rvXcs?si=k1N8ohZ5GpeuOOqU",
-                    percent: 100,
-                    hz: "144hz (mobile)"
-                },
-                {
-                    user: "Korea7723",
-                    link: "https://youtu.be/gs9uz662Wxs?si=Ut1VyMjnw3nKT28n",
-                    percent: 100,
-                    hz: "360hz"
-                },
-                {
-                    user: "CleanGD2828",
-                    link: "https://m.youtube.com/watch?v=A7GKic3qwcs",
-                    percent: 100,
-                    hz: "120hz (mobile)"
-                },
-            ],
-            name: "I WANT",
-            author: "issanagay",
-            mapInfo: {
-                simpleExp: "I WANT - IVE",
-                uploadDate: "2023.07.15",
-                verifingAtt: "비공개",
-                long: "2분 59초",
-                highest: "92447964",
-                more: "none",
-            },
-            percentToQualify: 63,
-            verificationVid: "https://www.youtube.com/watch?v=1I-SmzqAqRk",
-            key: 231
-        },
-        /*=================================================================================*/
-        {
-            vids: [
                 {
                     user: "IgongDae",
-                    link: "https://youtu.be/6_J_oi-yCI0",
+                    link: "https://youtu.be/k_-HYZbYr_c",
                     percent: 100,
                     hz: "360hz"
                 },
-                {
-                    user: "Sweetdream",
-                    link: "https://www.youtube.com/watch?v=q_47DqTe3kI",
-                    percent: 100,
-                    hz: "240hz"
-                },
-                {
-                    user: "Mobile64",
-                    link: "https://youtu.be/obwNcAgl8I0",
-                    percent: 100,
-                    hz: "60hz (mobile)"
-                },
             ],
-            name: "Deja Vu",
-            author: "23138185 [JRain]",
+            name: "Doughnut",
+            author: "Sidci, IFlush [Sidci]",
             mapInfo: {
-                simpleExp: "Deja Vu - DreamCatcher",
-                uploadDate: "2022.12.21",
-                verifingAtt: "181",
-                long: "0분 50초",
-                highest: "86734903",
-                more: "none",
+                simpleExp: "Doughnut - Twice",
+                uploadDate: "2022.12.26",
+                verifingAtt: "비공개",
+                long: "1분 4초",
+                highest: "87086992",
+                more: "Sidci, IFlush",
             },
-            percentToQualify: 66,
-            verificationVid: "https://www.youtube.com/watch?v=WFzmD_G4d2E",
-            key: 232
+            percentToQualify: 71,
+            verificationVid: "https://www.youtube.com/watch?v=7XaWpkjfDO0",
+            key: 230
         },
         /*=================================================================================*/
         {
@@ -6879,7 +6801,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=SJiJlLFeiqM",
-            key: 233
+            key: 231
         },
         /*=================================================================================*/
         {
@@ -6975,7 +6897,169 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=yhSUOuWBnXs",
+            key: 232
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/6_J_oi-yCI0",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "Sweetdream",
+                    link: "https://www.youtube.com/watch?v=q_47DqTe3kI",
+                    percent: 100,
+                    hz: "240hz"
+                },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/obwNcAgl8I0",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
+            ],
+            name: "Deja Vu",
+            author: "23138185 [JRain]",
+            mapInfo: {
+                simpleExp: "Deja Vu - DreamCatcher",
+                uploadDate: "2022.12.21",
+                verifingAtt: "181",
+                long: "0분 50초",
+                highest: "86734903",
+                more: "none",
+            },
+            percentToQualify: 66,
+            verificationVid: "https://www.youtube.com/watch?v=WFzmD_G4d2E",
+            key: 233
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/5Io-twGM82A",
+                    percent: 100,
+                    hz: "360hz"
+                },
+            ],
+            name: "Fever",
+            author: "lolbito",
+            mapInfo: {
+                simpleExp: "Fever - Enhypen",
+                uploadDate: "2022.02.25",
+                verifingAtt: "비공개",
+                long: "2분 48초",
+                highest: "78364480",
+                more: "none",
+            },
+            percentToQualify: 67,
+            verificationVid: "https://www.youtube.com/watch?v=u5vIva8zMLg",
             key: 234
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/ELfTvdFXZ9w",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
+                {
+                    user: "Sweetdream",
+                    link: "https://youtu.be/pXlye6kxTU0?si=ZlWmMBB_RTLyMrgg",
+                    percent: 100,
+                    hz: "144hz"
+                },
+                {
+                    user: "PiaNoMen",
+                    link: "https://youtu.be/irMTs6rvXcs?si=k1N8ohZ5GpeuOOqU",
+                    percent: 100,
+                    hz: "144hz (mobile)"
+                },
+                {
+                    user: "Korea7723",
+                    link: "https://youtu.be/gs9uz662Wxs?si=Ut1VyMjnw3nKT28n",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "CleanGD2828",
+                    link: "https://m.youtube.com/watch?v=A7GKic3qwcs",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
+            ],
+            name: "I WANT",
+            author: "issanagay",
+            mapInfo: {
+                simpleExp: "I WANT - IVE",
+                uploadDate: "2023.07.15",
+                verifingAtt: "비공개",
+                long: "2분 59초",
+                highest: "92447964",
+                more: "none",
+            },
+            percentToQualify: 63,
+            verificationVid: "https://www.youtube.com/watch?v=1I-SmzqAqRk",
+            key: 235
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/FeAc4XnwdnU",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/XW6NXgf61GE",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
+            ],
+            name: "counting star",
+            author: "Raintria",
+            mapInfo: {
+                simpleExp: "Counting Stars - BE'O (feat. 빈지노)",
+                uploadDate: "2021.11.23",
+                verifingAtt: "비공개",
+                long: "1분 1초",
+                highest: "75977069",
+                more: "none",
+            },
+            percentToQualify: 66,
+            verificationVid: "https://www.youtube.com/watch?v=Fg236_-veog",
+            key: 236
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "IgongDae",
+                    link: "https://youtu.be/Ggko4NcvOsU",
+                    percent: 100,
+                    hz: "120hz"
+                },
+            ],
+            name: "Adios",
+            author: "IIDoManGII",
+            mapInfo: {
+                simpleExp: "Adios - Everglow",
+                uploadDate: "2018.09.13",
+                verifingAtt: "비공개",
+                long: "1분 32초",
+                highest: "89065055",
+                more: "none",
+            },
+            percentToQualify: 68,
+            verificationVid: "https://www.youtube.com/watch?v=P87Ondr_3Ko",
+            key: 237
         },
         /*=================================================================================*/
         {
@@ -6993,49 +7077,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=E_Rrn6KJzmo",
-            key: 235
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "CleanGD2828",
-                    link: "https://youtu.be/i67XEJeGlpI?si=iho_kOcZhbA36_Ty",
-                    percent: 100,
-                    hz: "90hz (mobile)"
-                },
-                {
-                    user: "PiaNoMen",
-                    link: "https://youtu.be/9wNeSR54EgU?si=mpn4qMlEwwOyBiJd",
-                    percent: 100,
-                    hz: "120hz (mobile)"
-                },
-                {
-                    user: "changmun",
-                    link: "https://www.youtube.com/watch?v=-wXUr0Vhvqs",
-                    percent: 100,
-                    hz: "360hz"
-                },
-                {
-                    user: "HanJin",
-                    link: "https://youtu.be/aA2bSlxjbYs",
-                    percent: 100,
-                    hz: "240hz"
-                },
-            ],
-            name: "REBEL HEART",
-            author: "issanagay",
-            mapInfo: {
-                simpleExp: "REBEL HEART - IVE",
-                uploadDate: "2025.02.15",
-                verifingAtt: "비공개",
-                long: "1분 19초",
-                highest: "115123428",
-                more: "none",
-            },
-            percentToQualify: 71,
-            verificationVid: "https://www.youtube.com/watch?v=TK0-HRr2Aco",
-            key: 236
+            key: 238
         },
         /*=================================================================================*/
         {
@@ -7065,127 +7107,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=68YAR0AvdTg",
-            key: 237
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "CleanGD2828",
-                    link: "https://m.youtube.com/watch?v=mPbaXvj56ik",
-                    percent: 100,
-                    hz: "120hz (mobile)"
-                },
-            ],
-            name: "Up",
-            author: "issanagay",
-            mapInfo: {
-                simpleExp: "하늘 위로 - IZ*ONE",
-                uploadDate: "2023.11.12",
-                verifingAtt: "비공개",
-                long: "1분 23초",
-                highest: "96411117",
-                more: "none",
-            },
-            percentToQualify: 68,
-            verificationVid: "https://www.youtube.com/watch?v=Ja2-VPxqNN0",
-            key: 238
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "I M A G P",
-            author: "CleanGD2828",
-            mapInfo: {
-                simpleExp: "좋은 사람 있으면 소개시켜줘 - JOY",
-                uploadDate: "2023.10.07",
-                verifingAtt: "비공개",
-                long: "3분 0초",
-                highest: "95190570",
-                more: "none",
-            },
-            percentToQualify: 72,
-            verificationVid: "https://www.youtube.com/watch?v=PrdVsfDHLCk",
             key: 239
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "IgongDae",
-                    link: "https://youtu.be/3jNXZFGzbDE",
-                    percent: 100,
-                    hz: "360hz"
-                },
-                {
-                    user: "CleanGD2828",
-                    link: "https://m.youtube.com/watch?v=Qpc4BsWLCQs",
-                    percent: 100,
-                    hz: "60hz (mobile)"
-                },
-            ],
-            name: "One",
-            author: "Sweetdream",
-            mapInfo: {
-                simpleExp: "One - GFRIEND",
-                uploadDate: "2023.01.18",
-                verifingAtt: "98",
-                long: "1분 21초",
-                highest: "87861687",
-                more: "none",
-            },
-            percentToQualify: 72,
-            verificationVid: "https://www.youtube.com/watch?v=s7gDIxS0vUw",
-            key: 240
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "IgongDae",
-                    link: "https://youtu.be/k_-HYZbYr_c",
-                    percent: 100,
-                    hz: "360hz"
-                },
-            ],
-            name: "Doughnut",
-            author: "Sidci, IFlush [Sidci]",
-            mapInfo: {
-                simpleExp: "Doughnut - Twice",
-                uploadDate: "2022.12.26",
-                verifingAtt: "비공개",
-                long: "1분 4초",
-                highest: "87086992",
-                more: "Sidci, IFlush",
-            },
-            percentToQualify: 71,
-            verificationVid: "https://www.youtube.com/watch?v=7XaWpkjfDO0",
-            key: 241
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "IgongDae",
-                    link: "https://youtu.be/5Io-twGM82A",
-                    percent: 100,
-                    hz: "360hz"
-                },
-            ],
-            name: "Fever",
-            author: "lolbito",
-            mapInfo: {
-                simpleExp: "Fever - Enhypen",
-                uploadDate: "2022.02.25",
-                verifingAtt: "비공개",
-                long: "2분 48초",
-                highest: "78364480",
-                more: "none",
-            },
-            percentToQualify: 67,
-            verificationVid: "https://www.youtube.com/watch?v=u5vIva8zMLg",
-            key: 242
         },
         /*=================================================================================*/
         {
@@ -7245,61 +7167,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=9YvpHZn-UOQ",
-            key: 243
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "IgongDae",
-                    link: "https://youtu.be/Ggko4NcvOsU",
-                    percent: 100,
-                    hz: "120hz"
-                },
-            ],
-            name: "Adios",
-            author: "IIDoManGII",
-            mapInfo: {
-                simpleExp: "Adios - Everglow",
-                uploadDate: "2018.09.13",
-                verifingAtt: "비공개",
-                long: "1분 32초",
-                highest: "89065055",
-                more: "none",
-            },
-            percentToQualify: 68,
-            verificationVid: "https://www.youtube.com/watch?v=P87Ondr_3Ko",
-            key: 244
-        },
-        /*=================================================================================*/
-        {
-            vids: [
-                {
-                    user: "IgongDae",
-                    link: "https://youtu.be/FeAc4XnwdnU",
-                    percent: 100,
-                    hz: "360hz"
-                },
-                {
-                    user: "Mobile64",
-                    link: "https://youtu.be/XW6NXgf61GE",
-                    percent: 100,
-                    hz: "60hz (mobile)"
-                },
-            ],
-            name: "counting star",
-            author: "Raintria",
-            mapInfo: {
-                simpleExp: "Counting Stars - BE'O (feat. 빈지노)",
-                uploadDate: "2021.11.23",
-                verifingAtt: "비공개",
-                long: "1분 1초",
-                highest: "75977069",
-                more: "none",
-            },
-            percentToQualify: 66,
-            verificationVid: "https://www.youtube.com/watch?v=Fg236_-veog",
-            key: 245
+            key: 240
         },
         /*=================================================================================*/
         {
@@ -7329,7 +7197,31 @@ const d = {
             },
             percentToQualify: 66,
             verificationVid: "https://www.youtube.com/watch?v=FsSwsFLy0CI",
-            key: 246
+            key: 241
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "CleanGD2828",
+                    link: "https://m.youtube.com/watch?v=mPbaXvj56ik",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
+            ],
+            name: "Up",
+            author: "issanagay",
+            mapInfo: {
+                simpleExp: "하늘 위로 - IZ*ONE",
+                uploadDate: "2023.11.12",
+                verifingAtt: "비공개",
+                long: "1분 23초",
+                highest: "96411117",
+                more: "none",
+            },
+            percentToQualify: 68,
+            verificationVid: "https://www.youtube.com/watch?v=Ja2-VPxqNN0",
+            key: 242
         },
         /*=================================================================================*/
         {
@@ -7371,7 +7263,49 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=KcoIwLCdsx0",
-            key: 247
+            key: 243
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "H3Y4",
+            author: "CleanGD2828",
+            mapInfo: {
+                simpleExp: "HEYA - IVE",
+                uploadDate: "2024.06.05",
+                verifingAtt: "비공개",
+                long: "1분 41초",
+                highest: "106148108",
+                more: "none",
+            },
+            percentToQualify: 69,
+            verificationVid: "https://www.youtube.com/watch?v=x2HCtIWANV0",
+            key: 244
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "Mobile64",
+                    link: "https://youtu.be/u3Cs9IL1VsI?si=GZ3znbe2d1nr-xIu",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
+            ],
+            name: "LiaR",
+            author: "CleanGD2828",
+            mapInfo: {
+                simpleExp: "Liar - Roa",
+                uploadDate: "2023.12.19",
+                verifingAtt: "비공개",
+                long: "0분 56초",
+                highest: "97436651",
+                more: "none",
+            },
+            percentToQualify: 68,
+            verificationVid: "https://www.youtube.com/watch?v=YOWRFmEJUn8",
+            key: 245
         },
         /*=================================================================================*/
         {
@@ -7407,30 +7341,96 @@ const d = {
             },
             percentToQualify: 72,
             verificationVid: "https://www.youtube.com/watch?v=WBkHrSAStf0",
+            key: 246
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+                {
+                    user: "CleanGD2828",
+                    link: "https://youtu.be/i67XEJeGlpI?si=iho_kOcZhbA36_Ty",
+                    percent: 100,
+                    hz: "90hz (mobile)"
+                },
+                {
+                    user: "PiaNoMen",
+                    link: "https://youtu.be/9wNeSR54EgU?si=mpn4qMlEwwOyBiJd",
+                    percent: 100,
+                    hz: "120hz (mobile)"
+                },
+                {
+                    user: "changmun",
+                    link: "https://www.youtube.com/watch?v=-wXUr0Vhvqs",
+                    percent: 100,
+                    hz: "360hz"
+                },
+                {
+                    user: "HanJin",
+                    link: "https://youtu.be/aA2bSlxjbYs",
+                    percent: 100,
+                    hz: "240hz"
+                },
+            ],
+            name: "REBEL HEART",
+            author: "issanagay",
+            mapInfo: {
+                simpleExp: "REBEL HEART - IVE",
+                uploadDate: "2025.02.15",
+                verifingAtt: "비공개",
+                long: "1분 19초",
+                highest: "115123428",
+                more: "none",
+            },
+            percentToQualify: 71,
+            verificationVid: "https://www.youtube.com/watch?v=TK0-HRr2Aco",
+            key: 247
+        },
+        /*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "I M A G P",
+            author: "CleanGD2828",
+            mapInfo: {
+                simpleExp: "좋은 사람 있으면 소개시켜줘 - JOY",
+                uploadDate: "2023.10.07",
+                verifingAtt: "비공개",
+                long: "3분 0초",
+                highest: "95190570",
+                more: "none",
+            },
+            percentToQualify: 72,
+            verificationVid: "https://www.youtube.com/watch?v=PrdVsfDHLCk",
             key: 248
         },
         /*=================================================================================*/
         {
             vids: [
                 {
-                    user: "Mobile64",
-                    link: "https://youtu.be/u3Cs9IL1VsI?si=GZ3znbe2d1nr-xIu",
+                    user: "IgongDae",
+                    link: "https://youtu.be/3jNXZFGzbDE",
                     percent: 100,
-                    hz: "120hz (mobile)"
+                    hz: "360hz"
+                },
+                {
+                    user: "CleanGD2828",
+                    link: "https://m.youtube.com/watch?v=Qpc4BsWLCQs",
+                    percent: 100,
+                    hz: "60hz (mobile)"
                 },
             ],
-            name: "LiaR",
-            author: "CleanGD2828",
+            name: "One",
+            author: "Sweetdream",
             mapInfo: {
-                simpleExp: "Liar - Roa",
-                uploadDate: "2023.12.19",
-                verifingAtt: "비공개",
-                long: "0분 56초",
-                highest: "97436651",
+                simpleExp: "One - GFRIEND",
+                uploadDate: "2023.01.18",
+                verifingAtt: "98",
+                long: "1분 21초",
+                highest: "87861687",
                 more: "none",
             },
-            percentToQualify: 68,
-            verificationVid: "https://www.youtube.com/watch?v=YOWRFmEJUn8",
+            percentToQualify: 72,
+            verificationVid: "https://www.youtube.com/watch?v=s7gDIxS0vUw",
             key: 249
         },
         /*=================================================================================*/
