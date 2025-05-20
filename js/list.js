@@ -1197,7 +1197,7 @@ const d = {
                 more: "none",
             },
             percentToQualify: 61,
-            verificationVid: "https://youtu.be/ng75qIjT7FA",
+            verificationVid: "https://www.youtube.com/watch?v=ng75qIjT7FA",
             key: 46
         },
 
@@ -1882,7 +1882,7 @@ const d = {
                 more: "none",
             },
             percentToQualify: 63,
-            verificationVid: "https://youtu.be/M5T5yeSLWtQ",
+            verificationVid: "https://www.youtube.com/watch?v=M5T5yeSLWtQ",
             key: 73
         },
         /*=================================================================================*/
