@@ -6207,6 +6207,12 @@ const d = {
                     percent: 100,
                     hz: "60hz (mobile)"
                 },
+		{
+                    user: "issanagay",
+                    link: "https://youtu.be/JSmh63ad8hA?si=yIEDH4AzpZF-rpW9",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
             ],
             name: "Either way",
             author: "Mobile64",
