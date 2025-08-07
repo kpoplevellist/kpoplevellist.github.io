@@ -1085,7 +1085,7 @@ const d = {
             vids: [
             ],
             name: "Season of Memories",
-            author: "changmun & More",
+            author: "changmun & More [changmun]",
             mapInfo: {
                 simpleExp: "우리의 다정한 계절 속에 - GFRIEND",
                 uploadDate: "2025.7.31",
@@ -10108,3 +10108,4 @@ const d = {
 };
 var list = d.list;
 const version = d.version;
+
