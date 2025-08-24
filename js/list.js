@@ -5435,7 +5435,7 @@ const d = {
                 },
 				{
                     user: "Lino726",
-                    link: "https://youtu.be/X4eMFBpevcl",
+                    link: "https://youtu.be/X4eMFBpevcI",
                     percent: 100,
                     hz: "60hz"
                 },
@@ -10114,4 +10114,5 @@ const d = {
 };
 var list = d.list;
 const version = d.version;
+
 
