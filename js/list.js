@@ -5433,6 +5433,12 @@ const d = {
                     percent: 100,
                     hz: "240hz"
                 },
+				{
+                    user: "Lino726",
+                    link: "https://youtu.be/X4eMFBpevcl",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "supadopa",
             author: "Y0on",
