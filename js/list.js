@@ -4452,24 +4452,6 @@ const d = {
             verificationVid: "https://www.youtube.com/watch?v=xlVqK-i6MHQ",
             key: 161
         },
-		/*=================================================================================*/
-        {
-            vids: [
-            ],
-            name: "Love wins all",
-            author: "issanagay",
-            mapInfo: {
-                simpleExp: "Love wins all - IU",
-                uploadDate: "2025.08.07",
-                verifingAtt: "비공개",
-                long: "4분 37초",
-                highest: "125676671",
-                more: "none",
-            },
-            percentToQualify: 53,
-            verificationVid: "https://www.youtube.com/watch?v=zoAyvRochOY",
-            key: 162
-        },
         /*=================================================================================*/
         {
             vids: [
@@ -4498,6 +4480,24 @@ const d = {
             },
             percentToQualify: 35,
             verificationVid: "https://www.youtube.com/watch?v=glsRkSSZnIo",
+            key: 162
+        },
+		/*=================================================================================*/
+        {
+            vids: [
+            ],
+            name: "Love wins all",
+            author: "issanagay",
+            mapInfo: {
+                simpleExp: "Love wins all - IU",
+                uploadDate: "2025.08.07",
+                verifingAtt: "비공개",
+                long: "4분 37초",
+                highest: "125676671",
+                more: "none",
+            },
+            percentToQualify: 53,
+            verificationVid: "https://www.youtube.com/watch?v=zoAyvRochOY",
             key: 163
         },
         /*=================================================================================*/
@@ -10186,6 +10186,7 @@ const d = {
 };
 var list = d.list;
 const version = d.version;
+
 
 
 
