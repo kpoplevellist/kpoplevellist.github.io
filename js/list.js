@@ -7351,8 +7351,7 @@ const d = {
             name: "Lent Cat",
             author: "Trickcalrevibe",
             mapInfo: {
-                simpleExp: "빌려온 고양이
-(Do the Dance) - ILLIT",
+                simpleExp: "빌려온 고양이(Do the Dance) - ILLIT",
                 uploadDate: "2025.10.12",
                 verifingAtt: "비공개",
                 long: "1분 17초",
@@ -10278,6 +10277,7 @@ const d = {
 };
 var list = d.list;
 const version = d.version;
+
 
 
 
