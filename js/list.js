@@ -7370,7 +7370,7 @@ const d = {
             name: "Rollin",
             author: "Trickcalrevibe",
             mapInfo: {
-                simpleExp: "롤린 (Rollin') - BraveGirls",
+                simpleExp: "롤린 (Rollin) - BraveGirls",
                 uploadDate: "2025.10.12",
                 verifingAtt: "비공개",
                 long: "1분 8초",
@@ -10278,6 +10278,7 @@ const d = {
 };
 var list = d.list;
 const version = d.version;
+
 
 
 
