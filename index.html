@@ -288,7 +288,7 @@ $("<div>").html(`<div class="list">검색 : <input id="search" type="text"></div
 
 for (i = 0; i < list.length; i++) {
     var entry = list[i];
-    $("<div>").addClass("entry").html(`<div class="list" id="list${i+1}" onMouseOver="this.style.backgroundColor='rgba(163, 163, 163, 0.6)'" onMouseOut="this.style.backgroundColor=''">${i+1 > 300 ? "" : "#"+(i+1)+" "}${entry.name}<br><em class="list_author">${entry.author}</em></div>`).data('order', i + 1).appendTo($("#demonlist"));
+    $("<div>").addClass("entry").html(`<div class="list" id="list${i+1}" onMouseOver="this.style.backgroundColor='rgba(163, 163, 163, 0.6)'" onMouseOut="this.style.backgroundColor=''">${i+1 > 200 ? "" : "#"+(i+1)+" "}${entry.name}<br><em class="list_author">${entry.author}</em></div>`).data('order', i + 1).appendTo($("#demonlist"));
 }
 
 var res = function() {
@@ -471,7 +471,7 @@ $("#search").on("propertychange change keyup paste input", function() {
         var more = entry.mapInfo.more.toString().toLowerCase();
         if ((name.includes(text) == true || author.includes(text) == true || more.includes(text)) == true || currentVal.toString() == "") {
             y = y + 1;
-            $("<div>").addClass(i + 1 != select ? "entry" : "entry selected").html(`<div class="list" id="list${i+1}" onMouseOver="this.style.backgroundColor='rgba(163, 163, 163, 0.6)'" onMouseOut="this.style.backgroundColor=''">${i+1 > 300 ? "" : "#"+(i+1)+" "} ${entry.name}<br><em class="list_author">${entry.author}</em></div>`).data('order', i + 1).appendTo($("#demonlist"));
+            $("<div>").addClass(i + 1 != select ? "entry" : "entry selected").html(`<div class="list" id="list${i+1}" onMouseOver="this.style.backgroundColor='rgba(163, 163, 163, 0.6)'" onMouseOut="this.style.backgroundColor=''">${i+1 > 200 ? "" : "#"+(i+1)+" "} ${entry.name}<br><em class="list_author">${entry.author}</em></div>`).data('order', i + 1).appendTo($("#demonlist"));
         }
     }
 });
@@ -615,5 +615,6 @@ $(document).on("click", "#popup-up-close", function() {
 </script>
 
 </html>
+
 
 
