@@ -64,7 +64,7 @@ userData.sort(function(a,b) {
 
 function getPoint(rank, percent, cutline, hz) {
   var hzpoint = 1.0;
-  if (rank > 300) {
+  if (rank > 200) {
     var score = roundNumber(((percent - (cutline-1))/(100 - (cutline-1))), 3);
     if (percent != 100) {
       return roundNumber(score - (score/3), 3);
@@ -116,4 +116,5 @@ function getTrophy(rank) {
       return "red_trophy.png";
     }
 }
+
 
