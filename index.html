@@ -161,7 +161,7 @@ list.sort(function(a, b) {
         if (a.legacyKey == null) {
             arank = list.length + a.unlist;
         }
-        arank = 300 + (legacy_count - a.legacyKey);
+        arank = 200 + (legacy_count - a.legacyKey);
     } else {
         arank = (a.key) + 1;
     }
@@ -170,7 +170,7 @@ list.sort(function(a, b) {
         if (b.legacyKey == null) {
             brank = list.length + b.unlist;
         }
-        brank = 300 + (legacy_count - b.legacyKey);
+        brank = 200 + (legacy_count - b.legacyKey);
     } else {
         brank = (b.key) + 1;
     }
@@ -184,7 +184,7 @@ function getAuthors(rank) {
 
 function load(num) {
     $("#map").animate({ "opacity": "0.0" }, 0);
-    $("#map").animate({ "opacity": "1.0" }, 300);
+    $("#map").animate({ "opacity": "1.0" }, 200);
     $('body,html').animate({ scrollTop: 0 }, 200);
     $('.entry').removeClass('selected');
     $("#list" + (select)).removeClass('selected');
@@ -280,7 +280,7 @@ function load(num) {
 
 load(0);
 $("#more").animate({ "opacity": "0.0" }, 0);
-$("#more").animate({ "opacity": "1.0" }, 300);
+$("#more").animate({ "opacity": "1.0" }, 200);
 
 $("<div>").addClass("entry selected").html(`<div class="list" id="list0" onMouseOver="this.style.backgroundColor='rgba(163, 163, 163, 0.6)'" onMouseOut="this.style.backgroundColor=''">홈</div>`).data('order', 0).appendTo($("#menu"));
 $("<div>").addClass("entry").html(`<div class="list" id="list-2" onMouseOver="this.style.backgroundColor='rgba(163, 163, 163, 0.6)'" onMouseOut="this.style.backgroundColor=''">도움말</div>`).data('second-order', -2).appendTo($("#menu"));
@@ -320,10 +320,10 @@ $(document).ready(function() {
     $("#side_button").bind("click", function() {
         if (menu_flag) {
             $("#side").fadeOut();
-            $("#side").animate({ "left": "-700px" }, 300);
+            $("#side").animate({ "left": "-700px" }, 200);
             menu_flag = false;
         } else {
-            $("#side").animate({ "left": "0px" }, 300);
+            $("#side").animate({ "left": "0px" }, 200);
             $("#side").fadeIn();
             menu_flag = true;
         }
@@ -615,3 +615,4 @@ $(document).on("click", "#popup-up-close", function() {
 </script>
 
 </html>
+
