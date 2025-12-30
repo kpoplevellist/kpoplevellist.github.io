@@ -72,7 +72,7 @@ function getPoint(rank, percent, cutline, hz) {
       return score;
     }
   } else {
-      var score = roundNumber(((3/(((rank-1) / 305) + 1.302775)) - 1.302775)*100*((percent - (cutline-1))/(100 - (cutline-1))), 3);
+      var score = roundNumber(((2/(((rank-1) / 305) + 1.302775)) - 1.302775)*100*((percent - (cutline-1))/(100 - (cutline-1))), 3);
       if (percent != 100) {
         return roundNumber(score - (score/3), 3);
       } else {
@@ -116,5 +116,6 @@ function getTrophy(rank) {
       return "red_trophy.png";
     }
 }
+
 
 
