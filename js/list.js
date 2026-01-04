@@ -4887,12 +4887,24 @@ const d = {
         /*=================================================================================*/
 		{
             vids: [
+				{
+                    user: "issanagay",
+                    link: "https://www.youtube.com/watch?v=lv12tlnRNN0",
+                    percent: 100,
+                    hz: "60hz (mobile)"
+                },
+				{
+                    user: "Korea7723",
+                    link: "https://www.youtube.com/watch?v=oj3oHNpb4LQ",
+                    percent: 100,
+                    hz: "240hz"
+                }
             ],
             name: "I AM",
             author: "TeamIVE",
             mapInfo: {
                 simpleExp: "I AM - IVE",
-                uploadDate: "2025.10.19",
+                uploadDate: "2025.10.07",
                 verifingAtt: "비공개",
                 long: "3분 1초",
                 highest: "126790509",
@@ -10313,6 +10325,7 @@ const d = {
 };
 var list = d.list;
 const version = d.version;
+
 
 
 
