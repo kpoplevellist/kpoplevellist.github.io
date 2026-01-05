@@ -8833,6 +8833,24 @@ const d = {
             key: 296
         },
         /*=================================================================================*/
+		   {
+            vids: [
+            ],
+            name: "white memories",
+            author: "BJH7723",
+            mapInfo: {
+                simpleExp: "White Memories - fromis_9",
+                uploadDate: "2025.12.25",
+                verifingAtt: "비공개",
+                long: "1분 26초",
+                highest: "130063537",
+                more: "none",
+            },
+            percentToQualify: 60,
+            verificationVid: "https://www.youtube.com/watch?v=j7-a0iRFh88",
+            key: 297
+        },
+        /*=================================================================================*/
         {
             vids: [
                {
@@ -8872,7 +8890,7 @@ const d = {
             },
             percentToQualify: 79,
             verificationVid: "https://www.youtube.com/watch?v=Nby0gJZ-Mm0",
-            key: 297
+            key: 298
         },
         /*=================================================================================*/
         {
@@ -8896,7 +8914,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=E_ks9vfYnRo",
-            key: 298
+            key: 299
         },
         /*=================================================================================*/
 		{
@@ -8914,7 +8932,7 @@ const d = {
             },
             percentToQualify: 64,
             verificationVid: "https://www.youtube.com/watch?v=l5d2dQvGvbY",
-            key: 299
+            key: 300
         },
         /*=================================================================================*/
 
@@ -8939,7 +8957,7 @@ const d = {
             },
             percentToQualify: 68,
             verificationVid: "https://www.youtube.com/watch?v=tjm87lEn5YE",
-            key: 300
+            key: 301
         },
         /*=================================================================================*/
         {
@@ -8963,7 +8981,7 @@ const d = {
             },
             percentToQualify: 70,
             verificationVid: "https://www.youtube.com/watch?v=GwuaQym26fk",
-            key: 301
+            key: 302
         },
         /*=================================================================================*/
         {
@@ -8987,7 +9005,7 @@ const d = {
             },
             percentToQualify: 75,
             verificationVid: "https://www.youtube.com/watch?v=l2p4-wqFxkQ",
-            key: 302
+            key: 303
         },
         /*=================================================================================*/
         {
@@ -9011,7 +9029,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=5jUH6P56jHI",
-            key: 303
+            key: 304
         },
         /*=================================================================================*/
         {
@@ -9041,7 +9059,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=EMeSldNPJrk",
-            key: 304
+            key: 305
         },
         /*=================================================================================*/
         {
@@ -9065,7 +9083,7 @@ const d = {
             },
             percentToQualify: 76,
             verificationVid: "https://www.youtube.com/watch?v=azdQm4Y0w6Q",
-            key: 305
+            key: 306
         },
         /*=================================================================================*/
         {
@@ -9089,7 +9107,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=W6zMUSyqjGw",
-            key: 306
+            key: 307
         },
         /*=================================================================================*/
         {
@@ -9131,7 +9149,7 @@ const d = {
             },
             percentToQualify: 73,
             verificationVid: "https://www.youtube.com/watch?v=jwcr79DXIB0",
-            key: 307
+            key: 308
         },
         /*=================================================================================*/
         {
@@ -9155,7 +9173,7 @@ const d = {
             },
             percentToQualify: 74,
             verificationVid: "https://www.youtube.com/watch?v=TcgFuR4rLJc",
-            key: 308
+            key: 309
         },
         /*=================================================================================*/
         {
@@ -9179,7 +9197,7 @@ const d = {
             },
             percentToQualify: 78,
             verificationVid: "https://www.youtube.com/watch?v=P3dYPtbg4aQ",
-            key: 309
+            key: 310
         },
         /*=================================================================================*/
         {
