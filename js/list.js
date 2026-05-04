@@ -4503,6 +4503,12 @@ const d = {
 		/*=================================================================================*/
         {
             vids: [
+				{
+                    user: "Lino726",
+                    link: "https://youtu.be/5OiFR8plkRM",
+                    percent: 100,
+                    hz: "60hz"
+                },
             ],
             name: "Love wins all",
             author: "issanagay",
@@ -5175,6 +5181,12 @@ const d = {
         /*=================================================================================*/
         {
             vids: [
+				{
+                    user: "Lino726",
+                    link: "https://youtu.be/dqV0qruGr-o",
+                    percent: 100,
+                    hz: "60hz"
+                },
                 {
                     user: "Mobile64",
                     link: "https://youtu.be/U5fHFWFwmzY",
@@ -8835,6 +8847,12 @@ const d = {
 		/*=================================================================================*/
         {
             vids: [
+				{
+                    user: "PiaNoMen",
+                    link: "https://youtu.be/g-eMCbcUetg",
+                    percent: 100,
+                    hz: "144hz(mobile)"
+                },
             ],
             name: "Golden",
             author: "issanagay",
