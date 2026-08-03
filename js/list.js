@@ -8184,7 +8184,7 @@ const d = {
             vids: [
             ],
             name: "Crazy",
-            author: "Koishite",
+            author: "notKoishite",
             mapInfo: {
                 simpleExp: "CRAZY - Le Sserafim",
                 uploadDate: "2026.08.04",
