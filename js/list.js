@@ -6916,6 +6916,14 @@ const d = {
         {
             vids: [
                 {
+                    user: "CleanGD2828",
+                    link: "https://youtu.be/2ZYeExbPjR0?si=CmKUvHsWrRhnOCLx",
+                    percent: 100,
+                    hz: "90hz"
+                },
+				{
+            vids: [
+                {
                     user: "IgongDae",
                     link: "https://youtu.be/aiB4-p3f2zQ",
                     percent: 100,
