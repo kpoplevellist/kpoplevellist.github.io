@@ -1296,7 +1296,7 @@ const d = {
             vids: [
             ],
             name: "DKBK",
-            author: "changmun and more Verified by Lino726",
+            author: "changmun and more [Lino726]",
             mapInfo: {
                 simpleExp: "DKBK - DORIDORI FRIENDS",
                 uploadDate: "2026.08.04",
