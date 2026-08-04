@@ -6980,7 +6980,6 @@ const d = {
                     percent: 100,
                     hz: "90hz"
                 },
-				{
             vids: [
                 {
                     user: "IgongDae",
