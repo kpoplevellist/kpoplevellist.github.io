@@ -1294,6 +1294,12 @@ const d = {
         /*=================================================================================*/
 		{
             vids: [
+				{
+                    user: "Acu83",
+                    link: "https://youtu.be/LBheY8NAhQU",
+                    percent: 100,
+                    hz: "240hz"
+                },
             ],
             name: "DKBK",
             author: "changmun and more [Lino726]",
@@ -4353,6 +4359,12 @@ const d = {
 		 /*=================================================================================*/
         {
             vids: [
+				{
+                    user: "PiaNoMen",
+                    link: "https://youtu.be/83qbPHkp8Uk",
+                    percent: 100,
+                    hz: "144hz (mobile)"
+                },
             ],
             name: "XOXZ",
             author: "issanagay",
@@ -9156,6 +9168,12 @@ const d = {
                 {
                     user: "VeeP3rm",
                     link: "https://youtu.be/SioX4vBVKAY",
+                    percent: 100,
+                    hz: "240hz"
+                },
+				 {
+                    user: "Lino726",
+                    link: "https://youtu.be/2sHTD51LB3I",
                     percent: 100,
                     hz: "240hz"
                 },
