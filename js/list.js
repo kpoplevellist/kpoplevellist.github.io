@@ -1296,7 +1296,7 @@ const d = {
             vids: [
 				{
                     user: "Acu83",
-                    link: "https://youtu.be/LBheY8NAhQU",
+                    link: "https://www.youtube.com/watch?v=LBheY8NAhQU",
                     percent: 100,
                     hz: "240hz"
                 },
