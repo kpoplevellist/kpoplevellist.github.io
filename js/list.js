@@ -3375,6 +3375,12 @@ const d = {
         /*=================================================================================*/
 		{
             vids: [
+				{
+                    user: "PiaNoMen",
+                    link: "https://youtu.be/PHwC9ahUErM",
+                    percent: 100,
+                    hz: "144hz (mobile)"
+                },
             ],
             name: "BANG BANG",
             author: "issanagay",
